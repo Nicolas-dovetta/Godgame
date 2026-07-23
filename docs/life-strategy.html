@@ -438,22 +438,20 @@
     <h3 style="font-family:var(--serif); font-size:23px; margin:38px 0 6px;">The cadence is the cost governor</h3>
     <p class="section-lede" style="margin-bottom:20px;">
       One turn per night is the free-tier default — the mortals live overnight, the god reads the
-      morning's prayers and moves. That single design choice, plus routing each turn to the cheapest
-      model that fits it, is what makes the unit economics work. At ~30 turns/month a free player costs
-      <strong>cents</strong>. Paid tiers sell <em>more cadence</em>, not a different product — and the
-      daily ritual is a proven retention loop (the Wordle/streak pattern).
+      morning's prayers and moves. That single design choice, plus running each turn on the cheapest
+      Grok tier that fits it, is what makes the unit economics work. At ~30 turns/month a free player
+      costs <strong>cents</strong>. Monthly sells <em>more cadence and a better model</em>, not a
+      different product — and the daily ritual is a proven retention loop (the Wordle/streak pattern).
     </p>
     <div class="table-scroll">
       <table>
         <thead>
-          <tr><th>Engine for the turn</th><th class="num">$/1M in · out</th><th class="num">~Cost / turn</th><th class="num">Free tier<br>1 turn/night</th></tr>
+          <tr><th>Grok tier for the turn</th><th class="num">$/1M in · out</th><th class="num">~Cost / turn</th><th class="num">Cost / user·month</th></tr>
         </thead>
         <tbody>
-          <tr><td><b>Grok 4.1 Fast</b> — bookkeeping, fast-forward</td><td class="num">$0.20 · $0.50</td><td class="num">~$0.004</td><td class="num">~$0.11/mo</td></tr>
-          <tr><td><b>Haiku 4.5</b> — cheap world-sim</td><td class="num">$1 · $5</td><td class="num">~$0.02</td><td class="num">~$0.60/mo</td></tr>
-          <tr class="accent-row"><td><b>Sonnet 5</b> — the default narrator</td><td class="num">$2 · $10*</td><td class="num">~$0.04</td><td class="num">~$1.20/mo</td></tr>
-          <tr><td><b>Grok 4.5</b> — darker narrator option</td><td class="num">$2 · $6</td><td class="num">~$0.04</td><td class="num">~$1.20/mo</td></tr>
-          <tr><td><b>Opus 4.8</b> — Breach-tier spectacle only</td><td class="num">$5 · $25</td><td class="num">~$0.11</td><td class="num">~$3.30/mo</td></tr>
+          <tr class="accent-row"><td><b>Grok 4.1 Fast</b> — Free tier + all bookkeeping</td><td class="num">$0.20 · $0.50</td><td class="num">~$0.004</td><td class="num">~$0.11 · 1/night</td></tr>
+          <tr><td><b>Grok 4.5</b> — Monthly "better model" narrator</td><td class="num">$2 · $6</td><td class="num">~$0.04</td><td class="num">~$4.80 · 4/day</td></tr>
+          <tr><td><b>Grok 3 Mini</b> — legacy cheap fallback</td><td class="num">$0.30 · $0.50</td><td class="num">~$0.006</td><td class="num">—</td></tr>
         </tbody>
       </table>
     </div>
@@ -463,19 +461,20 @@
         <h3>Cadence solves the margin; the mechanic still meters it</h3>
         <p>
           Capping the free tier at one turn/night turns the old "heavy users lose money" fear into a
-          non-issue: a free player costs <b>cents to a couple dollars a month</b>, even on a premium
-          model. Paid tiers sell more turns/day; a $12 player at 3–5 turns/day still costs only ~$4–6 to
-          serve. <b>Grace top-ups</b> cover the true bingers, and <b>prompt caching (~90% off the stable
-          ruleset)</b> plus routing bookkeeping to Grok Fast / Haiku keep every turn cheap.
+          non-issue: a free player costs <b>~$0.11 a month</b> on fast Grok. Monthly caps at 4 turns/day
+          on the better model — a $12 subscriber still costs only <b>~$5 to serve</b>. <b>Grace packs</b>
+          cover the true bingers, and <b>prompt caching (~90% off the stable ruleset)</b> plus running
+          all bookkeeping on Grok Fast keep every turn cheap.
         </p>
       </div>
     </div>
     <p class="assumptions">
       <b>Assumptions.</b> Illustrative, not a forecast. Per-turn costs assume retrieval-bounded context
-      (~20K tokens read, not the full chronicle) with the stable ruleset cached. *Sonnet 5 at its intro
-      rate (standard $3/$15); Grok rates per xAI, July 2026. Hosting (DB, vector store, storage) is a
-      rounding error next to inference — ~$0.50–$2 per active user per <em>year</em>. Provider prices
-      move; multi-model routing is a margin-and-leverage hedge, not a bet on any one vendor.
+      (~20K tokens read, not the full chronicle) with the stable ruleset cached; Grok rates per xAI,
+      July 2026. Moderation adds ~$0.001–0.005/turn (free/open classifiers). Hosting (DB, vector store,
+      storage) is a rounding error next to inference — ~$0.50–$2 per active user per <em>year</em>.
+      Single-provider on Grok is a deliberate simplification (see the risks); the owned-model path later
+      is a fine-tuned open model trained on your own turns.
     </p>
   </div>
 </section>
@@ -483,68 +482,45 @@
 <section id="pricing">
   <div class="wrap">
     <p class="eyebrow">Pricing</p>
-    <h2>Sell the budget the god already spends</h2>
+    <h2>Two prices — and the meter is the mechanic</h2>
     <p class="section-lede">
-      Subscription for the ongoing relationship; consumable <strong>Grace</strong> for the intense
-      seasons. The tiers double as difficulty settings, so upgrading is a gameplay choice, not just a
-      paywall.
+      One line to explain: <strong>Free</strong> to fall in love, <strong>Monthly</strong> for the real
+      game. Everything else — new words, new worlds, more Grace — is a one-off you buy when you want it.
+      "Grace" is the god's in-fiction budget, so buying it is buying turns the player already believes in.
     </p>
-    <div class="price-grid">
+    <div class="price-grid" style="grid-template-columns:repeat(2,1fr); max-width:640px;">
       <div class="plan">
-        <span class="p-name">Mortal</span>
-        <div class="p-price">Free</div>
-        <p class="p-tag">Fall in love with one town.</p>
+        <span class="p-name">Free · Mortal</span>
+        <div class="p-price">$0</div>
+        <p class="p-tag">One turn a night. Fall in love with one town.</p>
         <ul>
-          <li>One world, <b>Peaceful</b> mode</li>
-          <li>Small daily Grace budget</li>
-          <li>Emotions always free</li>
-          <li>Read-only chronicle export</li>
+          <li><b>1 turn / night</b> — the daily ritual</li>
+          <li>Runs on fast Grok; emotions always free</li>
+          <li>Data-shared (consented) — funds the tier</li>
+          <li>One world, read-only chronicle export</li>
         </ul>
       </div>
       <div class="plan featured">
-        <span class="p-name">Deity · popular</span>
+        <span class="p-name">Monthly · Deity</span>
         <div class="p-price">$12<small>/mo</small></div>
-        <p class="p-tag">The real game — hard mode, alive daily.</p>
+        <p class="p-tag">The real game — deeper, faster, better told.</p>
         <ul>
-          <li><b>Hard mode</b> + full Grace/season</li>
+          <li><b>4 turns / day</b> + Hard mode</li>
+          <li><b>Better model</b> (Grok 4.5) — richer scenes</li>
           <li>Multiple worlds &amp; save branches</li>
-          <li>Faster world-sim, more characters</li>
-          <li><b>Choose your narrator</b> + Opus for big beats</li>
-        </ul>
-      </div>
-      <div class="plan">
-        <span class="p-name">Grace packs</span>
-        <div class="p-price">$5+<small>/pack</small></div>
-        <p class="p-tag">Buy divine budget for a hard season.</p>
-        <ul>
-          <li><b>Consumable</b> turns / Grace</li>
-          <li>The whale &amp; heavy-user lane</li>
-          <li>In-fiction: literally buying miracles</li>
-          <li>Aligns spend with real compute cost</li>
-        </ul>
-      </div>
-      <div class="plan">
-        <span class="p-name">Pantheon · Pro</span>
-        <div class="p-price">$25<small>/mo</small></div>
-        <p class="p-tag">For creators &amp; storytellers.</p>
-        <ul>
-          <li>Custom settings &amp; rulesets</li>
-          <li><b>Publish &amp; share</b> worlds</li>
-          <li>Own-your-save git export</li>
-          <li>Streamer / community tools</li>
+          <li>No data-sharing required</li>
         </ul>
       </div>
     </div>
     <div class="grace-note" style="margin-top:26px;">
-      <span class="gn-mark">🗣️</span>
+      <span class="gn-mark">✦</span>
       <div>
-        <h3>Choose your narrator — model as a feature, not a cost line</h3>
+        <h3>À la carte — the margin upside sits here</h3>
         <p>
-          Let players pick the voice of their world: <b>Claude</b> (warm, literary, wholesome) or
-          <b>Grok</b> (darker, irreverent, unflinching — a fit for the survival-horror turn), behind a
-          safety layer. Under the hood every turn routes to the cheapest model that fits it; the narrator
-          dial is where that routing surfaces as a <b>personality knob and a paid perk</b> instead of a
-          hidden line item — and something competitors can't cheaply copy.
+          On top of either tier, one-off purchases: <b>new words &amp; experiences</b> (settings,
+          scenarios, tones — the survival-horror pack, the noir pack) and <b>Grace packs</b> (consumable
+          turns for a binge). One-time spend, aligned 1:1 with real compute — the whales and the "just
+          one more turn at 2am" players pay their own way without a bigger subscription.
         </p>
       </div>
     </div>
@@ -582,6 +558,54 @@
         <div class="gc-head"><span class="gc-num">04</span><h3>Referral in the currency</h3></div>
         <p>Invites grant <b>Grace</b>, not discounts — a viral loop denominated in the game's own budget.
         Community showcases and chapter-title leaderboards keep retention social.</p>
+      </div>
+    </div>
+  </div>
+</section>
+
+<section id="compliance">
+  <div class="wrap">
+    <p class="eyebrow">Compliance &amp; safety</p>
+    <h2>Launchable at $0 — mature, not explicit</h2>
+    <p class="section-lede">
+      Choosing <strong>mature but non-explicit</strong> is what makes zero-capex compliance real: it
+      removes the two expensive things — paid ID verification and high-risk adult payments — and keeps
+      you on Stripe and the app stores. The whole safety stack is free or open-source, with you as the
+      reviewer at launch. Grok is permissive, so <strong>your moderation layer is the brake, not the
+      model.</strong>
+    </p>
+    <div class="gtm-grid">
+      <div class="gtm-card">
+        <div class="gc-head"><span class="gc-num">01</span><h3>Moderation — free</h3></div>
+        <p>Screen every <b>input</b> and every <b>output</b>: OpenAI's free Moderation API plus an open
+        safety model (<b>Llama Guard</b> / <b>ShieldGemma</b>). Log everything. ~$0.001–0.005/turn.</p>
+      </div>
+      <div class="gtm-card">
+        <div class="gc-head"><span class="gc-num">02</span><h3>Age gate — free</h3></div>
+        <p>Self-attestation + a <b>Mature 17+</b> rating + geo-block the few restricted regions.
+        Non-explicit means <b>no paid ID verification</b> — that's the money the fork just saved.</p>
+      </div>
+      <div class="gtm-card">
+        <div class="gc-head"><span class="gc-num">03</span><h3>CSAM / NCMEC — free, mandatory</h3></div>
+        <p>Enforce character-age in any romantic context, register as an ESP, wire the report path, and
+        <b>review it yourself</b> at MVP scale. Free to run, legally required, live from turn one.</p>
+      </div>
+      <div class="gtm-card">
+        <div class="gc-head"><span class="gc-num">04</span><h3>Payments &amp; hosting — $0 capex</h3></div>
+        <p><b>Stripe</b> pay-as-you-go (fees only when you earn), <b>PWA-first</b> to skip store fees,
+        free-tier backend. xAI's ~$175/mo free credits cover early Grok usage.</p>
+      </div>
+    </div>
+    <div class="grace-note" style="margin-top:22px;">
+      <span class="gn-mark">⚠️</span>
+      <div>
+        <h3>The one place $0 carries real risk: legal</h3>
+        <p>
+          Free templates (Termly / iubenda) get you launched, but an AI product with a data-sharing deal
+          and CSAM obligations wants a lawyer's eyes. You don't need a firm on day one — book a
+          <b>one-time ~$500–1.5k review</b> the moment you have a paying month. Everything else above is
+          safely free. <em>Not legal advice; validate against your jurisdictions.</em>
+        </p>
       </div>
     </div>
   </div>
@@ -629,9 +653,9 @@
           <span class="r-name">Safety &amp; moderation at scale</span>
           <span class="r-body"> Dark themes + companion dynamics is exactly the minefield that scarred AI Dungeon. Non-negotiable, expensive, and never "done."</span>
         </div>
-        <div class="risk mit">
-          <span class="r-name">Platform dependency → owned model</span>
-          <span class="r-body"> You resell a provider's tokens today. <em>Multi-provider routing (Claude / Grok / open models) hedges price and leverage now; the long game is that every turn is proprietary training data — fine-tune a bespoke "LIFE engine" that's cheap, on-voice, and hard to copy. Your data → your model → your moat.</em></span>
+        <div class="risk">
+          <span class="r-name">Single-provider dependency (Grok)</span>
+          <span class="r-body"> One vendor for generation — a price or policy change lands directly on you, and xAI's data-sharing terms shape the free tier. <em>Mitigated over time by fine-tuning an open model on your own accumulated turns — cheap, on-voice, and yours. Your data → your model → your moat.</em></span>
         </div>
         <div class="risk mit">
           <span class="r-name">Retention past novelty</span>

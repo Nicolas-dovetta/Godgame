@@ -42,65 +42,76 @@ A "turn" = read a slice of world state (retrieval-bounded, ~20K tokens, not the
 whole chronicle) + generate a scene (~1.5K tokens), with the stable ruleset
 prompt-cached (~90% off that portion). **One turn per night is the free-tier
 default** — the mortals live overnight, the god reads the morning's prayers and
-moves. At ~30 turns/month:
+moves. **Engine is Grok-only** (a deliberate simplification); route each turn to
+the cheapest Grok tier that fits it.
 
-| Engine for the turn | $/1M (in · out) | ~Cost/turn | Free tier (1/night) |
+| Grok tier for the turn | $/1M (in · out) | ~Cost/turn | Cost / user·month |
 |---|---|---|---|
-| **Grok 4.1 Fast** — bookkeeping, fast-forward | $0.20 · $0.50 | ~$0.004 | ~$0.11/mo |
-| **Haiku 4.5** — cheap world-sim | $1 · $5 | ~$0.02 | ~$0.60/mo |
-| **Sonnet 5** — default narrator | $2 · $10\* | ~$0.04 | ~$1.20/mo |
-| **Grok 4.5** — darker narrator option | $2 · $6 | ~$0.04 | ~$1.20/mo |
-| **Opus 4.8** — Breach-tier spectacle only | $5 · $25 | ~$0.11 | ~$3.30/mo |
+| **Grok 4.1 Fast** — Free tier + all bookkeeping | $0.20 · $0.50 | ~$0.004 | ~$0.11 · 1/night |
+| **Grok 4.5** — Monthly "better model" narrator | $2 · $6 | ~$0.04 | ~$4.80 · 4/day |
+| **Grok 3 Mini** — legacy cheap fallback | $0.30 · $0.50 | ~$0.006 | — |
 
-\*Sonnet 5 intro rate (standard $3/$15). Grok rates per xAI, July 2026.
+Grok rates per xAI, July 2026. Moderation adds ~$0.001–0.005/turn (free/open
+classifiers). Hosting is a rounding error — ~$0.50–$2 per active user per *year*.
 
-**Conclusion.** Capping the free tier at one turn/night turns the old "heavy users
-lose money" fear into a non-issue — a free player costs cents to a couple dollars
-a month, even on a premium model. Paid tiers sell *more cadence* (turns/day,
-faster sim, more towns); a $12 player at 3–5 turns/day still costs only ~$4–6 to
-serve. **Grace top-ups** cover the true bingers. The daily ritual is also a proven
-retention loop (the Wordle/streak pattern). Hosting (DB, vector store, storage) is
-a rounding error next to inference — ~$0.50–$2 per active user per *year*.
+**Conclusion.** Capping the free tier at one turn/night makes it cost ~$0.11/mo on
+fast Grok — sustainable as a pure, data-shared funnel. Monthly caps at 4 turns/day
+on the better model, so a $12 subscriber still costs only ~$5 to serve — healthy
+margin. **Grace packs** cover the true bingers. The daily ritual is also a proven
+retention loop (the Wordle/streak pattern). xAI's ~$175/mo free API credits (via
+the data-sharing program) cover a lot of early usage — and fit the free-tier deal
+directly.
 
-**Cheapest model with good quality:** **Sonnet 5 as the default narrator** (this
-game's magic is long-range coherence and emotional nuance — Haiku's tier shows its
-limits there), with **Haiku 4.5 / Grok 4.1 Fast for mechanical work** (bookkeeping,
-memory-folding, RAG summaries, "skip a week" fast-forwards) and **Opus 4.8 reserved**
-for Breach-tier spectacle and year-end reckonings. Blended, a typical turn is
-~$0.03–0.05.
+## Multi-model note (Grok-only for now)
 
-## Multi-model strategy (creative)
+Committing to Grok simplifies the build and fits the mature/edgy tone (Grok is
+permissive). Trade-off: single-provider dependency (see risks). Keep in the back
+pocket: *Grok* (xAI, the model) vs *Groq* (the LPU chip company) — Groq/Cerebras
+serve open-weight models fast and cheap for a future "instant scene" speed tier.
+**The owned-model moat:** every turn is a proprietary, emotionally-coherent
+training example; with volume, fine-tune an *open* model (you can't fine-tune
+Grok) into a bespoke "LIFE engine" — cheap, on-voice, and yours.
 
-- **Choose your narrator.** Model choice is a *feature*, not a hidden cost line —
-  Claude (warm, literary, wholesome) vs Grok (darker, irreverent, unflinching, a
-  fit for the survival-horror turn), behind a safety layer. A personality knob and
-  a paid perk competitors can't cheaply copy.
-- **Route by task, stay provider-agnostic.** Cheap model for bookkeeping/
-  fast-forward, mid model for the god's moves, top model for spectacle.
-  Multi-provider = margin arbitrage + negotiating leverage + resilience.
-- **Cheap hardware for the "instant scene" feel.** Note the name collision: *Grok*
-  (xAI, the model) vs *Groq* (the LPU chip company). Groq/Cerebras serve
-  open-weight models fast and cheap — near-instant streaming, and the mechanical
-  tier trends toward ~zero at scale.
-- **The owned-model moat.** Every turn is a proprietary, emotionally-coherent
-  god-game training example. With volume, fine-tune a bespoke "LIFE engine" that's
-  cheap, fast, on-voice, and hard to replicate. Your data → your model → your
-  margins.
+## Pricing — two prices + à la carte
 
-## Pricing
-
-- **Mortal (free):** one turn/night, Peaceful mode, one world. Emotions always
-  free. Near-zero to serve; pure funnel.
-- **Deity (~$12/mo):** Hard mode, full Grace/season, multiple worlds & save
-  branches, faster sim, more characters, **choose your narrator** + Opus for big
-  beats.
-- **Grace packs ($5+):** consumable turns/Grace — the whale & heavy-user lane;
-  in-fiction, literally buying miracles.
-- **Pantheon Pro (~$25/mo):** custom settings/rulesets, publish & share worlds,
-  own-your-save git export, streamer tools.
+- **Free · Mortal ($0):** 1 turn/night, fast Grok, emotions always free, one
+  world, read-only chronicle export. **Data-shared (consented)** — that funds the
+  tier. Costs ~$0.11/user/month; pure funnel.
+- **Monthly · Deity (~$12/mo):** 4 turns/day, Hard mode, **better model (Grok
+  4.5)**, multiple worlds & save branches, no data-sharing required.
+- **À la carte (one-off, on either tier):** **new words & experiences** (settings,
+  scenarios, tones — survival-horror pack, noir pack) and **Grace packs**
+  (consumable turns for a binge). This is where the margin upside sits.
 
 The mechanic is the meter: "Grace" (the god's in-fiction budget) maps 1:1 onto
 compute, so selling it is selling turns the player already believes in.
+
+## Compliance & safety — launchable at $0 (mature, not explicit)
+
+Choosing **mature but non-explicit** is what makes zero-capex compliance real: it
+removes paid ID verification and high-risk adult payments, and keeps you on Stripe
+and the app stores. Grok is permissive, so **your moderation layer is the brake,
+not the model.**
+
+- **Moderation (free):** screen every input *and* output with OpenAI's free
+  Moderation API + an open safety model (Llama Guard / ShieldGemma). Log
+  everything. ~$0.001–0.005/turn. Build: `input → moderate → character-age check →
+  Grok → moderate output → log → show`, plus a Report button → review queue.
+- **Age gate (free):** self-attestation + a Mature 17+ (IARC) rating + geo-block
+  restricted regions. Non-explicit ⇒ **no paid ID verification** (the saved cost).
+- **CSAM / NCMEC (free, mandatory):** enforce character-age in any romantic/sexual
+  context (block "aged-up"/"looks young" evasions); register as an ESP; wire the
+  CyberTipline report path; you review at MVP scale. Legally required (18 U.S.C.
+  §2258A), live from turn one.
+- **Payments & hosting ($0 capex):** Stripe pay-as-you-go (fees only when you
+  earn), **PWA-first** to skip store fees, free-tier backend.
+- **xAI AUP:** "only Grok" still binds you to xAI's terms — moderation keeps you
+  inside them too, and the free-tier data-sharing must be clearly consented.
+
+**The one place $0 carries real risk — legal.** Free templates (Termly/iubenda)
+launch you, but an AI product with a data-sharing deal + CSAM obligations wants a
+lawyer's eyes: book a **one-time ~$500–1.5k review** once you have a paying month.
+*(Not legal advice; validate against your jurisdictions.)*
 
 ## Market (illustrative)
 
@@ -141,10 +152,11 @@ Referral in the currency — invites grant Grace, not discounts.
 - ~8% — a category-defining breakout at Character.AI scale.
 
 **Top risks:** long-term memory/consistency (the core unsolved tech bet — a town
-that forgets breaks the promise); safety & moderation at scale; retention past
-novelty. **Now largely mitigated:** unit economics (solved by the daily cadence +
-routing) and platform dependency (multi-provider routing now, an owned fine-tuned
-model later).
+that forgets breaks the promise); safety & moderation at scale (you are the brake,
+not Grok); single-provider dependency (Grok — a price/policy change lands on you,
+mitigated later by a fine-tuned open model); retention past novelty. **Now largely
+mitigated:** unit economics (solved by the daily cadence, Grok Fast for
+bookkeeping, and caching).
 
 **Bottom line:** build the memory layer and the meter first, route every turn to
 the cheapest model that fits, and let the daily ritual do the retention work.
