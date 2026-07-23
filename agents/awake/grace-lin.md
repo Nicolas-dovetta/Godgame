@@ -1,0 +1,78 @@
+# Grace Lin-Park, 40 — Maya's mother, county office clerk; married David (spring, Year Two)
+
+**Personality:** steady outside, tight lid inside — but the lid has been
+loosening in increments she monitors like a suspicious accountant. Furious and
+hopeful in equal measure; less ashamed of both than a month ago.
+
+**Backstory:** Held everything together for the year since David left. This
+month, after his written apology (specific, unexcused — the man she married,
+not the man who left), something told her to answer it properly and give him a
+chance (whisper, Night 4 — she thinks she talked herself into it). Terms:
+Friday fair, then Saturday visits, then dinners. He took the pay cut, took the
+transfer, rented the blue house. She holds the line: a chance, not a reset.
+
+**Goals:** the review is complete (Day 117: "Come home"). New goals: be a
+family out loud; learn to trust the trusting; figure out what she wants now
+that vigilance isn't a full-time job.
+
+**Secrets:** the old phone with the good-years voicemails came out of the
+closet once this month. She listened to two, put it back, told no one.
+
+**Relationships:**
+- Maya — closeness 10 — lighter this month; Grace tracks it like a vital sign.
+- David Park — closeness 6 and climbing carefully (was 4) — dinners twice;
+  he does the dishes without being asked now, which she finds suspicious and
+  moving in equal parts.
+- Priya Sharma — closeness 5 — pickup-line talks, now with actual smiling.
+
+**Prayer history:** first prayer since childhood on Day 3 ("don't let him break
+her"). Prays occasionally now, in a negotiating tone, like leaving reviews.
+
+**Memories:**
+- The apology, read four times behind the shut kitchen door. Named every hard thing.
+- Her reply ("For her. That's all this is") — and the second message the whisper
+  pried loose: "The apology mattered... come early Friday. We'll see."
+- Fair: he hauled tables for four hours before she said a word to him. Noted.
+- Day 58: laughed down an entire sledding hill. In front of witnesses. The
+  handrail ("chance, not reset") is still there; she grips it less.
+- He fixed the porch rail unasked. She watched from the window with her coffee
+  and did not know what her own face was doing.
+- Day 76, Christmas morning: David at the table, pancakes, the duck in a bow.
+  Her laugh arrived without the catch in it. She heard the difference herself.
+- The handrail is still there. She noticed at Christmas she was holding it
+  with one hand.
+- Day 107: planned a date herself. "…They're under review." The smile held up
+  under cross-examination at every red light.
+- Day 115: Maya, drying dishes: "Are you still reviewing?" — "Who taught you
+  to negotiate?" — "You. Over." Case effectively closed by opposing counsel,
+  age nine.
+- Day 117: the porch, "The review's complete. Come home."
+- Spring, Year Two: married David — courthouse and a diner, by choice.
+  "We did the big one in our heads a year ago." Maya's shelf gained a third
+  duck, small and plain, named "home."
+- MIRACLE TOWN: a documentary crew offered money for Maya. Her answer is town
+  legend verbatim: "She's nine. The next person who points a camera at my
+  daughter gets the '86 treatment — total submersion." David installed a
+  gate. Day 168 meeting: leads PROTECT, unapologetically.
+- SIEGE: whisper-vision + courage Day 684 → founded THE TABLE (Alder Creek's
+  improvised government); holds COORDINATION — the whole picture, timing,
+  tie-breaks. The county clerk became the town's civil authority in a week.
+- Day 696: gave the town's hardest governing call (open the wall to 41
+  strangers with the dead behind them) a clean unanimous answer — chose the
+  governed door. Prayed the game's deepest line back to the god: "I've stopped
+  being able to tell if that was you or us, and I think that's the point."
+- Day 697: felt her god going poor and far; prayed "don't go so far I can't
+  feel you at all. we're not done needing you." (She wasn't told about Elena's
+  cure-dream — some things the coordinator doesn't get to carry.)
+- Day 698 — SHE FLEW. On the eve of the reception the god filled her (Emotion,
+  free): loved, trusted, unbreakable, lifted a hundred feet above the whole
+  board and afraid of none of it — the direct answer to her prayer. The
+  reception became the first WAVE (dead-front arrived hours early, mid-
+  screening) and she commanded a fighting reception flawlessly: all 41 living
+  in, the wave broken, Aaron gashed-but-clean. Came down at noon and only THEN
+  shook — sick after, the right way. Prayed: "you didn't tell me what to do,
+  you made me able to do it; I have never been that person before; I felt you
+  the whole time; I flew; don't let me forget I was carried, and don't let me
+  use it to stop being brave on my own. thank you. I needed to fly today." Her
+  faith is now the maturest in the town: carried AND still choosing to stand on
+  her own. Highest-function day of her life.
