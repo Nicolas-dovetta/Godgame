@@ -1,0 +1,703 @@
+<title>LIFE — Product Strategy</title>
+<style>
+  :root {
+    --ink: #12121b;
+    --ink-2: #1b1b28;
+    --panel: #191926;
+    --panel-2: #20202f;
+    --line: #2e2e42;
+    --line-soft: #26263699;
+    --text: #ece9f3;
+    --text-dim: #b7b3c9;
+    --text-faint: #857f9c;
+    --gold: #e0a860;
+    --gold-soft: #f0c98a;
+    --gold-glow: #e0a86033;
+    --flourish: #86b07a;
+    --faith: #e3b055;
+    --veil: #8a92b4;
+    --danger: #d0776b;
+    --paper: #12121b;
+    --radius: 14px;
+    --maxw: 1080px;
+    --serif: Georgia, 'Iowan Old Style', 'Palatino Linotype', 'Times New Roman', serif;
+    --sans: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif;
+    --mono: 'SF Mono', 'JetBrains Mono', 'Roboto Mono', Menlo, Consolas, monospace;
+  }
+  @media (prefers-color-scheme: light) {
+    :root {
+      --ink: #f4f2ee;
+      --ink-2: #ece8e2;
+      --panel: #fbfaf7;
+      --panel-2: #f3f0ea;
+      --line: #ddd7cc;
+      --line-soft: #e5e0d6;
+      --text: #241f2e;
+      --text-dim: #4f485e;
+      --text-faint: #857f92;
+      --gold: #a8752b;
+      --gold-soft: #c08e3e;
+      --gold-glow: #a8752b1f;
+      --flourish: #4d7a44;
+      --faith: #b07f24;
+      --veil: #5a6288;
+      --danger: #b1483a;
+      --paper: #f4f2ee;
+    }
+  }
+  :root[data-theme="dark"] {
+    --ink: #12121b; --ink-2: #1b1b28; --panel: #191926; --panel-2: #20202f;
+    --line: #2e2e42; --line-soft: #26263699; --text: #ece9f3; --text-dim: #b7b3c9;
+    --text-faint: #857f9c; --gold: #e0a860; --gold-soft: #f0c98a; --gold-glow: #e0a86033;
+    --flourish: #86b07a; --faith: #e3b055; --veil: #8a92b4; --danger: #d0776b; --paper: #12121b;
+  }
+  :root[data-theme="light"] {
+    --ink: #f4f2ee; --ink-2: #ece8e2; --panel: #fbfaf7; --panel-2: #f3f0ea;
+    --line: #ddd7cc; --line-soft: #e5e0d6; --text: #241f2e; --text-dim: #4f485e;
+    --text-faint: #857f92; --gold: #a8752b; --gold-soft: #c08e3e; --gold-glow: #a8752b1f;
+    --flourish: #4d7a44; --faith: #b07f24; --veil: #5a6288; --danger: #b1483a; --paper: #f4f2ee;
+  }
+
+  * { box-sizing: border-box; }
+  html { scroll-behavior: smooth; }
+  @media (prefers-reduced-motion: reduce) { html { scroll-behavior: auto; } }
+  body {
+    margin: 0;
+    background: var(--paper);
+    color: var(--text);
+    font-family: var(--sans);
+    font-size: 17px;
+    line-height: 1.65;
+    -webkit-font-smoothing: antialiased;
+  }
+  .wrap { max-width: var(--maxw); margin: 0 auto; padding: 0 28px; }
+
+  /* ---- eyebrow / labels ---- */
+  .eyebrow {
+    font-family: var(--mono);
+    font-size: 12px;
+    letter-spacing: 0.22em;
+    text-transform: uppercase;
+    color: var(--gold);
+    margin: 0 0 18px;
+    display: flex; align-items: center; gap: 12px;
+  }
+  .eyebrow::before {
+    content: ""; width: 26px; height: 1px; background: var(--gold); opacity: .6; display: inline-block;
+  }
+  h1, h2, h3 { font-family: var(--serif); font-weight: 600; text-wrap: balance; line-height: 1.1; }
+
+  /* ---- hero ---- */
+  .hero { position: relative; overflow: hidden; border-bottom: 1px solid var(--line); }
+  #stars { position: absolute; inset: 0; width: 100%; height: 100%; z-index: 0; }
+  .hero-glow {
+    position: absolute; z-index: 0; top: -30%; left: 50%; transform: translateX(-50%);
+    width: 900px; height: 700px; pointer-events: none;
+    background: radial-gradient(ellipse at center, var(--gold-glow) 0%, transparent 62%);
+  }
+  .hero-inner { position: relative; z-index: 1; padding: 96px 0 84px; }
+  .hero h1 {
+    font-size: clamp(42px, 7.2vw, 82px);
+    letter-spacing: -0.015em;
+    margin: 0 0 8px;
+  }
+  .hero h1 .lede-mark { color: var(--gold); font-style: italic; }
+  .hero .sub {
+    font-family: var(--serif); font-style: italic;
+    font-size: clamp(19px, 2.6vw, 27px);
+    color: var(--text-dim); margin: 0 0 30px; max-width: 30ch; line-height: 1.35;
+  }
+  .hero .deck {
+    max-width: 60ch; color: var(--text-dim); font-size: 18px; margin: 0 0 40px;
+  }
+  .hero .deck strong { color: var(--text); font-weight: 600; }
+
+  /* ---- gauge row ---- */
+  .gauges { display: grid; grid-template-columns: repeat(3, 1fr); gap: 14px; max-width: 720px; }
+  .gauge {
+    border: 1px solid var(--line); border-radius: var(--radius); padding: 16px 18px;
+    background: color-mix(in srgb, var(--panel) 70%, transparent);
+    backdrop-filter: blur(3px);
+  }
+  .gauge .g-top { display: flex; align-items: baseline; justify-content: space-between; gap: 8px; }
+  .gauge .g-name { font-family: var(--mono); font-size: 11px; letter-spacing: .14em; text-transform: uppercase; color: var(--text-faint); }
+  .gauge .g-val { font-family: var(--serif); font-size: 30px; font-weight: 600; font-variant-numeric: tabular-nums; }
+  .gauge .g-bar { height: 5px; border-radius: 3px; background: var(--line); margin-top: 12px; overflow: hidden; }
+  .gauge .g-fill { height: 100%; border-radius: 3px; }
+  .g-flourish .g-val, .g-flourish .g-name b { color: var(--flourish); }
+  .g-faith .g-val { color: var(--faith); }
+  .g-veil .g-val { color: var(--veil); }
+  .g-flourish .g-fill { background: var(--flourish); width: 96%; }
+  .g-faith .g-fill { background: var(--faith); width: 99%; }
+  .g-veil .g-fill { background: var(--veil); width: 87%; }
+  .gauge .g-note { font-size: 12.5px; color: var(--text-faint); margin-top: 9px; line-height: 1.4; }
+
+  /* ---- sections ---- */
+  section { padding: 74px 0; border-bottom: 1px solid var(--line-soft); }
+  section > .wrap > h2 {
+    font-size: clamp(28px, 4vw, 40px); margin: 0 0 14px; letter-spacing: -0.01em;
+  }
+  .section-lede { color: var(--text-dim); max-width: 64ch; font-size: 18px; margin: 0 0 40px; }
+  .section-lede strong { color: var(--text); }
+
+  /* ---- two-col architecture ---- */
+  .arch { display: grid; grid-template-columns: 1fr 1fr; gap: 22px; }
+  .arch-card {
+    border: 1px solid var(--line); border-radius: var(--radius); padding: 26px 26px 28px;
+    background: var(--panel); position: relative;
+  }
+  .arch-card.future { border-color: color-mix(in srgb, var(--gold) 45%, var(--line)); box-shadow: 0 0 0 1px var(--gold-glow), 0 20px 50px -30px var(--gold-glow); }
+  .arch-card h3 { font-size: 22px; margin: 0 0 4px; }
+  .arch-tag { font-family: var(--mono); font-size: 11px; letter-spacing: .16em; text-transform: uppercase; color: var(--text-faint); display: block; margin-bottom: 16px; }
+  .arch-card.future .arch-tag { color: var(--gold); }
+  .layer { display: flex; gap: 13px; padding: 12px 0; border-top: 1px solid var(--line-soft); }
+  .layer:first-of-type { border-top: none; }
+  .layer .l-key { font-family: var(--mono); font-size: 11.5px; letter-spacing: .04em; text-transform: uppercase; color: var(--text-faint); flex: 0 0 88px; padding-top: 2px; }
+  .layer .l-val { font-size: 15px; color: var(--text-dim); }
+  .layer .l-val b { color: var(--text); font-weight: 600; }
+  .limits { margin-top: 20px; padding-top: 18px; border-top: 1px dashed var(--line); }
+  .limits .lt { font-family: var(--mono); font-size: 11px; letter-spacing: .16em; text-transform: uppercase; color: var(--danger); margin-bottom: 8px; }
+  .limits ul, .wins ul { margin: 0; padding-left: 18px; }
+  .limits li, .wins li { font-size: 14.5px; color: var(--text-dim); margin-bottom: 6px; }
+  .wins .lt { color: var(--flourish); }
+
+  /* ---- tables ---- */
+  .table-scroll { overflow-x: auto; border: 1px solid var(--line); border-radius: var(--radius); background: var(--panel); }
+  table { border-collapse: collapse; width: 100%; min-width: 560px; }
+  th, td { text-align: left; padding: 14px 18px; border-bottom: 1px solid var(--line-soft); }
+  thead th {
+    font-family: var(--mono); font-size: 11px; letter-spacing: .12em; text-transform: uppercase;
+    color: var(--text-faint); font-weight: 400; background: var(--panel-2);
+  }
+  tbody tr:last-child td { border-bottom: none; }
+  td { font-size: 15px; color: var(--text-dim); }
+  td b, td strong { color: var(--text); font-weight: 600; }
+  .num { font-family: var(--mono); font-variant-numeric: tabular-nums; text-align: right; }
+  .accent-row td { background: var(--gold-glow); }
+  .accent-row td b { color: var(--gold-soft); }
+
+  /* ---- TAM funnel ---- */
+  .funnel { display: grid; gap: 10px; }
+  .tier {
+    border: 1px solid var(--line); border-radius: 12px; padding: 18px 22px; background: var(--panel);
+    display: grid; grid-template-columns: 74px 1fr auto; align-items: center; gap: 20px;
+  }
+  .tier .t-code { font-family: var(--mono); font-size: 13px; color: var(--gold); letter-spacing: .1em; }
+  .tier .t-label { font-family: var(--serif); font-size: 20px; }
+  .tier .t-desc { display: block; font-family: var(--sans); font-size: 13.5px; color: var(--text-faint); margin-top: 2px; }
+  .tier .t-num { font-family: var(--mono); font-size: 21px; font-variant-numeric: tabular-nums; color: var(--text); text-align: right; }
+  .tier .t-num small { display: block; font-size: 11px; color: var(--text-faint); letter-spacing: .08em; text-transform: uppercase; }
+  .tier.tam { border-color: var(--line); }
+  .tier.som { border-color: color-mix(in srgb, var(--gold) 50%, var(--line)); background: color-mix(in srgb, var(--gold-glow) 60%, var(--panel)); }
+
+  /* ---- pricing ---- */
+  .price-grid { display: grid; grid-template-columns: repeat(4, 1fr); gap: 16px; }
+  .plan {
+    border: 1px solid var(--line); border-radius: var(--radius); padding: 24px 22px 26px; background: var(--panel);
+    display: flex; flex-direction: column;
+  }
+  .plan.featured { border-color: var(--gold); box-shadow: 0 0 0 1px var(--gold-glow), 0 24px 60px -34px var(--gold-glow); }
+  .plan .p-name { font-family: var(--mono); font-size: 11px; letter-spacing: .16em; text-transform: uppercase; color: var(--text-faint); }
+  .plan.featured .p-name { color: var(--gold); }
+  .plan .p-price { font-family: var(--serif); font-size: 34px; margin: 10px 0 2px; font-variant-numeric: tabular-nums; }
+  .plan .p-price small { font-size: 14px; color: var(--text-faint); font-family: var(--sans); }
+  .plan .p-tag { font-size: 13px; color: var(--text-dim); margin: 0 0 16px; min-height: 34px; }
+  .plan ul { list-style: none; margin: 0; padding: 0; display: grid; gap: 9px; }
+  .plan li { font-size: 13.5px; color: var(--text-dim); padding-left: 20px; position: relative; line-height: 1.4; }
+  .plan li::before { content: "◦"; position: absolute; left: 3px; color: var(--gold); }
+  .plan li b { color: var(--text); }
+
+  .grace-note {
+    margin-top: 26px; border: 1px solid color-mix(in srgb, var(--gold) 40%, var(--line));
+    border-radius: var(--radius); padding: 22px 26px; background: var(--gold-glow);
+    display: flex; gap: 18px; align-items: flex-start;
+  }
+  .grace-note .gn-mark { font-size: 26px; line-height: 1; }
+  .grace-note h3 { font-size: 18px; margin: 0 0 6px; color: var(--gold-soft); }
+  .grace-note p { margin: 0; font-size: 14.5px; color: var(--text-dim); }
+  .grace-note p b { color: var(--text); }
+
+  /* ---- gtm ---- */
+  .gtm-grid { display: grid; grid-template-columns: repeat(2, 1fr); gap: 18px; }
+  .gtm-card { border: 1px solid var(--line); border-radius: var(--radius); padding: 22px 24px; background: var(--panel); }
+  .gtm-card .gc-head { display: flex; align-items: baseline; gap: 12px; margin-bottom: 8px; }
+  .gtm-card .gc-num { font-family: var(--mono); font-size: 12px; color: var(--gold); letter-spacing: .1em; }
+  .gtm-card h3 { font-size: 18px; margin: 0; }
+  .gtm-card p { margin: 0; font-size: 14.5px; color: var(--text-dim); }
+  .gtm-card p b { color: var(--text); }
+
+  /* ---- verdict ---- */
+  .verdict { display: grid; grid-template-columns: 1.1fr 1fr; gap: 34px; align-items: start; }
+  .prob {
+    border: 1px solid var(--line); border-radius: var(--radius); padding: 28px; background: var(--panel);
+  }
+  .prob-item { margin-bottom: 22px; }
+  .prob-item:last-child { margin-bottom: 0; }
+  .prob-item .pi-top { display: flex; justify-content: space-between; align-items: baseline; margin-bottom: 8px; }
+  .prob-item .pi-label { font-size: 14.5px; color: var(--text-dim); max-width: 28ch; }
+  .prob-item .pi-pct { font-family: var(--serif); font-size: 26px; font-variant-numeric: tabular-nums; }
+  .prob-item .pi-bar { height: 8px; border-radius: 5px; background: var(--line); overflow: hidden; }
+  .prob-item .pi-fill { height: 100%; border-radius: 5px; }
+  .p-hit .pi-pct { color: var(--flourish); } .p-hit .pi-fill { background: var(--flourish); }
+  .p-mid .pi-pct { color: var(--faith); } .p-mid .pi-fill { background: var(--faith); }
+  .p-low .pi-pct { color: var(--veil); } .p-low .pi-fill { background: var(--veil); }
+
+  .risks { display: grid; gap: 12px; }
+  .risk { border-left: 3px solid var(--danger); padding: 4px 0 4px 16px; }
+  .risk.mit { border-left-color: var(--flourish); }
+  .risk .r-name { font-weight: 600; font-size: 15px; color: var(--text); }
+  .risk .r-body { font-size: 14px; color: var(--text-dim); }
+  .risk .r-body em { color: var(--gold-soft); font-style: normal; }
+
+  .kicker {
+    margin-top: 40px; border-top: 1px solid var(--line); padding-top: 32px;
+    font-family: var(--serif); font-style: italic; font-size: clamp(20px, 2.6vw, 26px);
+    color: var(--text); text-wrap: balance; max-width: 40ch;
+  }
+  .kicker span { color: var(--gold); }
+
+  footer { padding: 40px 0 60px; }
+  footer .wrap { display: flex; justify-content: space-between; flex-wrap: wrap; gap: 12px; color: var(--text-faint); font-size: 13px; font-family: var(--mono); letter-spacing: .04em; }
+
+  .assumptions { font-size: 12.5px; color: var(--text-faint); margin-top: 16px; line-height: 1.5; }
+  .assumptions b { color: var(--text-dim); font-weight: 600; }
+
+  @media (max-width: 760px) {
+    body { font-size: 16px; }
+    .arch, .verdict, .gtm-grid, .price-grid { grid-template-columns: 1fr; }
+    .gauges { grid-template-columns: 1fr; max-width: 420px; }
+    .tier { grid-template-columns: 54px 1fr; }
+    .tier .t-num { grid-column: 2; text-align: left; margin-top: 6px; }
+    section { padding: 54px 0; }
+    .hero-inner { padding: 68px 0 56px; }
+  }
+</style>
+
+<div class="hero">
+  <canvas id="stars"></canvas>
+  <div class="hero-glow"></div>
+  <div class="hero-inner">
+    <div class="wrap">
+      <p class="eyebrow">Product Strategy · An AI-native game</p>
+      <h1><span class="lede-mark">LIFE</span> — the game<br>with no code.</h1>
+      <p class="sub">You play god. A small town lives, prays, and remembers.</p>
+      <p class="deck">
+        There is no game engine and no API. <strong>Claude is the engine.</strong>
+        The world is markdown, every turn is a git commit, and the save file is the
+        repository itself. Today it is a working single-player prototype — 806 in-game
+        days, 20+ persistent characters, three "chapters" on the shelf. This is the
+        case for turning that prototype into a product.
+      </p>
+      <div class="gauges" aria-label="The three gauges from the live save">
+        <div class="gauge g-flourish">
+          <div class="g-top"><span class="g-name">🌱 Flourishing</span><span class="g-val">96</span></div>
+          <div class="g-bar"><div class="g-fill"></div></div>
+          <p class="g-note">The town's wellbeing — the product's retention proxy.</p>
+        </div>
+        <div class="gauge g-faith">
+          <div class="g-top"><span class="g-name">🕯️ Faith</span><span class="g-val">99</span></div>
+          <div class="g-bar"><div class="g-fill"></div></div>
+          <p class="g-note">Do they believe someone listens? Faith is the interface.</p>
+        </div>
+        <div class="gauge g-veil">
+          <div class="g-top"><span class="g-name">🌫️ Veil</span><span class="g-val">87</span></div>
+          <div class="g-bar"><div class="g-fill"></div></div>
+          <p class="g-note">Can anything be proven? The core creative tension.</p>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+
+<section id="what">
+  <div class="wrap">
+    <p class="eyebrow">The thing itself</p>
+    <h2>A new category, not a new title</h2>
+    <p class="section-lede">
+      LIFE isn't a role-playing game with an AI bolted on — it's an <strong>emergent, persistent
+      narrative</strong> that the model authors turn by turn. The world generates its own trouble
+      and wonder (a plague, a siege, a stranger on the west road); consequences are permanent;
+      the town remembers what you did to it. The nearest comparables — AI Dungeon, Character.AI —
+      proved the appetite is enormous. LIFE's difference is <strong>structure</strong>: gauges,
+      a Grace budget, and year-end reckonings give the open-endedness a spine, and give us a
+      monetization surface that the fiction itself justifies.
+    </p>
+    <div class="arch">
+      <div class="arch-card">
+        <span class="arch-tag">Why it's sticky</span>
+        <h3>Emotion, not content</h3>
+        <div class="wins">
+          <ul>
+            <li><b>Permanence.</b> The dead stay dead unless you pay the price to raise them — and what comes back may come back wrong.</li>
+            <li><b>Memory.</b> Characters carry ~15 memories each; the town references its own history.</li>
+            <li><b>Moral weight.</b> "Anything is possible, nothing is free." Every act chains into the next arc.</li>
+            <li><b>Shareability.</b> The chronicle is a story worth screenshotting — the marketing is the gameplay.</li>
+          </ul>
+        </div>
+      </div>
+      <div class="arch-card future">
+        <span class="arch-tag">The wedge</span>
+        <h3>The mechanic is the meter</h3>
+        <div class="wins">
+          <ul>
+            <li><b>Grace = compute.</b> The in-fiction budget the god spends each season maps one-to-one onto inference cost.</li>
+            <li>Selling "Grace" is selling turns — <b>monetization the player already believes in.</b></li>
+            <li>Emotions are free forever, so a lapsed/free player is never locked out of the tender core.</li>
+            <li>Difficulty ramps every year → a reason to keep an active subscription running.</li>
+          </ul>
+        </div>
+      </div>
+    </div>
+  </div>
+</section>
+
+<section id="architecture">
+  <div class="wrap">
+    <p class="eyebrow">Current → Future</p>
+    <h2>The architecture</h2>
+    <p class="section-lede">
+      The prototype's elegance is also its ceiling. It's a single git repo a technical user drives
+      by hand — no UI, no accounts, and a chronicle that grows without bound until it strains the
+      context window and the town starts to forget. Productizing means keeping the magic (living
+      state, permanent consequences) while adding the plumbing (memory, multi-tenancy, cost control).
+    </p>
+    <div class="arch">
+      <div class="arch-card">
+        <h3>Today — the prototype</h3>
+        <span class="arch-tag">Single-player · repo-as-save</span>
+        <div class="layer"><span class="l-key">Engine</span><span class="l-val"><b>Claude</b>, prompted by a natural-language ruleset (<code>GAME.md</code>). No game code.</span></div>
+        <div class="layer"><span class="l-key">State</span><span class="l-val">Markdown files — chronicle, gauges, calendar, one file per character.</span></div>
+        <div class="layer"><span class="l-key">Save</span><span class="l-val"><b>Git.</b> Every turn is one commit; branches are alternate timelines.</span></div>
+        <div class="layer"><span class="l-key">Client</span><span class="l-val">Chat, in Claude Code / claude.ai. Driven by hand.</span></div>
+        <div class="limits">
+          <p class="lt">Where it breaks at scale</p>
+          <ul>
+            <li>Context ceiling — a 325 KB chronicle can't all be read each turn; the town drifts.</li>
+            <li>No accounts, no UI, no mobile; assumes a git-literate player.</li>
+            <li>Cost is uncontrolled and invisible; no way to meter a heavy user.</li>
+          </ul>
+        </div>
+      </div>
+      <div class="arch-card future">
+        <h3>Next — the product</h3>
+        <span class="arch-tag">Multi-tenant · managed worlds</span>
+        <div class="layer"><span class="l-key">Client</span><span class="l-val"><b>Web + mobile:</b> chat plus a living dashboard — gauges, town map, character cards, whisper log.</span></div>
+        <div class="layer"><span class="l-key">Orchestrator</span><span class="l-val">A turn-loop service that runs Night → Report → Move → Save and enforces token budgets.</span></div>
+        <div class="layer"><span class="l-key">Memory</span><span class="l-val"><b>Retrieval + rolling summaries</b> over a vector store — bounded context, a town that never forgets.</span></div>
+        <div class="layer"><span class="l-key">State</span><span class="l-val">Per-player world DB; <b>git export</b> kept as a premium "own your save" feature.</span></div>
+        <div class="layer"><span class="l-key">Models</span><span class="l-val">Tiered: <b>Haiku</b> for fast world-sim, <b>Opus</b> for the big dramatic beats. Prompt caching on the ruleset.</span></div>
+        <div class="layer"><span class="l-key">Trust</span><span class="l-val">A consistency checker + safety layer — the category's hardest, most necessary work.</span></div>
+      </div>
+    </div>
+  </div>
+</section>
+
+<section id="business">
+  <div class="wrap">
+    <p class="eyebrow">The business case</p>
+    <h2>Market &amp; model</h2>
+    <p class="section-lede">
+      LIFE sits at the seam of interactive fiction, AI companions, and narrative RPGs. Character.AI
+      reportedly draws tens of millions of monthly users at companion-app engagement levels; AI
+      Dungeon showed a single AI-native narrative game can pull seven figures of players. LIFE is
+      more cerebral — a god-game is a narrower, higher-intent audience than a chat companion — so we
+      size it conservatively and win on depth, not reach.
+    </p>
+
+    <div class="funnel" role="list" aria-label="Market sizing">
+      <div class="tier tam" role="listitem">
+        <span class="t-code">TAM</span>
+        <span><span class="t-label">AI-native interactive narrative</span><span class="t-desc">Interactive fiction + AI companion + narrative RPG players, globally</span></span>
+        <span class="t-num">100M+<small>curious users</small></span>
+      </div>
+      <div class="tier" role="listitem">
+        <span class="t-code">SAM</span>
+        <span><span class="t-label">Emergent / moral-choice players</span><span class="t-desc">English-first players drawn to consequence-driven, god-game depth</span></span>
+        <span class="t-num">~8M<small>reachable</small></span>
+      </div>
+      <div class="tier som" role="listitem">
+        <span class="t-code">SOM</span>
+        <span><span class="t-label">3-year obtainable base</span><span class="t-desc">Registered players on LIFE, ~10% converting to paid</span></span>
+        <span class="t-num">~1.2M<small>registered · ~120k paid</small></span>
+      </div>
+    </div>
+
+    <div class="table-scroll" style="margin-top:30px;">
+      <table>
+        <thead>
+          <tr><th>Illustrative model</th><th class="num">Registered</th><th class="num">Paid %</th><th class="num">Paying</th><th class="num">Blended ARPPU</th><th class="num">ARR</th></tr>
+        </thead>
+        <tbody>
+          <tr><td><b>Year 1</b> — niche launch</td><td class="num">60k</td><td class="num">5%</td><td class="num">3,000</td><td class="num">$12/mo</td><td class="num">~$0.4M</td></tr>
+          <tr><td><b>Year 2</b> — viral loops live</td><td class="num">350k</td><td class="num">8%</td><td class="num">28,000</td><td class="num">$12/mo</td><td class="num">~$4.0M</td></tr>
+          <tr class="accent-row"><td><b>Year 3</b> — mobile + creators</td><td class="num">1.2M</td><td class="num">10%</td><td class="num">120,000</td><td class="num">$12/mo</td><td class="num"><b>~$17M</b></td></tr>
+        </tbody>
+      </table>
+    </div>
+
+    <h3 style="font-family:var(--serif); font-size:23px; margin:38px 0 6px;">The cadence is the cost governor</h3>
+    <p class="section-lede" style="margin-bottom:20px;">
+      One turn per night is the free-tier default — the mortals live overnight, the god reads the
+      morning's prayers and moves. That single design choice, plus routing each turn to the cheapest
+      model that fits it, is what makes the unit economics work. At ~30 turns/month a free player costs
+      <strong>cents</strong>. Paid tiers sell <em>more cadence</em>, not a different product — and the
+      daily ritual is a proven retention loop (the Wordle/streak pattern).
+    </p>
+    <div class="table-scroll">
+      <table>
+        <thead>
+          <tr><th>Engine for the turn</th><th class="num">$/1M in · out</th><th class="num">~Cost / turn</th><th class="num">Free tier<br>1 turn/night</th></tr>
+        </thead>
+        <tbody>
+          <tr><td><b>Grok 4.1 Fast</b> — bookkeeping, fast-forward</td><td class="num">$0.20 · $0.50</td><td class="num">~$0.004</td><td class="num">~$0.11/mo</td></tr>
+          <tr><td><b>Haiku 4.5</b> — cheap world-sim</td><td class="num">$1 · $5</td><td class="num">~$0.02</td><td class="num">~$0.60/mo</td></tr>
+          <tr class="accent-row"><td><b>Sonnet 5</b> — the default narrator</td><td class="num">$2 · $10*</td><td class="num">~$0.04</td><td class="num">~$1.20/mo</td></tr>
+          <tr><td><b>Grok 4.5</b> — darker narrator option</td><td class="num">$2 · $6</td><td class="num">~$0.04</td><td class="num">~$1.20/mo</td></tr>
+          <tr><td><b>Opus 4.8</b> — Breach-tier spectacle only</td><td class="num">$5 · $25</td><td class="num">~$0.11</td><td class="num">~$3.30/mo</td></tr>
+        </tbody>
+      </table>
+    </div>
+    <div class="grace-note" style="margin-top:26px;">
+      <span class="gn-mark">⚖️</span>
+      <div>
+        <h3>Cadence solves the margin; the mechanic still meters it</h3>
+        <p>
+          Capping the free tier at one turn/night turns the old "heavy users lose money" fear into a
+          non-issue: a free player costs <b>cents to a couple dollars a month</b>, even on a premium
+          model. Paid tiers sell more turns/day; a $12 player at 3–5 turns/day still costs only ~$4–6 to
+          serve. <b>Grace top-ups</b> cover the true bingers, and <b>prompt caching (~90% off the stable
+          ruleset)</b> plus routing bookkeeping to Grok Fast / Haiku keep every turn cheap.
+        </p>
+      </div>
+    </div>
+    <p class="assumptions">
+      <b>Assumptions.</b> Illustrative, not a forecast. Per-turn costs assume retrieval-bounded context
+      (~20K tokens read, not the full chronicle) with the stable ruleset cached. *Sonnet 5 at its intro
+      rate (standard $3/$15); Grok rates per xAI, July 2026. Hosting (DB, vector store, storage) is a
+      rounding error next to inference — ~$0.50–$2 per active user per <em>year</em>. Provider prices
+      move; multi-model routing is a margin-and-leverage hedge, not a bet on any one vendor.
+    </p>
+  </div>
+</section>
+
+<section id="pricing">
+  <div class="wrap">
+    <p class="eyebrow">Pricing</p>
+    <h2>Sell the budget the god already spends</h2>
+    <p class="section-lede">
+      Subscription for the ongoing relationship; consumable <strong>Grace</strong> for the intense
+      seasons. The tiers double as difficulty settings, so upgrading is a gameplay choice, not just a
+      paywall.
+    </p>
+    <div class="price-grid">
+      <div class="plan">
+        <span class="p-name">Mortal</span>
+        <div class="p-price">Free</div>
+        <p class="p-tag">Fall in love with one town.</p>
+        <ul>
+          <li>One world, <b>Peaceful</b> mode</li>
+          <li>Small daily Grace budget</li>
+          <li>Emotions always free</li>
+          <li>Read-only chronicle export</li>
+        </ul>
+      </div>
+      <div class="plan featured">
+        <span class="p-name">Deity · popular</span>
+        <div class="p-price">$12<small>/mo</small></div>
+        <p class="p-tag">The real game — hard mode, alive daily.</p>
+        <ul>
+          <li><b>Hard mode</b> + full Grace/season</li>
+          <li>Multiple worlds &amp; save branches</li>
+          <li>Faster world-sim, more characters</li>
+          <li><b>Choose your narrator</b> + Opus for big beats</li>
+        </ul>
+      </div>
+      <div class="plan">
+        <span class="p-name">Grace packs</span>
+        <div class="p-price">$5+<small>/pack</small></div>
+        <p class="p-tag">Buy divine budget for a hard season.</p>
+        <ul>
+          <li><b>Consumable</b> turns / Grace</li>
+          <li>The whale &amp; heavy-user lane</li>
+          <li>In-fiction: literally buying miracles</li>
+          <li>Aligns spend with real compute cost</li>
+        </ul>
+      </div>
+      <div class="plan">
+        <span class="p-name">Pantheon · Pro</span>
+        <div class="p-price">$25<small>/mo</small></div>
+        <p class="p-tag">For creators &amp; storytellers.</p>
+        <ul>
+          <li>Custom settings &amp; rulesets</li>
+          <li><b>Publish &amp; share</b> worlds</li>
+          <li>Own-your-save git export</li>
+          <li>Streamer / community tools</li>
+        </ul>
+      </div>
+    </div>
+    <div class="grace-note" style="margin-top:26px;">
+      <span class="gn-mark">🗣️</span>
+      <div>
+        <h3>Choose your narrator — model as a feature, not a cost line</h3>
+        <p>
+          Let players pick the voice of their world: <b>Claude</b> (warm, literary, wholesome) or
+          <b>Grok</b> (darker, irreverent, unflinching — a fit for the survival-horror turn), behind a
+          safety layer. Under the hood every turn routes to the cheapest model that fits it; the narrator
+          dial is where that routing surfaces as a <b>personality knob and a paid perk</b> instead of a
+          hidden line item — and something competitors can't cheaply copy.
+        </p>
+      </div>
+    </div>
+  </div>
+</section>
+
+<section id="gtm">
+  <div class="wrap">
+    <p class="eyebrow">Go-to-market</p>
+    <h2>The chronicle is the ad</h2>
+    <p class="section-lede">
+      This product markets itself if you let it. Every dramatic beat — <em>"thirteen hundred of the
+      dead walked back through the door,"</em> a resurrection that comes back a zombie because the
+      god was over budget — is native, screenshottable content. The whole strategy is to make that
+      content trivial to share and irresistible to click.
+    </p>
+    <div class="gtm-grid">
+      <div class="gtm-card">
+        <div class="gc-head"><span class="gc-num">01</span><h3>Ship the share loop first</h3></div>
+        <p>One-tap <b>chronicle cards</b> and "name your chapter" moments, lightly watermarked. The game's
+        own output becomes the acquisition channel — Reddit (r/AIDungeon, r/rpg), TikTok &amp; Shorts,
+        X threads of impossible god-choices.</p>
+      </div>
+      <div class="gtm-card">
+        <div class="gc-head"><span class="gc-num">02</span><h3>Court the storytellers</h3></div>
+        <p>Moral-dilemma gameplay is <b>made for streaming</b>. A creator program + Pro tools turns
+        Twitch/YouTube playthroughs into a top-of-funnel that our competitors can't easily buy.</p>
+      </div>
+      <div class="gtm-card">
+        <div class="gc-head"><span class="gc-num">03</span><h3>Launch on the thesis</h3></div>
+        <p>"A game with no code, where the AI is the engine" is a Hacker News / Product Hunt story on its
+        own. Lead the launch with the <b>architecture as the hook</b>, then let the emotion close it.</p>
+      </div>
+      <div class="gtm-card">
+        <div class="gc-head"><span class="gc-num">04</span><h3>Referral in the currency</h3></div>
+        <p>Invites grant <b>Grace</b>, not discounts — a viral loop denominated in the game's own budget.
+        Community showcases and chapter-title leaderboards keep retention social.</p>
+      </div>
+    </div>
+  </div>
+</section>
+
+<section id="verdict">
+  <div class="wrap">
+    <p class="eyebrow">The honest read</p>
+    <h2>Chance of success</h2>
+    <p class="section-lede">
+      A lovable prototype and a real business are different bets. LIFE's odds of the first are high;
+      the second depends almost entirely on solving <strong>long-term memory</strong> and
+      <strong>unit economics</strong> before novelty fades.
+    </p>
+    <div class="verdict">
+      <div class="prob">
+        <div class="prob-item p-hit">
+          <div class="pi-top"><span class="pi-label">Becomes a <b>beloved niche product</b> with a passionate base</span><span class="pi-pct">~70%</span></div>
+          <div class="pi-bar"><div class="pi-fill" style="width:70%"></div></div>
+        </div>
+        <div class="prob-item p-mid">
+          <div class="pi-top"><span class="pi-label">Reaches a <b>durable $10M+ ARR</b> business in 3 years</span><span class="pi-pct">~25%</span></div>
+          <div class="pi-bar"><div class="pi-fill" style="width:25%"></div></div>
+        </div>
+        <div class="prob-item p-low">
+          <div class="pi-top"><span class="pi-label">Becomes a <b>category-defining</b> breakout at Character.AI scale</span><span class="pi-pct">~8%</span></div>
+          <div class="pi-bar"><div class="pi-fill" style="width:8%"></div></div>
+        </div>
+        <p class="assumptions" style="margin-top:22px;">
+          Even the downside has value: a striking showcase of the "AI-native game" thesis is a credible
+          acqui-hire, and the tech (bounded long-term memory for an evolving world) generalizes well
+          beyond games.
+        </p>
+      </div>
+      <div class="risks">
+        <div class="risk mit">
+          <span class="r-name">Unit economics — largely solved by design</span>
+          <span class="r-body"> One-turn-per-night caps free-tier cost at cents/month; paid tiers sell more cadence. <em>Grace metering, ~90% prompt-cache savings, and routing bookkeeping to Grok Fast / Haiku do the rest — the old "heavy users lose money" fear was a cadence problem, now fixed.</em></span>
+        </div>
+        <div class="risk">
+          <span class="r-name">Memory &amp; consistency</span>
+          <span class="r-body"> A town that forgets breaks the whole promise. Bounded long-term memory over an ever-growing world is the core, unsolved technical bet.</span>
+        </div>
+        <div class="risk">
+          <span class="r-name">Safety &amp; moderation at scale</span>
+          <span class="r-body"> Dark themes + companion dynamics is exactly the minefield that scarred AI Dungeon. Non-negotiable, expensive, and never "done."</span>
+        </div>
+        <div class="risk mit">
+          <span class="r-name">Platform dependency → owned model</span>
+          <span class="r-body"> You resell a provider's tokens today. <em>Multi-provider routing (Claude / Grok / open models) hedges price and leverage now; the long game is that every turn is proprietary training data — fine-tune a bespoke "LIFE engine" that's cheap, on-voice, and hard to copy. Your data → your model → your moat.</em></span>
+        </div>
+        <div class="risk mit">
+          <span class="r-name">Retention past novelty</span>
+          <span class="r-body"> The open question for every AI-narrative product. <em>The gauge/reckoning structure and permanent stakes are LIFE's best answer — the endless, ramping game is the retention design.</em></span>
+        </div>
+      </div>
+    </div>
+    <p class="kicker">
+      Build the memory layer and the meter first. Everything else in this deck is only real
+      <span>if the town never forgets — and if it can afford to remember.</span>
+    </p>
+  </div>
+</section>
+
+<footer>
+  <div class="wrap">
+    <span>LIFE · Product Strategy</span>
+    <span>Grounded in the live save — Alder Creek, Day 806, Year Three</span>
+  </div>
+</footer>
+
+<script>
+  (function () {
+    var c = document.getElementById('stars');
+    if (!c) return;
+    var ctx = c.getContext('2d');
+    var reduce = window.matchMedia('(prefers-reduced-motion: reduce)').matches;
+    var stars = [], W, H, raf;
+    function resize() {
+      var host = c.parentElement;
+      W = c.width = host.offsetWidth;
+      H = c.height = host.offsetHeight;
+      var n = Math.min(150, Math.floor(W * H / 9000));
+      stars = [];
+      for (var i = 0; i < n; i++) {
+        stars.push({
+          x: Math.random() * W, y: Math.random() * H,
+          r: Math.random() * 1.3 + 0.2,
+          base: Math.random() * 0.5 + 0.15,
+          sp: Math.random() * 0.02 + 0.004,
+          ph: Math.random() * Math.PI * 2
+        });
+      }
+    }
+    function isDark() {
+      var t = document.documentElement.getAttribute('data-theme');
+      if (t) return t === 'dark';
+      return window.matchMedia('(prefers-color-scheme: dark)').matches;
+    }
+    function draw(t) {
+      ctx.clearRect(0, 0, W, H);
+      var dark = isDark();
+      for (var i = 0; i < stars.length; i++) {
+        var s = stars[i];
+        var a = dark ? s.base + Math.sin(t * s.sp + s.ph) * 0.25 : (s.base * 0.4);
+        if (a < 0) a = 0;
+        ctx.beginPath();
+        ctx.arc(s.x, s.y, s.r, 0, Math.PI * 2);
+        ctx.fillStyle = 'rgba(224,168,96,' + a + ')';
+        ctx.fill();
+      }
+      raf = requestAnimationFrame(draw);
+    }
+    resize();
+    window.addEventListener('resize', resize);
+    if (reduce) { draw(0); cancelAnimationFrame(raf); }
+    else { raf = requestAnimationFrame(draw); }
+  })();
+</script>
