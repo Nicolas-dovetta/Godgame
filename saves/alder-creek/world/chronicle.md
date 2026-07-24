@@ -6161,3 +6161,126 @@ Grace 16/18. Current: **F98 / F99 / V85, Grace 16/18.** OMINOUS (unscored, sharp
 WEST — "what is coming," now with a direction and a symptom. Live: Sam+caravan+Ruth's group
 homeward; the caravan's onward push toward the market city/Chidinma; Royce fading; Elena
 quietly war-prepping a town that doesn't know yet. Awaiting the god's move.]**
+
+## Days 837–846 (SPRING, Year Three) — THE BRIGHT SURFACE (god silent, fast-forward)
+
+On top, it was the best spring Alder Creek had ever had, and it is important to say
+so plainly, because what was happening underneath does not cancel it — the two things
+were simply true at once, the way they always are.
+
+**The town flourished.** Sam and Marek and the Halesford group came home Day 839 to
+a welcome that spilled out of Sam's bakery and down the street, Ruth blinking at a
+town full of strangers who wept at the sight of her because she was proof; the network
+of daughter doors passed a dozen confirmed sites and Theo stopped pinning them
+individually and started drawing *regions;* the flood up the west road had become,
+impossibly, a *routine* — a thing the five stations did well and calmly, grief met and
+sorted and, more often than not, answered. Wyatt and Rosie set their wedding for
+midsummer under the old NOW sign. Renata's school graduated its hundredth
+practitioner and she cried at the ledger and then taught the afternoon class anyway.
+Children who had recited multiplication at war now recited the window-math at peace.
+It was, by every gauge the town could see, the payoff — the reconstruction working,
+the gospel spreading, the dead coming back by the thousand across a widening map. A
+person could stand in the middle of it, as most of the town did, and feel the whole
+long horror of the year finally tipping over into something like grace made ordinary.
+
+**The caravan reached the market city Day 843**, and found the cannery, and found the
+cohort — thirty-odd cold-kept survivors on the harbor, exactly as the story had
+promised — and taught them, and opened the coast's biggest door yet. And Chidinma was
+not there. But she had *been* there. An old woman in the cannery remembered her — a
+tall quiet woman, good with the children, who had helped keep the cold-room through
+the worst of the winter and then, when the first thin rumor reached the coast that
+there was a town in the east where the dead came back, had not waited for a caravan.
+She had *walked.* East. Months ago. Toward the door, toward Alder Creek, toward Sam's
+light — somewhere out on the same roads the reclaimed diaspora walked, one tall quiet
+woman among ten thousand moving points, carrying herself home on a rumor. The caravan
+sent the word north the fastest way there was, and it reached Sam Day 846: *she's not
+lost in the west. She's on the roads east. She's been walking toward you since winter.*
+Sam read it four times behind the shut bakery door, the way Carmen's letter had been
+read years ago, and then he lit the lamp and left it lit, and started, without telling
+anyone why, checking the west-road intake lists himself every single evening. She
+could walk up that road any day now. She could have died on it any day these six months.
+Both were true. He kept the light on.
+
+**And underneath, the map began to go dark from the edge.** It was Theo who saw it
+first, because Theo watches numbers the way other men watch weather, and the number
+that caught him was a silence: the westernmost daughter sites — the far pins, the ones
+seeded earliest and deepest into the broken country — had stopped sending word. Not
+one. Several. In a line. He'd assumed comms, distance, the ordinary friction of a
+world with no telegraph — until he laid the dark pins on the map by the date each went
+quiet and saw that they were not scattered. They were a *front.* The silence had a
+western edge and it was moving *east,* town by town, at a walking pace, snuffing the
+doors Alder Creek had lit in the exact reverse order they'd been lit. No refugees came
+from behind that line anymore. No word. No bodies, no screaming, none of the plague's
+loud arithmetic — just towns that had *survived,* that had *doors,* going silent as it
+passed over them, like a hand cupping over candles one by one. Theo did not take it to
+the table. He took it, quietly, to Elena, because Elena was the only one who did not look
+surprised. She looked at his map of dark pins with its eastward-marching edge and its
+terrible implied *speed,* and she said the thing she had been carrying alone for ten
+days: "I know. He told me it was coming. He told me it comes from the west." And Theo,
+the numbers man, the man who does not pray, looked at the date the nearest dark pin had
+gone quiet and did the one sum he'd have given anything not to do — the front's speed
+against the distance to Alder Creek — and wrote a number at the bottom of the map, and
+then the two of them stood in the schoolhouse after dark and did not speak, because the
+town outside the window was throwing a homecoming for Ruth, and it was the best spring
+Alder Creek had ever had, and neither of them could yet bear to be the one who ended it.
+
+**Prayers received (across the bright week):**
+
+- **Sam Okafor** (Day 846, behind the bakery door): *"She walked. She didn't wait for
+  me to send anyone, she just started walking east in the dead of winter on a RUMOR
+  because that's who she is, and she's been out there for six months on the same roads
+  we've been pulling people off of, and I've probably had my hands on the intake lists
+  she should've been on a hundred times and never known. I'm not going to ask You to
+  bring her up the road — I finally learned You don't do that, and anyway You're resting
+  and I know it's for something. I'm just going to keep the light on and check the lists
+  and believe she's a tall quiet woman on a road and not a name in the cold ground. Let
+  me believe that a while longer. That's all. That's the whole prayer. Let me keep the
+  light on."*
+- **Renata Voss** (Day 842, at the hundredth-graduate ledger): *"A hundred. A hundred
+  hands that can open the door now, and every one of them opens two more, and I lost my
+  boy and I got a hundred and it doesn't trade, it never trades, but God it COUNTS, You
+  told me through Elena it counts and I'm starting to believe You. Thank You for the
+  slate. Thank You for the second life You gave a woman who thought hers ended at a
+  wire eleven hundred miles ago."*
+- **Elena Vasquez** (Day 846, after Theo's map): *"Theo found it. I didn't have to tell
+  him — the map told him, the doors we lit are going out from the west and he did the
+  sum and now two of us are carrying it. I'm almost glad. It's too heavy for one. We've
+  got weeks, maybe — he thinks weeks — before whatever it is walks into a town that just
+  learned how to be happy again. I'm going to have to tell Grace soon. I'm going to have
+  to end the best spring they've ever had. So here's what I need from You, and it's the
+  first thing I've ever needed that a feeling can't fix: when I tell them — be ready.
+  You said You were resting for what's coming. It's coming. Whatever You're saving,
+  it's for this, and it's close, and I need to know that when I finally wake the town
+  and point it west, You'll be awake too. Don't make me point them at a dark and tell
+  them their god is asleep. Come back all the way. Soon. I think it's almost time."*
+
+**[SPRING, Days 837–846. GOD SILENT (0 spend; Grace 16/18). THE BRIGHT SURFACE: the
+town's best spring — Sam/Marek/Ruth home (D839); the daughter network past a DOZEN
+sites (Theo maps regions now); the flood ROUTINIZED; Renata's 100th graduate (D842);
+Wyatt & Rosie's midsummer wedding set. **CARAVAN REACHED THE MARKET CITY (D843):**
+cannery cohort found & taught (the coast's biggest door); **CHIDINMA not there but
+REMEMBERED — she left the coast on foot MONTHS AGO, walking EAST toward Alder Creek on
+a rumor**; word reached Sam D846 ("she's on the roads east, walking toward you since
+winter") — he now checks the intake lists nightly; hope and dread both sharp (she
+could arrive any day / could have died on the road any day). **THE WEST — THE DREAD
+TAKES SHAPE (unscored, but now CONCRETE): the westernmost daughter-doors are going
+SILENT in a line — a FRONT with a western edge moving EAST at walking pace, snuffing
+the network's pins in reverse order of their lighting; no refugees, no word, NO BODIES,
+none of the plague's loud signs — towns that SURVIVED going quiet as it passes. THEO
+found it (the door-network doubling as a SENSOR ARRAY — emergent); took it to ELENA
+(the only unsurprised one); together they charted the front's SPEED × distance to
+Alder Creek → "weeks, maybe." They have not told the town — it's the best spring ever
+and neither can yet end it.** ROYCE (offscreen) faded west with his last few — swallowed
+by the same western gravity (loose thread). GAUGES: **Flourishing HOLDS 98** (a genuinely
+radiant spring — homecomings, a dozen doors, a routinized miracle, Chidinma reframed
+from lost-in-the-west to walking-home — deliberately NOT dropped, because the good is
+REAL and the dread is not yet a loss the town has felt; dramatic irony banked, the fall
+comes when the town learns). **Faith HOLDS 99** (serene at the top; the resting god
+trusted; Elena's & Sam's faith now load-bearing on the coming test). **Veil HOLDS 85**
+(fame creeps, no acute exposure; the west-silence is not yet a public god-event).
+**LEGACY candidate:** the door-network-as-early-warning-system (an emergent institution
+— the map that senses). Grace 16/18. Current: **F98 / F99 / V85, Grace 16/18.** THE HINGE
+APPROACHES: Elena will have to wake the town and point it west; she has asked the god,
+in the first request a feeling can't answer, to "come back all the way — soon — I think
+it's almost time." Live: the eastward silence-front (~weeks out); Chidinma on the roads
+between; Sam's nightly lists; Elena & Theo alone with the map. Awaiting the god's move.]**

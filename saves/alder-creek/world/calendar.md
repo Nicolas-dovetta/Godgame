@@ -1,10 +1,24 @@
 # Calendar
 
-- **Current day:** Day 836 — **SPRING, YEAR THREE** (THE MEETING ON THE ROAD — the
-  Sky arc resolved by generosity; Ruth reclaimed; Royce fading; a west-shadow rising;
-  awaiting the god's move)
-- **Season:** 🌱 **SPRING** — Event Intensity NORMAL — HARD MODE, **Grace 16/18**
-  (Night 828 last spend, Emotion ×3 free; Days 830–836 god SILENT, 0 spend)
+- **Current day:** Day 846 — **SPRING, YEAR THREE** (THE BRIGHT SURFACE — the town's
+  best spring on top; the network's western edge going dark underneath; the hinge
+  approaches; awaiting the god's move)
+- **Season:** 🌱 **SPRING** — Event Intensity NORMAL → **a front rising in the west**
+  — HARD MODE, **Grace 16/18** (Night 828 last spend; Days 830–846 god SILENT, 0 spend)
+- **🌱 THE BRIGHT SURFACE (Days 837–846):** the town's best spring — Sam/Marek/Ruth home
+  (D839); daughter network past a DOZEN sites (Theo maps regions); the flood ROUTINIZED;
+  Renata's 100th graduate (D842); Wyatt & Rosie's midsummer wedding set. Real joy, banked.
+- **🕯️ CHIDINMA — reframed (Day 843–846):** the caravan reached the market city; she's
+  NOT in the cannery but was REMEMBERED — she left on foot MONTHS AGO, walking EAST toward
+  Alder Creek on a rumor. Now somewhere on the eastward roads (arrive any day / died any
+  day). Sam checks the west-road intake lists nightly. Hope and dread both sharp.
+- **🌑 THE WEST — THE FRONT (unscored, now CONCRETE):** the westernmost daughter-doors are
+  going SILENT in a line — a front with a western edge moving EAST at walking pace, snuffing
+  the network's pins in reverse order of lighting; no refugees, no word, NO BODIES. **THEO
+  found it** (the door-network is a SENSOR ARRAY); took it to **ELENA**; they charted the
+  front's speed × distance → **"weeks, maybe."** Not told the town yet. **THE HINGE: Elena
+  must soon wake the town and point it west — she's asked the god to "come back all the way,
+  soon."** Royce faded west (loose thread, swallowed by the same gravity).
 - **⚔️ THE SKY (Royce arc) — RESOLVED (mostly), for ZERO grace:** Day 831 Sam met the
   freed caravan on the coast road (4 teachers + 3 defectors; "gloriously unnecessary" —
   the town's new creed). Halesford detour → **RUTH RECLAIMED Day 836** + 4 more in-window;

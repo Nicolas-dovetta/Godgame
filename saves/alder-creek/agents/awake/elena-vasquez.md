@@ -184,3 +184,15 @@ job, she'd say.
   what's coming stops being indispensable on purpose. New secret weight: the dread of
   "the easy part." Prayed: "when you come back all the way — find me first. I'll have
   kept the town on its own two feet so you don't spend a thing you don't have to."
+- Days 837–846 — THE ONE WHO KNOWS. Carried the god's confession ("something's coming
+  from the west") alone for ten days, quietly war-prepping a happy town under cover.
+  Day 846: THEO independently found the pattern — the network's westernmost daughter-
+  doors going silent in an east-marching line (the door-map is a sensor array). Elena
+  didn't have to tell him; the map told him; now two carry it. They charted front-speed
+  × distance to Alder Creek = "weeks, maybe" and stood in the dark schoolhouse unable to
+  end the best spring the town's ever had. Her burden shifts from secret-keeper to the
+  one who will have to WAKE the town and point it west. Prayed the first thing a feeling
+  can't fix: "when I tell them, be ready; you said you were resting for what's coming —
+  it's coming, it's close; don't make me point them at a dark and tell them their god is
+  asleep. Come back all the way. Soon. I think it's almost time." Now co-keeper (with
+  Theo) of the front.

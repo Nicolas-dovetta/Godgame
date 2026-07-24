@@ -31,11 +31,15 @@ the easy part"*). A predator, **ROYCE**, came to tax the cure and was dissolved 
 war but by generosity + three free god-emotions (Day 829): his men defect to the door,
 the hostage-caravan freed itself, **Ruth reclaimed** at Halesford (the 5th daughter
 site). The town's creed: *we're the rain — you can't tax the rain; be gloriously
-unnecessary.* **Currently Day 836, Grace 16/18, F98/F99/V85, god resting.** Open:
-Royce fading (the town refuses him a war); the westbound caravan pushing toward
-**CHIDINMA** (a destination now, not just a bearing — Sam's lost one); and **THE WEST**
-— the far west going "quiet in a way the plague doesn't," which Elena alone has
-connected to the god's *"what is coming."*
+unnecessary.* **Currently Day 846, Grace 16/18, F98/F99/V85, god resting** — the town's best
+spring on the surface (a dozen daughter doors, the flood routinized, homecomings), a
+dark front underneath. **CHIDINMA** was found to have left the coast on foot months ago,
+walking EAST toward the door — she's on the roads now (Sam checks intake lists nightly).
+And **THE WEST** took shape: the network's westernmost doors are going SILENT in a line,
+an east-marching front at walking pace (no bodies, no plague-signs); Theo found it (the
+door-map is a sensor array), Elena connected it to the god's *"what is coming"* — front
+× distance = *"weeks, maybe."* They haven't told the town. THE HINGE nears: Elena must
+wake the town and point it west, and has asked the god to "come back all the way, soon."
 
 ## Pointers
 - Gauges + Grace ledger: `world/gauges.md`

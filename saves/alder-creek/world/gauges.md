@@ -748,6 +748,27 @@ mortal-authored rule in the manuscript; a theology of the god's own restraint)
   OMINOUS (unscored, sharpening): THE WEST — "what is coming," now with a direction and a
   symptom. (Live: the homeward groups; the caravan's push toward Chidinma; Royce fading;
   Elena quietly war-prepping. Awaiting the god's move.)
+- Days 837–846 (SPRING Y3, GOD SILENT, 0 spend; Grace 16/18): THE BRIGHT SURFACE — the
+  town's best spring (Sam/Marek/Ruth home D839; a DOZEN+ daughter doors; the flood
+  routinized; Renata's 100th graduate D842; Wyatt & Rosie's midsummer wedding set).
+  CARAVAN reached the market city (D843) → cannery cohort taught (coast's biggest door);
+  **CHIDINMA reframed — not lost in the west but WALKING EAST toward Alder Creek since
+  winter, on the roads now** (word to Sam D846; nightly intake-list vigil). **THE WEST —
+  THE FRONT (concrete now, unscored): the westernmost daughter-doors going SILENT in a
+  line — an east-marching front at walking pace, snuffing the network's pins in reverse
+  order, no bodies/no plague-signs; Theo found it (the network = a SENSOR ARRAY), took it
+  to Elena; front-speed × distance → "weeks, maybe"; NOT told the town.** Royce faded west
+  (loose thread). **FLOURISHING HOLDS 98** — a genuinely radiant spring (homecomings, a
+  dozen doors, a routinized miracle, Chidinma reframed hopeful) held deliberately UNDROPPED:
+  the good is REAL and the dread is not yet a loss the town has FELT — dramatic irony
+  banked; the fall comes when the town learns. **FAITH HOLDS 99** — serene at the top; the
+  resting god trusted; Elena's & Sam's faith now load-bearing on the coming test (Elena's
+  ask: "come back all the way — soon"). **VEIL HOLDS 85** — fame creeps, no acute exposure;
+  the west-silence isn't yet a public god-event. **LEGACY candidate:** the door-network-as-
+  early-warning-system (emergent — the map that senses). Grace 16/18. Current: **F98 / F99 /
+  V85, Grace 16/18.** THE HINGE APPROACHES (Elena must wake the town & point it west; ~weeks
+  to the front). (Live: the eastward silence-front; Chidinma on the roads between; Sam's
+  lists; Elena & Theo alone with the map. Awaiting the god's move.)
   --- (prior peacetime entries below) ---
 - Days 646-680 (god silent, autumn): the Second Autumn Fair (census of grace);
   Grace & David married; Deborah won the pie contest. **CURTIS VANE's return
