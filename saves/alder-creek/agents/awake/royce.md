@@ -71,3 +71,17 @@ bread ("you don't say no to bread unless you've decided people are things"). Pra
 his first unwitting prayer: if there's a door, he'll put the gun down and walk to it.
 A convert-in-waiting inside the enemy camp; a possible crack in Royce's hold; a way
 into the coldlands. Live thread.
+
+## Day 829 — THE LEVER BREAKS FROM INSIDE (diminished, not resolved)
+Royce's "own the sky" plan required his men to hold the caravan and his line to stay
+loyal. Both assumed his people didn't have grief of their own. Day 829 one of his
+eleven (Ruth's husband) turned a rifle on him in the coldland barn where the caravan
+was held; the 2 prior waverers tipped it in ~90 seconds; no shot fired; the CARAVAN
+WALKED FREE with 3 of Royce's own men + a coldlands route. Royce's error, twice over:
+he thought the valuable thing was a THING you could hold, in a land where every one of
+his soldiers has someone cold somewhere and the caravan is the door to them. You cannot
+garrison the rain with the thirsty. **Status: diminished — lost the caravan, lost 3 men,
+his leverage exposed as hollow; NOT captured, NOT converted, NOT resolved.** A wounded
+road-warlord is still dangerous and now humiliated. Open: does he escalate (revenge,
+raid), fade, or does the slow acid of the free-method finally reach him too? He STILL
+does not know a god exists.

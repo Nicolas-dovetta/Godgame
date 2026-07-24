@@ -131,3 +131,16 @@ Prays briefly most nights now, like leaving a light on. Faith: steady.
   thing I can trust with the caring." The man the gospel was written through,
   handing it back to its author. Sam's faith: total, and now tender toward a god
   he knows can err — which he finds makes it more trustworthy, not less.
+
+## Day 829 — SAM LEFT THE OVENS (first time since before Day 1)
+For three-plus years Sam answered every crisis by staying and baking and letting the
+light in the window do the walking. Day 829 the god poured DETERMINATION + IMPATIENCE
+(free emotion — the familiar determination, but paired for the first time with an itch
+he'd never believed: the bread can wait). He handed the ovens to Deborah, saddled a
+Kessler horse, took Aaron + two garrison + a rig, and RODE SOUTH after his four
+caravan-teachers and Chidinma's name. "A light you don't walk toward is a light you're
+using as an excuse." Prayed from the saddle — a new posture: "You didn't make a man
+restless to send him toward a grave; so it's good news at the end of this road, isn't
+it." His caravan was freed that same morning (Ruth's husband turned on Royce); Sam ↔
+caravan converge ~Day 831. The prophet who only ever did the sitting half of the light
+is finally doing the walking half.

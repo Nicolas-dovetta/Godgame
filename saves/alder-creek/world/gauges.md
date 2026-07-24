@@ -703,6 +703,28 @@ mortal-authored rule in the manuscript; a theology of the god's own restraint)
   cure). Grace 16/18. Current: **F97 / F99 / V85, Grace 16/18.** (Live & URGENT: the
   caravan 60 mi south on Royce's road; Ruth 3 days further; Chidinma's name in the
   coldlands; a resting god handed a LOCATION — awaiting the god's move.)
+- Day 829 (SPRING Y3, EMOTION ×3, ALL FREE; Grace 16/18 unchanged): the god answered
+  Grace's "does the resting have a bottom?" by resolving a warlord for ZERO grace — the
+  bankrupt/resting-god thesis at its peak (the free lever has no floor). **Ruth's husband
+  — ANGER** (free): turned his rifle on Royce in the coldland barn where the caravan was
+  already held; 2 prior waverers tipped it in 90 sec, no shot — **CARAVAN FREED**, now
+  escorted by 3 of Royce's own + a coldlands route. **Sam — DETERMINATION + IMPATIENCE**
+  (free): LEFT THE OVENS for the first time since before Day 1, rode south to fetch his
+  people ("a light you don't walk toward is an excuse"). **Grace — AMUSEMENT** (free):
+  caught the god's laughter and the punchline — Royce made the same mistake twice (the
+  valuable thing isn't a THING); "you can't hostage teachers in a land of the grieving;
+  he's a man taxing weather." **GAUGES HELD PENDING F97/F99/V85** — deliberately unscored
+  mid-swing: the caravan's free but not home, Sam's riding, Royce's fall/response + Ruth's
+  cellar are the next beat (~Day 831 Sam meets the caravan coming up). To score next: a
+  huge Flourishing positive (leverage dissolved from the inside, no shot, 3 souls turned)
+  pending the pieces landing; FAITH's new register — the god answered a crisis with
+  LIGHTNESS and it landed as TRUST not flippancy (the playful, un-worried god a mature
+  covenant can receive; Grace: "I cannot argue with Your laughter"). **VEIL 85 steady** —
+  three invisible feelings; the resolution reads as human courage + a warlord's overreach;
+  the god's hand nowhere; Royce STILL doesn't know a god exists. Grace 16/18 (all free —
+  a RESTING god did this, which is the whole point). Current (pending): **F97 / F99 / V85,
+  Grace 16/18.** (Live: Sam ↔ caravan converge ~D831; RUTH a new door in Halesford;
+  Royce diminished; Chidinma's name still walking; "the easy part" still out past the map.)
   --- (prior peacetime entries below) ---
 - Days 646-680 (god silent, autumn): the Second Autumn Fair (census of grace);
   Grace & David married; Deborah won the pie contest. **CURTIS VANE's return

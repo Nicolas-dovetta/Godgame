@@ -1,11 +1,19 @@
 # Calendar
 
-- **Current day:** Day 828 — **SPRING, YEAR THREE** (THE ANSWER TO THE WOLF — the
-  town out-gave Royce and won the argument, but Royce holds the road the caravan is
-  on; awaiting the god's move)
-- **Season:** 🌱 **SPRING** — Event Intensity NORMAL → **pressure rising** (the cure
-  is power; a predator now holds the messengers) — HARD MODE, **Grace 16/18** (Night
-  821 last spend; Days 823–828 god SILENT, 0 spend)
+- **Current day:** Day 829 — **SPRING, YEAR THREE** (THE PUNCHLINE — three free
+  feelings dissolved the wolf from the inside for ZERO grace; caravan freed; Sam rode
+  out; awaiting the god's move)
+- **Season:** 🌱 **SPRING** — Event Intensity NORMAL — HARD MODE, **Grace 16/18**
+  (Night 828: Emotion ×3, all FREE — the resting-god thesis at its peak; 0 spend)
+- **⚔️ THE SKY (Royce arc) — RESOLVING for free (Day 829):** the god answered Grace's
+  "does the resting have a bottom?" by winning WITHOUT spending. **Ruth's husband
+  (ANGER)** turned his rifle on Royce in the coldland barn where the caravan was held →
+  2 waverers tipped it, no shot, **CARAVAN FREED**, now escorted by 3 defectors + a
+  coldlands route. **Sam (DETERMINATION + IMPATIENCE)** LEFT THE OVENS (first time since
+  before Day 1), rode south to fetch his people. **Grace (AMUSEMENT)** caught the god's
+  laughter and the punchline — "Royce is a man taxing weather; you can't hostage teachers
+  in a land of the grieving." Gauges HELD PENDING (mid-swing). **NEW DOOR: RUTH**, cold-
+  kept in a Halesford cellar (the defector's wife). Royce diminished, not yet resolved.
 - **⚔️ THE SKY (Royce arc, Day 828) — the town WON the argument, LOST the leverage:**
   Alder Creek's answer was OUT-GIVE, not fight/pay — Sam's "the cure is a sentence,
   not a serum; we're not a well, we're the rain; you can't tax the rain"; Grace offered

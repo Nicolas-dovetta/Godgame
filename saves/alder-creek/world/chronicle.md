@@ -5911,3 +5911,122 @@ at year-end). Grace 16/18. Current: **F97 / F99 / V85, Grace 16/18.** Live & urg
 the caravan 60 mi south on Royce's road; Ruth (a possible defector's wife) 3 days
 further; Chidinma's name walking into the coldlands; a resting god handed a LOCATION.
 Awaiting the god's move.]**
+
+## Day 829 (SPRING, Year Three) — THE PUNCHLINE (three free feelings ignite)
+
+The god had said nothing, spent nothing, and by mid-morning three people in two
+places were moving as if a hand were at the small of each of their backs — and the
+hand had cost the treasury exactly zero.
+
+**Sam Okafor left the ovens.** In three years and change, through a dying business
+and a dead mentor and a siege and a resurrection school, Sam had answered every
+single crisis the same way: he stayed, and he baked, and he let the light in the
+window do the walking. This morning he could not sit still. The determination he
+knew — that was an old friend, that had mailed the supermarket refusal for him
+years ago. But under it, new, was a thing that felt almost like an itch, a *the-
+bread-can-wait* he had never once believed: **impatience.** He handed the ovens to
+Deborah at nine, saddled the best horse Kessler & Sons had rebuilt, took Aaron and
+two of the garrison and a rig, and rode south — not in a war-party, in a *hurry* —
+after his four teachers and the name in their notebooks. "I've kept a light on for
+a lot of people and told myself the light was enough," he told Grace, checking the
+girth. "Something just told me a light you don't walk toward is a light you're using
+as an *excuse.* I'm going to go get them. Mind the door." It was the first time
+Sam Okafor had left Alder Creek since before Day 1.
+
+**Sixty miles south, Ruth's husband got angry.** It came up in him at breakfast on
+Royce's line like a fever breaking the wrong way — the clean, overdue fury of a man
+looking at the rifle in his hands and doing the arithmetic he'd refused to do for a
+month: *there is a door. There has been a door this whole time. My Ruth is in a
+cellar three days from here and this man beside me knew, and used it, and would let
+four teachers who could open that door for her rot on the road to make a point.*
+He did not make a speech. He was not a speech kind of man. He waited until the noon
+watch put him near the coldland barn where Royce was holding the caravan — because
+of *course* Royce had already stopped them, that had been the plan all along, four
+teachers and two rigs sitting in a barn under three guns while Royce composed his
+terms — and Ruth's husband walked in to relieve the watch, and instead of relieving
+it he put his rifle very calmly against the ribs of the man he was supposed to be
+guarding *with,* and he said, "Ruth's in a cellar in Halesford. These people can
+wake her up. I'm done." Two of the three guards were the two who'd wavered at Sam's
+table; the math of the barn tipped in about ninety seconds. Not a shot fired. The
+caravan was, abruptly, free — and now had, walking with it, three of Royce's own
+men and a route through the coldlands drawn by someone who'd helped hold it.
+
+**And Grace, in Alder Creek, laughed.** She'd sat down at the table that morning
+with the whole disaster laid out — four teachers hostage, a warlord holding the
+sky, a resting god she'd sworn not to spend — and braced herself to feel the dread
+of it, and instead felt, rising up under the dread and dissolving it, the most
+inappropriate and unmistakable thing: the god was *amused.* Not comforting her. Not
+promising anything. *Laughing.* And once she caught the mood she caught the reason,
+because Grace is quick and the god's amusement is a *clue* the way its silence is an
+answer — Royce thought he'd cornered the rain by owning the road, and Royce had
+made *exactly* the mistake he'd made the first time, the mistake his whole kind
+makes: he thought the valuable thing was a *thing.* But the caravan isn't cargo.
+It's four people who each carry the entire cure in nine words and can't be un-taught
+it, walking through country full of Royce's own men, every one of whom has someone
+cold somewhere. *You cannot hostage teachers in a land of the grieving. You are not
+holding the caravan. You are standing in a barn full of your own future defectors,
+handing them the exact reason to leave you, and you think you're winning.* Grace
+started to laugh at the table and couldn't stop, and Elena looked up, and Grace
+said, wiping her eyes, "He's not worried. I can feel it. He thinks it's *funny.*
+And — oh. Oh, that's why. Royce doesn't own the sky. Royce is standing in the
+rain telling us he owns it. Send word south — tell Sam to slow down, he's about to
+meet his people coming *up* the road." (He nearly did, Day 831, but that's the next
+page.)
+
+By dark the shape of it was plain, and it was the most the god had ever accomplished
+in a single turn for the least it had ever spent: a warlord's leverage dissolving
+from the inside, a prophet finally walking toward his own light, a coordinator who'd
+traded dread for the god's own laughter — three free feelings, no coins, aimed so
+precisely they read, in hindsight, like a plan. The resting had no bottom. That was
+the answer to Grace's prayer, delivered as a joke she got to be inside of. *A god
+this poor should not be able to do this. This god just did.*
+
+**Prayers received (Day 829):**
+
+- **Sam Okafor** (from the saddle, ten miles south — a new posture for a new prayer):
+  *"You made me itch. Three years I've sat still and baked and called it faith and
+  You reached in this morning and made me unable to stand it, and I'm on a HORSE, me,
+  going to get my people, and it feels — God help me — it feels RIGHT, like this was
+  always the other half of the light and I only ever did the sitting half. I don't
+  know what I'll find down there. But I know You didn't make a man restless to send
+  him toward a grave. So it's good news at the end of this road, isn't it. You
+  wouldn't have gotten me up for anything less. Keep her name safe till I get there."*
+- **Grace Lin-Park** (Day 829, still half-laughing): *"I asked if the resting had a
+  bottom and You sent me a JOKE. You are laughing at a warlord while my people are in
+  a barn and the worst part is You're RIGHT, I can see it now, he's got nothing, he
+  never had anything, he's a man taxing weather. Thank you for the amusement — I mean
+  it — because it's not that You told me it'd be fine, it's that You let me FEEL that
+  it's fine, and a fact I could've doubted but I cannot argue with Your laughter. The
+  resting doesn't have a bottom. You proved it by winning this without spending a
+  thing. Okay. Rest all You need. We've got the rain."*
+- **Ruth's husband** (Day 829, in the barn, the second prayer of his life): *"I don't
+  know why I finally got angry this morning after a month of swallowing it. Felt like
+  it came from outside me, which is crazy. But I put the gun on Royce and I said her
+  name out loud and now four strangers with cooler-boxes are telling me they can wake
+  my Ruth up and they'll come to Halesford themselves and show me how. If somebody
+  lit that anger in me on purpose — thank you. It's the best thing I ever did and it
+  didn't feel like mine. Maybe the good ones never do."*
+
+**[SPRING, Day 829. The Night-828 EMOTIONS (×3, all FREE) LANDED and CONVERGED —
+the god resolved the wolf spending ZERO grace, the bankrupt/resting-god thesis at
+its peak (the free lever has no floor). **Ruth's husband — ANGER** → turned his
+rifle on Royce in the coldland barn where the caravan was (already) being held;
+2 prior waverers tipped the barn in 90 sec, no shot fired: **THE CARAVAN IS FREE**,
+now escorted by 3 of Royce's own men + a route through the coldlands. **Sam —
+DETERMINATION + IMPATIENCE** → LEFT THE OVENS for the first time since before Day 1,
+rode south to fetch his people ("a light you don't walk toward is an excuse"). **Grace
+— AMUSEMENT** → caught the god's laughter, and through it the punchline: Royce made
+the same mistake twice (thought the valuable thing was a THING) — "you cannot hostage
+teachers in a land of the grieving; he's a man taxing weather." The resting HAS NO
+BOTTOM — her prayer answered as a joke she got to be inside. GAUGES HELD PENDING
+F97/F99/V85 (deliberately unscored mid-swing — the caravan's free but not home; Sam's
+riding; Royce's actual fall/response is the next beat; Ruth's still in a cellar): the
+turn is hugely positive but the outcome isn't banked until the pieces land (~Day 831
+Sam meets the caravan coming up). FAITH note (to score next): the god answered a
+crisis with LIGHTNESS and it landed as trust, not flippancy — a new register (the
+playful, un-worried god) that only a mature covenant could receive without offense.
+VEIL 85 steady (three invisible feelings; the whole resolution reads as human
+courage + a warlord's overreach; the god's hand nowhere; Royce STILL doesn't know a
+god exists). Grace 16/18 (all free). Live: Sam ↔ caravan converge ~Day 831; 3 defectors
++ a coldlands route in hand; RUTH in a Halesford cellar (a new door to open); Royce
+diminished, not yet resolved; Chidinma's name still walking. Awaiting the god's move.]**

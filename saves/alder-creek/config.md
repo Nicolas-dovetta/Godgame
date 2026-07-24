@@ -51,10 +51,15 @@ Royce's country; the town chose OUT-GIVE ("we're the rain; you can't tax the rai
 and offered Royce a SEAT — it landed (2 of his men turned), but Royce seized the one
 lever left: he HOLDS THE ROAD THE CARAVAN IS ON. NEW ARC — THE SKY: a road-control /
 hostage conflict, personalized to Sam's four teachers + Chidinma. F97/F99/V85; a
-resting god handed a LOCATION.** **Currently Day 828, Grace 16/18 (awaiting the god's
-move).** Open: THE SKY (Royce + the caravan on his road), Ruth (a defector's cold-kept
-wife, 3 days south), CHIDINMA's name in the coldlands, the flood, the daughter network,
-"what is coming."
+resting god handed a LOCATION.** **Day 829 (THE PUNCHLINE — Emotion ×3, all FREE): the
+god dissolved the wolf for ZERO grace — ANGER to Ruth's husband (turned his gun on Royce;
+caravan FREED, no shot, 3 defectors join); DETERMINATION+IMPATIENCE to Sam (left the
+ovens for the 1st time since before Day 1, rode south); AMUSEMENT to Grace (caught the
+god's laughter and the punchline — "he's a man taxing weather"). The resting has no
+bottom. F97/F99/V85 held pending mid-swing.** **Currently Day 829, Grace 16/18 (awaiting
+the god's move).** Open: THE SKY resolving (Sam↔caravan converge ~Day 831; Royce
+diminished), RUTH (a new door in Halesford), CHIDINMA's name in the coldlands, the flood,
+the daughter network, "what is coming."
 
 ## Pointers
 - Gauges + Grace ledger: `world/gauges.md`

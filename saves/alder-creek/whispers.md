@@ -611,3 +611,39 @@ miracle. The whole thesis of the method, applied to its own silence's cost.
     scale resurrection school look like *the easy part.* The intimacy (a god that
     confides it must rest) and the dread (what needs that much rest?) arrive
     together. Elena is now the one mortal who knows the quiet has a reason.
+
+## Night 828 — THREE FEELINGS, NO COINS (Emotion ×3, all free; Grace 16/18 unchanged)
+
+Grace had asked whether the resting had a *bottom.* The god answered not by
+promising to spend — but by resolving a warlord with three free feelings aimed like
+darts, spending nothing at all. The purest statement of the bankrupt-god thesis:
+the free lever has no floor. A resting god is not a powerless one.
+
+35. **To the wavering man (Ruth's husband) — EMOTION, free: ANGER.** No words, no
+    facts, nothing he could attribute — just the clean hot rise of it, the anger a
+    man ought to have felt a month ago and had been swallowing because the gun paid
+    and the road was dangerous. The god did not tell him Royce was a monster (that
+    would be information). It just lit the fuse he'd already laid himself. A man
+    with a cold-kept wife and a new fury is not going to keep standing behind
+    another man's rifle. The god turned the enemy's own heart into the crack in the
+    wall — and paid for it with a feeling, which is to say, paid nothing.
+
+36. **To Sam — EMOTION, free: DETERMINATION and IMPATIENCE.** The god has poured
+    determination on Sam before. It has never once paired it with *impatience* —
+    and the pairing is the whole message-that-isn't-a-message: *stop keeping vigil.
+    Stop praying locations at the window. The light on the sill is a promise you
+    have not yet gotten up to keep.* Sam Okafor, who does not leave the ovens, who
+    has answered every crisis of three years by baking through it — the god made
+    him unable to sit still. Restless in his own skin. A prophet who has been told,
+    in pure feeling, *go.*
+
+37. **To Grace — EMOTION, free: AMUSEMENT.** The strangest and lightest move of the
+    arc. Grace was braced for dread, guilt, the arithmetic of four kids on a wolf's
+    road. The god gave her, instead, its own *amusement* — the contagious, un-worried
+    lightness of someone who has already seen the punchline and finds it genuinely
+    funny. No fact, no plan, no "it'll be fine" (that would be information) — just a
+    mood, the felt sense that a man who thinks he has cornered the *rain* by owning
+    sixty miles of *road* has misunderstood the situation so completely that it is,
+    on some cosmic level, a joke. It answered "does the resting have a bottom?" in
+    the only register that couldn't be turned into a lever: not *yes I'll come*, but
+    a wink. *Relax. I'm not even worried about this one. Watch.*

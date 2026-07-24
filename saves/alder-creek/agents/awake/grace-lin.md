@@ -94,3 +94,13 @@ her"). Prays occasionally now, in a negotiating tone, like leaving reviews.
   steady: "don't panic, don't sell the door, we'll figure the wolf ourselves." Her
   faith's shape confirmed: watched-over AND self-standing; "you'll be in the room —
   that's always been the deal." (Royce's answer due ~Day 828, unresolved.)
+- Day 829 — THE JOKE. She asked if the god's resting had a bottom; the god answered
+  with AMUSEMENT (free emotion) — its own un-worried laughter poured into her while
+  four teachers were hostage and a warlord held "the sky." She caught the mood, then
+  the punchline: Royce made the same mistake twice (thought the valuable thing was a
+  THING) — "you can't hostage teachers in a land of the grieving; he's a man taxing
+  weather." Traded dread for the god's laughter; her faith's proof shifts from fact
+  to felt: "it's not that You told me it'd be fine, it's that You let me FEEL it — a
+  fact I could doubt, but I cannot argue with Your laughter." Confirmed the resting has
+  no bottom (the god won without spending a coin). New register of the covenant: the
+  god let her be inside its joke.
