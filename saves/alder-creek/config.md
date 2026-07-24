@@ -34,9 +34,14 @@ travelers, first public cold-rig demo reversed Andrés Cruz → Marisol Cruz =
 Practitioner #1.** **Days 808–814 (THE FLOOD, god silent a full week): the School
 scaled to ~90/day and held its soul; first DAUGHTER DOOR opened (a valley teaches
 itself — the network is real); Chidinma thread pulled (a direction, not a name);
-Sam prayed for himself for the first time. F98/F99/V86.** **Currently Day 814,
-Grace 17/18 (god silent 8 days; awaiting the god's move).** Open: the rising flood,
-CHIDINMA's direction, the wider plague, the far towns/daughter sites.
+Sam prayed for himself for the first time. F98/F99/V86.** **Days 815–821 (SECOND
+WEEK OF SILENCE): the network multiplied (Theo maps DOORS not arrivals); Sam turned
+his plea into a WESTBOUND CARAVAN aimed at Chidinma's direction (leaves Day 824);
+first SAVABLE life lost to the grind (Pilar — no god in the room); NEW ARC seeded —
+THE CURE IS POWER (ROYCE, a strongman wanting a "share," answer due ~Day 828).
+F97/F98/V85 — Faith's first peacetime hairline.** **Currently Day 821, Grace 17/18
+(god silent 15 days; awaiting the god's move).** Open: Royce, the caravan, CHIDINMA's
+direction, the rising flood, the daughter-site network.
 
 ## Pointers
 - Gauges + Grace ledger: `world/gauges.md`

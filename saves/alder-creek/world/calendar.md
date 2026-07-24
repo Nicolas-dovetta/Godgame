@@ -1,10 +1,22 @@
 # Calendar
 
-- **Current day:** Day 814 — **SPRING, YEAR THREE** (THE FLOOD — the School scaled
-  to ~90/day under a week of divine silence and held its soul; awaiting the god's move)
-- **Season:** 🌱 **SPRING** — Event Intensity NORMAL (peacetime reconstruction at
-  civilization scale) — HARD MODE, **Grace 17/18** (last spend Day 806: Whisper→
-  Grace; Days 807–814 god SILENT, 0 spend)
+- **Current day:** Day 821 — **SPRING, YEAR THREE** (SECOND WEEK OF SILENCE — the
+  network multiplies; the grind takes its first savable life; a predator finds the
+  door; awaiting the god's move)
+- **Season:** 🌱 **SPRING** — Event Intensity NORMAL → **pressure rising** (a famous
+  cure in a broken world draws predators) — HARD MODE, **Grace 17/18** (last spend
+  Day 806: Whisper→Grace; Days 807–821 god SILENT 15 days, 0 spend)
+- **⚔️ NEW ARC SEEDED — THE CURE IS POWER (Day 821):** **ROYCE** — courteous
+  strongman, 11 rifles, "keeps some of the roads" — wants a share of what the town
+  "produces"; back in a week (~Day 828) for an answer. First person to see the door
+  as a RESOURCE, not a hope. Grace has 11 rifles and an exhausted town to weigh.
+- **🕯️ THE SILENCE HAS A PRICE (Day 819):** first SAVABLE life lost to the grind —
+  **Pilar**, in-window, lost to an exhausted rig-team's mistimed heat; no god in the
+  room to stop the clock (contrast the freezer, siege night 21). The town names the
+  cost without blaming the god. Faith's first peacetime hairline.
+- **🚶 SAM'S CARAVAN (leaves Day 824):** the westbound TRAIN team aimed at the
+  market-city/coast direction — Chidinma's name folded into the curriculum; the first
+  door the TOWN opened, aimed at the god's own unanswered prayer.
 - **🏫 SCHOOL OF THE DOOR — SCALED & HELD (Days 807–814):** curriculum on Renata's
   slate ("COLD BUYS TIME. HEAT BUYS BACK."); **RULE ONE — EACH ONE WALKED HERE**
   over the medicine + 2nd scripture ("we save the ones we can; we honor the ones we

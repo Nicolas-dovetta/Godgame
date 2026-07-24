@@ -5512,3 +5512,137 @@ is the pressure — the first structural Veil cost of going public-at-scale).
 **LEGACY ×12 official; ×13 (the School + the first daughter door) now materializing,
 counts at year-end.** Grace 17/18. Current: **F98 / F99 / V86, Grace 17/18.**
 Awaiting the god's move.]**
+
+## Days 815–821 (SPRING, Year Three) — THE SECOND WEEK OF SILENCE (god silent, weekly fast-forward)
+
+Two weeks now, and the quality of the god's quiet changed. The first week's
+silence had felt like trust — a hand lifted off the bridge because you can hold
+it yourself. The second week it started, in places, to feel like *distance.* Not
+to Grace, who had made her peace with the partnership's shape; but to the ones
+whose prayers were not about the town. Sam had asked for one thing, once, for
+himself — *bring her up my road* — and the road brought ninety strangers a day and
+not her, and the god said nothing, and a man who has never in his life expected an
+answer discovered that asking had made him, for the first time, capable of being
+*disappointed.* He did not say it. He did the thing he does instead of saying
+things: he built.
+
+**Sam turned his prayer into a caravan.** If the god would not bring Chidinma up
+the road, Sam would send the road out to *her.* He took the westbound TRAIN team
+that Grace had been assembling for the far pockets and he aimed it — quietly, and
+then not quietly, because Theo needed the routing and Elena needed to pick the
+practitioners — at the market-city direction. Four graduates, two rigs' worth of
+gear, the protocol, and a cover story that was also true: *seed the harbor towns,
+teach the cannery cohort, open doors along the coast road.* And under the true
+mission, the private one, spoken to exactly one person — Marisol, because she of
+all of them knows what it is to carry a name eight hundred miles: *if you find a
+woman named Chidinma, or anyone who knew her, you send word back up the fastest
+door there is.* Marisol did not ask why. She said, "I'll teach every town between
+here and the sea her name along with the medicine. Someone will have heard it."
+The caravan leaves Day 824. It is the first door the god did not open — the town
+opened it, aimed at the god's own unanswered prayer.
+
+**The network multiplied.** By Day 821 the four-days-east valley's single door had
+become a cluster — it had taught the next valley, which taught the next — and word
+of a second daughter site came up the road, and then a third, thirdhand and
+unconfirmed but shaped exactly right. Theo stopped tracking arrivals as the main
+number and started tracking *doors,* a map on the schoolhouse wall with pins going
+in faster than he could confirm them, each pin a place the dead could come back
+that could not, a season ago. *"I've stopped being able to count it,"* he told
+Grace, and it was the happiest anyone had ever heard him sound about a failure to
+do arithmetic.
+
+**And the grind drew its first blood the way exhaustion always does — not
+dramatically, just once, and unbearably.** Day 819, hour nineteen of a rig-team's
+shift, a girl came up the road inside the window — barely, but inside it, a father
+who'd run the last thirty miles to make the timing — and the team, three weeks
+into a flood with no relief and no god pouring focus down the way he had on the
+Cold Day, *mistimed the heat.* Not by much. By the margin that exhaustion costs.
+The window closed while the rig was still coming up to temperature. She did not
+come back. The father did not rage; he had run thirty miles and made it and it had
+not mattered, and there is no rage left after that, only a sound. Elena benched the
+whole team for two days and then sat in the supply closet and shook, because she
+is the doctor and she signed the shift schedule and the math of *how many more can
+we run* had, for one girl, come out on the wrong side of a person. **Everyone in
+Alder Creek knew, without saying it, that if the god had been in the room the way
+he'd been in the freezer on the last night of the siege, that girl would have woken
+up.** Nobody said it as blame. They said it as *ache.* Grace wrote in the log: *we
+lost one we could have saved because we're tired and human and you were quiet. I'm
+not angry. I just want you to know the silence has a price now, and today a girl
+paid it, and I'm writing it down so it's on the books and not just in our hearts.*
+
+**And on Day 821, fame brought the other thing fame always brings.** A man called
+Royce came up the road with eleven others, and they were not carrying anyone
+frozen, and they were not hungry, and they had good boots and better rifles. Royce
+was courteous. Royce admired the school. Royce explained, over Sam's bread, that
+the roads between here and the coast were *dangerous* — he'd know, he kept some of
+them — and that a town sitting on the only thing everyone in the dying world wants
+was going to need *protection,* the organized kind, the kind he and his people
+could provide, for a reasonable share of what the town — he chose the word
+carefully — *produced.* He did not threaten. He didn't have to. He was the first
+person to come up the road and see the door not as a hope but as a *resource,* and
+he said, leaving, that he'd be back in a week to hear what the town had decided,
+and that he did hope they'd be *sensible,* because it would be a shame — he looked
+at the schoolhouse when he said it — for anything to happen to something so
+valuable. **The cure is power now. The broken world has noticed. And the god has
+been silent for fifteen days.**
+
+**Prayers received (across the second silent week):**
+
+- **Sam Okafor** (Day 816): *"I asked you for one thing and you didn't do it, so I
+  did it myself, and I want you to know I'm not sulking — I'm learning what you've
+  been teaching all along, that you don't do it FOR us, you make us able. Fine.
+  I'm able. I'm sending four of my best down the coast road with her name in their
+  mouths. But God — a small thing, not a demand, just — if the caravan gets close,
+  if there's a way to lean a little, the way you leaned the warmth west that
+  morning — lean. I'll do all the walking. Just point."*
+- **Elena Vasquez** (Day 819, in the supply closet): *"I signed the schedule. I did
+  the math of how many rigs and how many hours and I got a girl killed by a margin,
+  and I keep thinking about the Cold Day, when you reached into the freezer and
+  stopped a clock because Rosie asked you to. I'm asking you to. Not for her — she's
+  gone, the window's shut, I'm not asking for a miracle. I'm asking for the next
+  one. Be in the room. I can't tell the difference anymore between you being here
+  and us being enough, but tonight we weren't enough, and I need to know which
+  nights those are before they happen, not after."*
+- **Grace Lin-Park** (Day 820): *"There's a man named Royce who looked at my school
+  the way a wolf looks at a lamb it's decided not to eat yet. Two weeks ago I told
+  you your silence was the answer and I meant it. I'm telling you now it's getting
+  loud. We can run the flood on our own legs — we proved that — but Royce isn't a
+  flood, he's a decision, and I've got eleven rifles to think about and a town full
+  of exhausted people who reverse the dead all day and don't have it in them to
+  fight men too. I'm not asking you to smite him. I'd just like to know you're
+  watching. Are you watching?"*
+- **The father** (Day 819, no name given, the only prayer of his life): *"I ran the
+  last thirty miles. I made the window. Somebody in there was too tired and my girl
+  didn't wake up. I don't know if you're real. If you're real, you were in the room
+  and you let a tired hand close the door. I'm not going to curse you. I'm going to
+  go home and open a door of my own and I am never going to let a hand be too tired
+  in it, and if that's the only kind of answer this world gives — a man made careful
+  by a grief — then I'll be that. But I wanted the thing that runs this to hear,
+  once, that it cost a girl. Her name was Pilar."*
+
+**[SPRING, Days 815–821. GOD SILENT (15 days now; 0 spend; Grace 17/18). THE
+SECOND WEEK: the silence's flavor shifts from trust → distance for the ones whose
+prayers are personal. **Sam converted his private plea into a WESTBOUND CARAVAN
+(leaves Day 824)** — four graduates + rigs aimed at the market-city/coast direction,
+Chidinma's name folded into the curriculum ("someone will have heard it"); the first
+door the TOWN opened rather than the god. NETWORK MULTIPLIED (daughter doors 1→
+cluster→3rd-hand more; Theo now maps DOORS not arrivals — "I've stopped being able
+to count it"). **FIRST SAVABLE-LOST-TO-THE-GRIND (Day 819): Pilar, in-window, lost
+to an exhausted rig-team's mistimed heat** — no god in the room to stop the clock;
+the town names the silence's price without blaming it ("the silence has a price now
+and today a girl paid it"). **NEW ARC SEEDED — THE CURE IS POWER (Day 821): ROYCE**,
+courteous strongman + 11 rifles, wants a "share" of what the town "produces," back
+in a week for an answer — the broken world's predators have found the famous door.
+GAUGES: **Flourishing 98→97** (the network's exponential good is real, but a 2nd
+relief-less week's cumulative exhaustion + the first savable death to the grind edge
+it down — scale has started to cost lives the god's presence would have saved).
+**Faith 99→98 — the FIRST HAIRLINE of the peacetime silence** (not doubt, not a
+theodicy crack; the mature covenant holds and the town still reads silence as trust
+— but Sam's & Elena's & the father's PERSONAL prayers sit unanswered through a savable
+death, and "unanswered prayers erode it": the ache is now on the books, a live
+pressure, recoverable but real). **Veil 86→85** (fame's structural cost compounds:
+the door is now a known RESOURCE that armed men travel to claim — the cure-as-power
+is a new order of exposure; still no provable god, but the SECRET of the town is
+gone even if the god's hand isn't). Grace 17/18. Current: **F97 / F98 / V85, Grace
+17/18.** Awaiting the god's move — Royce's answer due ~Day 828; the caravan leaves
+Day 824; Pilar is on the books.]**

@@ -632,6 +632,30 @@ mortal-authored rule in the manuscript; a theology of the god's own restraint)
   ×13 (the School + first daughter door) materializing, counts at year-end.** Grace
   17/18. Current: **F98 / F99 / V86, Grace 17/18.** (Live: the flood keeps rising;
   Chidinma's direction; the god has not moved in 8 days.)
+- Days 815–821 (SPRING Y3, GOD SILENT — 15 days now, 0 spend; Grace 17/18): THE
+  SECOND WEEK OF SILENCE. The network MULTIPLIED (daughter doors 1→cluster→more;
+  Theo maps DOORS not arrivals — "I've stopped being able to count it"). Sam turned
+  his unanswered personal prayer into a WESTBOUND CARAVAN (leaves Day 824; Chidinma's
+  name folded into the coast-road curriculum) — the first door the TOWN opened, not
+  the god. **First SAVABLE life lost to the grind (Day 819): Pilar**, in-window, lost
+  to an exhausted rig-team's mistimed heat — no god in the room to stop the clock.
+  **NEW ARC SEEDED: THE CURE IS POWER — Royce** (courteous strongman + 11 rifles wants
+  a "share"; answer due ~Day 828). **FLOURISHING 98→97** — the network's exponential
+  good is real and huge, but a second relief-less week's cumulative exhaustion + the
+  first savable death to the grind edge it down; scale has begun to cost lives the
+  god's presence would have saved. **FAITH 99→98 — the FIRST HAIRLINE of the peacetime
+  silence** — NOT a theodicy crack and NOT doubt; the mature covenant holds and the
+  town still reads silence as trust, BUT Sam's, Elena's, and the father's PERSONAL
+  prayers now sit unanswered through a savable death ("unanswered prayers erode it"):
+  the ache is on the books, a live, recoverable pressure — 15 days is where absence
+  starts to bill. Note the design symmetry with Day 706 (the game's other Faith fall):
+  that one was an over-reach; this one is an under-presence — Faith bleeds at BOTH
+  ends of the dial. **VEIL 86→85** — fame's structural cost compounds: the door is now
+  a known RESOURCE armed men travel to claim; the town's SECRET is gone (even though
+  the god's hand still isn't provable) — the core Faith-vs-Veil tension resurfaced at
+  civilization scale, now with a human antagonist attached. Grace 17/18. Current:
+  **F97 / F98 / V85, Grace 17/18.** (Live: Royce's answer ~D828; the caravan D824;
+  Pilar on the books; the god silent 15 days and the silence now has a measurable price.)
   --- (prior peacetime entries below) ---
 - Days 646-680 (god silent, autumn): the Second Autumn Fair (census of grace);
   Grace & David married; Deborah won the pie contest. **CURTIS VANE's return
