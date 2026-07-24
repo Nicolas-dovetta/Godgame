@@ -45,9 +45,16 @@ toward the ache — Emotion×2 free + Whisper 1): Grace felt "watched & protecte
 (built a coast door named for Pilar); Elena got the WHISPER — absolution + the
 confession "I need to rest for what is coming; this is the easy part." Faith's
 hairline closed, F97/F99/V85. OMINOUS SEED: something past the map's edge the god
-is bracing for (Elena the sole keeper).** **Currently Day 822, Grace 16/18 (awaiting
-the god's next move).** Open: Royce (answer due ~Day 828), the caravan (leaves Day
-824), CHIDINMA's direction, the rising flood, the daughter-site network, "what is coming."
+is bracing for (Elena the sole keeper).** **Days 823–828 (THE ANSWER TO THE WOLF,
+god silent): the caravan left Day 824 (4 teachers + Chidinma's name) south into
+Royce's country; the town chose OUT-GIVE ("we're the rain; you can't tax the rain")
+and offered Royce a SEAT — it landed (2 of his men turned), but Royce seized the one
+lever left: he HOLDS THE ROAD THE CARAVAN IS ON. NEW ARC — THE SKY: a road-control /
+hostage conflict, personalized to Sam's four teachers + Chidinma. F97/F99/V85; a
+resting god handed a LOCATION.** **Currently Day 828, Grace 16/18 (awaiting the god's
+move).** Open: THE SKY (Royce + the caravan on his road), Ruth (a defector's cold-kept
+wife, 3 days south), CHIDINMA's name in the coldlands, the flood, the daughter network,
+"what is coming."
 
 ## Pointers
 - Gauges + Grace ledger: `world/gauges.md`

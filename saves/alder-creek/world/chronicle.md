@@ -5759,3 +5759,155 @@ Grace 17→16. Current: **F97 / F99 / V85, Grace 16/18.** OMINOUS SEED (unscored
 is the easy part" — something past the edge of the map the god is husbanding strength
 for. Live: Royce's answer due ~Day 828; the caravan leaves Day 824; awaiting the god's
 next move.]**
+
+## Days 823–828 (SPRING, Year Three) — THE ANSWER TO THE WOLF (god silent)
+
+**The caravan left Day 824**, at dawn, the way Sam does everything that matters —
+early and without ceremony. Four graduates, two rigs of gear, the protocol bound
+in oilcloth, and Chidinma's name written on the inside cover of each of the four
+notebooks where the practitioners would see it every time they opened to teach.
+Marisol saw them off; she'd drilled them herself. Sam stood at the edge of town
+until the last of them was a smudge on the west road, and then he lit the big lamp
+even though it was full morning, because a lamp lit in daylight is a promise, not
+a light. Theo, watching beside him, said the thing that would matter in four days:
+"That road bends south to the coast through the coldlands. Royce's stretch." Sam
+said, "Then they'll teach Royce's stretch too." Theo did not say what he was
+thinking, which was that Royce might have a different lesson in mind.
+
+**The town spent the week deciding what to tell a wolf**, and it was the best
+argument Alder Creek has had since the siege — not with Royce, with itself. Aaron
+and Daniel wanted the wall manned and the kill-lane cleared: *we did this once, we
+can do it again, and a man who threatens a hospital forfeits the courtesy of
+surprise.* Some wanted to pay — a share of what, exactly? — buy the peace, keep
+the doors open, call it the cost of doing miracles in a broken world. And Grace let
+them all talk, the way she'd learned to, until the thing underneath surfaced on its
+own, and it was Sam who said it, quiet, over the ovens, the way he says the true
+things:
+
+"You can't sell him a share of the cure. There's no *share.* That's the whole
+thing, that's what none of us keep saying out loud because it's too good to
+believe — **it isn't a serum, it's a sentence.** Cold buys time, heat buys back,
+neither alone. Nine words. Every single person who walks out of Renata's schoolhouse
+carries the entire cure in their head and gives it away for free to the next town,
+because that's the *only way it works at all.* Royce came here to tax a well. But
+we're not a well. We're the rain. You cannot own the rain. You cannot put a toll on
+a thing whose whole nature is to fall on everyone. And the second he understands
+that — the second he really gets that there is *nothing here to steal,* that the
+most valuable thing in the dying world is also the least ownable thing that has ever
+existed — his whole business model turns to water in his hands." Grace looked at him
+a long moment and said, "So we don't fight him and we don't pay him. We *teach* him.
+We offer the wolf the same door we offer everyone, and we let the offer be the
+weapon." Sam nodded. "A road with a door in every valley is worth more than a road
+you can put a gate on. We just have to make him see the arithmetic. Theo?" Theo,
+who had been waiting to be asked, laid down the model: *a taxed road strangles the
+traffic that feeds it; an open road of cure-sites generates a hundred times the
+movement, the trade, the debt-of-gratitude — Royce can be the man who owns the
+gates on a dying road, or the man who protected the road that brought the world
+back. One of those gets you shot in ten years. One of them gets you remembered.*
+They would offer Royce a *seat,* not a settlement. It was the Vane playbook, grown
+up: don't defeat the predator, dissolve the thing he preys on.
+
+**Royce came back Day 828, on time, with his eleven.** Grace met him at Sam's long
+table with bread already cut, which unsettled him more than a barricade would have —
+you don't feed a man you're afraid of. She did not negotiate a share. She told him
+the truth, all of it, the way Sam had framed it: *there is nothing to tax. The cure
+is nine words and a method; every person who learns it gives it away; we could not
+hoard it if we tried, and we would not try, because the not-hoarding is the entire
+reason it's saving the world.* And then she made the offer instead of the plea:
+*learn it. Bring your people. A road with a door in every town is the richest road
+in the world, and the man who kept it open — not the man who gated it — is the one
+the reborn world builds a statue to. We're not asking you to stop being who you are.
+We're telling you the smart version of who you are is on our side of this table. Sit
+down. There's bread.*
+
+And it *landed* — you could see it land. Royce was not a stupid man and the logic
+was clean and it went into him like cold water. Two of his eleven were visibly
+undone by it — one of them, it came out later, had a wife three days south in a
+root cellar, cold and kept, on the same desperate hope every pilgrim on the road
+was carrying, and he had been standing behind Royce's gun for a month not knowing
+there was a door. *That* man was already, in his heart, an Alder Creek graduate.
+Royce felt his own ground shifting and did the thing men like Royce do when the
+argument is lost: **he changed the subject to the one lever he still held.**
+
+"It's a fine speech," Royce said, standing, leaving the bread. "And you're right —
+I can't tax rain. But I don't need to tax the rain. I just need to own the *sky it
+falls through.*" He'd known about the caravan before he ever sat down. Four
+teachers, two rigs, gone south four days ago down a road that bends, for sixty
+miles, through country he holds. "Your rain's already walking on my roads," he
+said, almost gently. "Pretty girls and clever boys with cooler-boxes, headed for
+the coast. I'd hate for them to have trouble. Roads are dangerous — I'd know." He
+let it sit. "So here's my counter-offer, and it's better than yours because it's
+*real:* you want the world taught, fine, teach it — but every door you open south
+of here opens with my say-so and my cut of the gratitude, or the next four teachers
+you send don't reach the second valley. You've got something the world wants. Turns
+out I've got something *you* want — the road it walks on. Think it over. I'm
+patient." And he left, unhurried, eleven rifles minus two wavering hearts, holding
+the one thing the town's beautiful argument hadn't accounted for: **the messengers
+were already in his hand.**
+
+Sam did not sleep. The big lamp burned all night. Somewhere sixty miles south, four
+of his people were walking a wolf's road with Chidinma's name in their notebooks,
+and the town had won the argument and lost the leverage in the same hour, and the
+god — resting, husbanding, bracing for whatever "the easy part" was easier than —
+had not leaned so much as a finger toward the coast road. Sam prayed the shortest
+prayer of his life, standing at the window. It was not a request. It was a location.
+
+**Prayers received (Days 823–828):**
+
+- **Grace Lin-Park** (Day 828, after Royce): *"I did it the way we do it. I didn't
+  fight him and I didn't pay him, I offered him the door and I meant it and it
+  WORKED — I watched it work, I watched two of his men fall in love with the idea of
+  not being killers. And then he reached past all of it and grabbed the caravan,
+  because I sent four kids down his road four days ago and didn't think it through.
+  That's on me. I was so busy being unable to be extorted that I forgot you can hold
+  a person even when you can't hold a thing. I don't know what to do about the sky.
+  You told Elena you're resting. I'm not going to spend you on this if I can help it.
+  But if it goes wrong on that road — if it's Owen at the gate all over again, four
+  of them this time — I need to know the resting has a bottom, and you'll come up
+  from it for that. Tell me the resting has a bottom."*
+- **Sam Okafor** (Day 828, the location-prayer): *"They're sixty miles south on a
+  road a bad man owns, and one of them has her name in his book, and I sent them.
+  I'm not asking you to carry them, You told Sam Okafor a long time ago You don't do
+  that and I finally believe it. I'm telling You where they are. Coast road, south
+  of the coldlands, four teachers and two rigs, and a man named Royce who wants the
+  sky. That's all. That's where they are. You do what a god does with knowing where
+  Your people are. I'll keep the light on."*
+- **The wavering man** (name unknown, Day 828, his first prayer — he didn't know it
+  was one): *"There's a town where they said the cold thing can be undone. My Ruth
+  is three days south in a cellar and I've been carrying a gun for a man who never
+  told me. If any of it's true — if there's a door — I'll put the gun down and walk
+  to it. I don't even know who I'm saying this to. I just know I stopped being able
+  to stand behind Royce the second the clerk offered him bread and he wouldn't take
+  it. You don't say no to bread unless you've already decided people are things."*
+
+**[SPRING, Days 823–828. GOD SILENT (0 spend; Grace 16/18). THE CARAVAN LEFT Day
+824 (4 graduates + 2 rigs, Chidinma's name in every notebook), south down the coast
+road — which bends 60 mi through ROYCE'S country (Theo flagged it; Sam: "then they'll
+teach Royce's stretch too"). THE TOWN'S ANSWER (its own, unaided): not fight, not
+pay — **OUT-GIVE.** Sam's insight: the cure is "a sentence, not a serum" — a free,
+un-hoardable METHOD ("we're not a well, we're the rain; you cannot tax the rain");
+Theo's model (an open road of doors is worth 100× a gated one); Grace offered Royce
+a SEAT, not a settlement — the Vane playbook grown up (dissolve what the predator
+preys on). **Day 828 — ROYCE'S ANSWER:** the argument LANDED (2 of his 11 visibly
+turned — one has a cold-kept wife, Ruth, 3 days south, didn't know there was a door)
+— but Royce, denied a hoardable resource, seized the lever the town's beautiful logic
+missed: **he holds the coast road the caravan is ON.** New extortion: every southern
+door opens "with his say-so and his cut," or the teachers don't reach the second
+valley. The town WON the argument and LOST the leverage in one hour. **NEW ARC: THE
+SKY — Royce holds the messengers (Sam's four + Chidinma's name) hostage to the road;
+a road-control/hostage conflict, personalized to Sam's caravan and his lost sister-
+in-faith.** GAUGES: **Flourishing HOLDS 97** (the integrity-win — a town that can't
+be extorted because it produces nothing hoardable, and turned 2 of a wolf's men
+toward the light — offset exactly by the new, real jeopardy to 4 named teachers on a
+predator's road). **Faith HOLDS 99** (the town met the wolf on its own two feet
+through a resting god's silence — the thesis again; but Grace's & Sam's prayers now
+carry a sharp new edge: "does the resting have a bottom? — come up from it if it's
+Owen-at-the-gate times four"; the silence's cost is loaded and live). **Veil 85
+steady** (the entire confrontation was human — argument, bread, economics; the god's
+hand nowhere; keeping the god OUT of it protected the Veil, and Royce still has no
+idea a god exists — the Veil is his blind spot). **LEGACY candidate:** the "un-taxable
+method / we're the rain" doctrine — the town's economic theology of the cure (counts
+at year-end). Grace 16/18. Current: **F97 / F99 / V85, Grace 16/18.** Live & urgent:
+the caravan 60 mi south on Royce's road; Ruth (a possible defector's wife) 3 days
+further; Chidinma's name walking into the coldlands; a resting god handed a LOCATION.
+Awaiting the god's move.]**

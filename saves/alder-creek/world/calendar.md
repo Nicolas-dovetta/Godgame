@@ -1,11 +1,19 @@
 # Calendar
 
-- **Current day:** Day 822 — **SPRING, YEAR THREE** (THE SILENCE BROKE toward the
-  ache — Grace watched-over, Pilar's father grieved-with, Elena absolved-and-warned;
-  awaiting the god's next move)
-- **Season:** 🌱 **SPRING** — Event Intensity NORMAL → **pressure rising** (a famous
-  cure in a broken world draws predators) — HARD MODE, **Grace 16/18** (Night 821:
-  Emotion×2 free + Whisper→Elena 1; the god's first move in 15 days)
+- **Current day:** Day 828 — **SPRING, YEAR THREE** (THE ANSWER TO THE WOLF — the
+  town out-gave Royce and won the argument, but Royce holds the road the caravan is
+  on; awaiting the god's move)
+- **Season:** 🌱 **SPRING** — Event Intensity NORMAL → **pressure rising** (the cure
+  is power; a predator now holds the messengers) — HARD MODE, **Grace 16/18** (Night
+  821 last spend; Days 823–828 god SILENT, 0 spend)
+- **⚔️ THE SKY (Royce arc, Day 828) — the town WON the argument, LOST the leverage:**
+  Alder Creek's answer was OUT-GIVE, not fight/pay — Sam's "the cure is a sentence,
+  not a serum; we're not a well, we're the rain; you can't tax the rain"; Grace offered
+  Royce a SEAT, not a share. It landed (2 of Royce's 11 turned — one has a cold-kept
+  wife, RUTH, 3 days south). But Royce seized the one lever left: **he holds the coast
+  road the CARAVAN is on** (left Day 824; 4 teachers + 2 rigs + Chidinma's name, 60 mi
+  south in his country). New extortion: southern doors open "with his cut" or the
+  teachers don't reach the second valley. A resting god has been handed a LOCATION.
 - **🕯️ THE SILENCE BROKE (Night 821 / Day 822):** presence, not miracle — the god
   turned to the three deepest aches. **Grace** felt "watched & protected" (free) and
   woke unafraid (no Royce plan handed down — deliberately). **Pilar's father** was

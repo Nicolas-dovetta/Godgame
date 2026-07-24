@@ -680,6 +680,29 @@ mortal-authored rule in the manuscript; a theology of the god's own restraint)
   part" — a future-arc dread the god is husbanding strength for; Elena the sole keeper.
   Grace 16/18. Current: **F97 / F99 / V85, Grace 16/18.** (Live: Royce ~D828; caravan
   D824; awaiting the god's next move.)
+- Days 823–828 (SPRING Y3, GOD SILENT, 0 spend; Grace 16/18): THE ANSWER TO THE WOLF.
+  The caravan left Day 824 (4 graduates + 2 rigs + Chidinma's name) south down the
+  coast road — 60 mi through Royce's country. The town, unaided, chose OUT-GIVE (not
+  fight, not pay): Sam's doctrine — the cure is "a sentence, not a serum," a free
+  un-hoardable METHOD ("we're the rain; you can't tax the rain"); Theo's model (an open
+  road of doors >> a gated one); Grace offered Royce a SEAT. **Day 828: the argument
+  LANDED** (2 of Royce's 11 turned — one, the wavering man, has a cold-kept wife Ruth
+  3 days south, never knew there was a door) — BUT Royce seized the lever the logic
+  missed: **he holds the road the caravan is on.** New extortion (southern doors "with
+  his cut" or the teachers don't arrive). The town won the argument, lost the leverage.
+  **FLOURISHING HOLDS 97** — the integrity-win (un-extortable because nothing's
+  hoardable; 2 of a wolf's men turned toward the light) offset EXACTLY by the new real
+  jeopardy to 4 named teachers on a predator's road. **FAITH HOLDS 99** — the town met
+  the wolf on its own legs through a resting god's silence (the thesis) — but Grace's &
+  Sam's prayers now carry a sharp edge ("does the resting have a BOTTOM? come up from it
+  if it's Owen-at-the-gate times four"); the silence's cost is loaded and live, not yet
+  bleeding. **VEIL 85 steady** — the confrontation was ENTIRELY human (argument, bread,
+  economics); keeping the god OUT protected the Veil; Royce still has no idea a god
+  exists (the Veil is his blind spot — a possible asset). **LEGACY candidate:** the
+  "un-taxable method / we're the rain" doctrine (the town's economic theology of the
+  cure). Grace 16/18. Current: **F97 / F99 / V85, Grace 16/18.** (Live & URGENT: the
+  caravan 60 mi south on Royce's road; Ruth 3 days further; Chidinma's name in the
+  coldlands; a resting god handed a LOCATION — awaiting the god's move.)
   --- (prior peacetime entries below) ---
 - Days 646-680 (god silent, autumn): the Second Autumn Fair (census of grace);
   Grace & David married; Deborah won the pie contest. **CURTIS VANE's return

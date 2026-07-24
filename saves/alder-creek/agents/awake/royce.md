@@ -39,3 +39,35 @@ him (the Vane playbook — make the real thing so plainly present the taking mak
 sense; the cure is a METHOD that can't be hoarded, which Royce may not yet understand —
 you can't tax a thing that teaches itself away for free), or the god may move. His 11
 rifles + the exhausted town + the god's 15-day silence set the stakes. Answer due ~D828.
+
+## Day 828 — THE ANSWER: out-argued, so he changed the lever
+Came back on time with his eleven for the town's answer. Grace met him with bread
+already cut (unsettled him — you don't feed a man you fear) and offered not a
+settlement but a SEAT: the cure is un-hoardable ("you can't tax the rain"); an open
+road of doors is worth 100× a gated one; be the man who kept the road open, not the
+man who gated a dying road. **It landed** — the logic went into him like cold water,
+and 2 of his 11 visibly turned (see the wavering man below). Royce, not stupid and
+now on losing ground, did what his kind do: changed the subject to the lever he
+still held. **"I can't tax the rain. But I can own the sky it falls through."** He'd
+known about the caravan before he sat down — 4 teachers + 2 rigs, 4 days gone, 60 mi
+south on a road he holds for 60 miles. New extortion: every southern door opens with
+his say-so and his cut, or the next teachers "don't reach the second valley." Left
+unhurried, holding the messengers, minus two hearts.
+
+**Updated read:** Royce adapts faster than he converts. The out-give genuinely broke
+his business model (you can't hoard a method) — but he pivoted from taxing the PRODUCT
+to controlling the ROAD/the people on it. He is now a road-warlord holding hostages,
+not a protection-racketeer selling security. Still convertible in theory (the free-
+method logic is a slow acid on his whole worldview, and his own men are already
+defecting), but he's raised the stakes to lives. He still does NOT know a god exists —
+the Veil is his blind spot, and possibly the town's asset. **He does not know he just
+handed a resting god a location.**
+
+## Day 828 — DEFECTION IN PROGRESS: the wavering man (name unknown)
+One of Royce's eleven. Has a wife, **Ruth**, cold-kept in a root cellar 3 days south,
+on the same hope every pilgrim carries — and had been standing behind Royce's gun for
+a month not knowing there was a door. Broke inward the moment Royce refused Grace's
+bread ("you don't say no to bread unless you've decided people are things"). Prayed
+his first unwitting prayer: if there's a door, he'll put the gun down and walk to it.
+A convert-in-waiting inside the enemy camp; a possible crack in Royce's hold; a way
+into the coldlands. Live thread.
