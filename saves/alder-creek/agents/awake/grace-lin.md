@@ -104,3 +104,14 @@ her"). Prays occasionally now, in a negotiating tone, like leaving reviews.
   fact I could doubt, but I cannot argue with Your laughter." Confirmed the resting has
   no bottom (the god won without spending a coin). New register of the covenant: the
   god let her be inside its joke.
+- Day 847 — THE SPLINTER. The god set a LITTLE unsourceable worry in her (free emotion);
+  it sent her looking, and her looking found the one thing that didn't match the spring —
+  Elena & Theo's grimness over a map. Cornered them gently ("show me what you've been not
+  telling me"); Elena (worry-capped by the god) told her the whole front-truth clean, and
+  the little-worry had braced her so it landed as confirmation, not ambush. Made the
+  leadership THREE; chose the deliberate non-alarm ("we tell them when we can hand them a
+  wall in the same breath — the wall goes up the same day as the fear"). Prayed: "you didn't
+  tell me, you made me go find out and made me able to hear it standing up... don't spend a
+  coin of you on my worry — you'll need all of it for what's turning out our lights in the
+  west. We'll do the scared part. You do the part we can't." Now co-command of the front,
+  with Elena & Theo.

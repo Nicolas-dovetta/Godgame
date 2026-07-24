@@ -38,8 +38,12 @@ walking EAST toward the door — she's on the roads now (Sam checks intake lists
 And **THE WEST** took shape: the network's westernmost doors are going SILENT in a line,
 an east-marching front at walking pace (no bodies, no plague-signs); Theo found it (the
 door-map is a sensor array), Elena connected it to the god's *"what is coming"* — front
-× distance = *"weeks, maybe."* They haven't told the town. THE HINGE nears: Elena must
-wake the town and point it west, and has asked the god to "come back all the way, soon."
+× distance = *"weeks, maybe."* THE HINGE, tuned (Day 847): the god
+CONDUCTED a controlled disclosure with three free feelings (hope→Sam, a little worry→Grace,
+worry capped→Elena) — the leadership core is now THREE (Elena, Theo, Grace), braced and
+calm, choosing a deliberate non-alarm ("tell the town when we can hand them a wall in the
+same breath"). The god still husbands its grace ("not yet, and not asleep; I'm counting
+too"). Wall-vs-front countdown begins.
 
 ## Pointers
 - Gauges + Grace ledger: `world/gauges.md`

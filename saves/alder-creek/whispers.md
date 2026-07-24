@@ -647,3 +647,37 @@ the free lever has no floor. A resting god is not a powerless one.
     on some cosmic level, a joke. It answered "does the resting have a bottom?" in
     the only register that couldn't be turned into a lever: not *yes I'll come*, but
     a wink. *Relax. I'm not even worried about this one. Watch.*
+
+## Night 846 — THE CONDUCTOR (Emotion ×3, all free; Grace 16/18 unchanged)
+
+Still resting, still spending nothing, the god did the most delicate thing the free
+lever can do: it set three different people to three different temperatures, so that
+the truth coming toward the town would arrive at exactly the right size, in exactly
+the right hands, without a coin or a word. Not preventing the reveal — *tuning* it.
+
+38. **To Sam — EMOTION, free: HOPE.** Not a promise she lives, not a fact about the
+    road (that would price as a whisper) — just hope, the pure sustaining kind, poured
+    into the man keeping a light and checking lists. Enough to keep his believing on
+    the side of *a tall quiet woman walking home* and off the side of *a name in the
+    cold ground.* A god cannot tell Sam his sister-in-faith is alive. A god can keep
+    him able to hope she is, which on a long road is its own kind of provision.
+
+39. **To Grace — EMOTION, free: a LITTLE worry.** The subtlest priming of the arc. Not
+    dread, not alarm — a faint, low, unshakeable *unease,* dialed deliberately small.
+    Grace has run the town on instinct for a year; the god did not tell her anything,
+    it just turned up, by one notch, the part of her that notices when something is
+    wrong in her people. A leader with a little worry she can't source will go *looking*
+    — will catch the grimness two of her people are failing to hide — will be ready to
+    receive the thing Elena is carrying, instead of blindsided by it. The god aimed
+    Grace, gently, at the truth, without ever handing it to her.
+
+40. **To Elena — EMOTION, free: worry CAPPED — "only a little, not more."** The
+    inverse of Grace's, and the answer (partial) to Elena's prayer. Elena has been
+    carrying a crushing dread; the god reached into it and set a *ceiling* on it — held
+    her fear to a working level and no higher, the hand on the shoulder that says
+    *steady; a little worry is right, more is only fuel burned before the fire; it is
+    not time to spend yourself yet, and when it is, I will be awake.* Not the full
+    return she begged for — the god is still husbanding — but a direct, felt, *I am
+    here and I have the timing* laid over the one mortal who knows what's coming. She
+    asked the god to keep her from pointing the town at a dark and finding him asleep.
+    The god answered: *not yet, and not asleep. Hold. I'm counting too.*

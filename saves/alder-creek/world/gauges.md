@@ -769,6 +769,27 @@ mortal-authored rule in the manuscript; a theology of the god's own restraint)
   V85, Grace 16/18.** THE HINGE APPROACHES (Elena must wake the town & point it west; ~weeks
   to the front). (Live: the eastward silence-front; Chidinma on the roads between; Sam's
   lists; Elena & Theo alone with the map. Awaiting the god's move.)
+- Day 847 (SPRING Y3, EMOTION ×3, ALL FREE; Grace 16/18 unchanged): THE CONDUCTOR — the
+  god tuned three mortals to three heats and let them find each other, spending ZERO grace,
+  orchestrating a CONTROLLED disclosure. **Sam — HOPE** (the dusk list landed as "not her
+  YET"; vigil sustained). **Grace — a LITTLE WORRY** (unsourceable unease → she went
+  looking, caught Elena & Theo, cornered them gently). **Elena — WORRY CAPPED** ("only a
+  little, not more" → steady, not shattered; told Grace the whole front-truth clean). RESULT:
+  leadership core now THREE (Elena, Theo, Grace), braced & calm; a DELIBERATE non-alarm
+  chosen ("tell the town when we can hand them a wall in the same breath" — Aaron's siege-
+  lesson); the town innocent by the leaders' CHOICE, buying its last untroubled days on
+  purpose. **FLOURISHING HOLDS 98** — the bright surface holds for the wider (still-innocent)
+  town, with the first INTERNAL crack (3 leaders now carry the dread) offset by shared-burden
+  relief + a steadied command staff; the town-wide drop still deferred to the reveal. **FAITH
+  HOLDS 99** — the god touched its 3 key mortals with pure free feeling after a long rest and
+  each FELT the hand (Elena: "you're not asleep, I felt it"); her "come back all the way"
+  answered with an honest partial — "not yet, and here; I'm counting too" — received as trust
+  by a mature faith (a steady sliver: "I'll hold you to it, gently"). **VEIL 85 steady** (three
+  invisible feelings; nothing public). Grace 16/18 (all free — the siege mastery-arc
+  blast→titrate→conduct→let-go now applied to MORALE PREP, not battle). Current: **F98 / F99 /
+  V85, Grace 16/18.** THE HINGE, TUNED: command staff set; wall-vs-front countdown begins;
+  the reveal is now a PLANNED move. (Live: Theo's number; the build; Chidinma on the roads;
+  the front at walking pace; the god's held grace for "the part we can't." Awaiting the god's move.)
   --- (prior peacetime entries below) ---
 - Days 646-680 (god silent, autumn): the Second Autumn Fair (census of grace);
   Grace & David married; Deborah won the pie contest. **CURTIS VANE's return

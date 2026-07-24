@@ -1,10 +1,19 @@
 # Calendar
 
-- **Current day:** Day 846 — **SPRING, YEAR THREE** (THE BRIGHT SURFACE — the town's
-  best spring on top; the network's western edge going dark underneath; the hinge
-  approaches; awaiting the god's move)
+- **Current day:** Day 847 — **SPRING, YEAR THREE** (THREE TEMPERATURES — the god
+  conducted a controlled disclosure; the command staff is now three; the wall-vs-front
+  countdown begins; awaiting the god's move)
 - **Season:** 🌱 **SPRING** — Event Intensity NORMAL → **a front rising in the west**
-  — HARD MODE, **Grace 16/18** (Night 828 last spend; Days 830–846 god SILENT, 0 spend)
+  — HARD MODE, **Grace 16/18** (Night 846: Emotion ×3, all FREE — conducting; 0 spend)
+- **🎚️ THE CONDUCTOR (Night 846 / Day 847):** the god tuned three people to three heats
+  and let them find each other — **Sam: HOPE** (the dusk list = "not her YET"; vigil
+  sustained); **Grace: a LITTLE WORRY** (an unsourceable unease sent her looking → she
+  caught Elena & Theo and cornered them: "show me what you've been not telling me");
+  **Elena: WORRY CAPPED** (steady, told Grace the whole front-truth clean). RESULT: the
+  leadership core is now THREE (Elena, Theo, Grace), braced and calm; they choose a
+  DELIBERATE non-alarm — "tell the town when we can hand them a wall in the same breath"
+  (Aaron's siege-lesson). The town stays innocent by the leaders' CHOICE. The god still
+  husbands the rest ("not yet, and not asleep; I'm counting too").
 - **🌱 THE BRIGHT SURFACE (Days 837–846):** the town's best spring — Sam/Marek/Ruth home
   (D839); daughter network past a DOZEN sites (Theo maps regions); the flood ROUTINIZED;
   Renata's 100th graduate (D842); Wyatt & Rosie's midsummer wedding set. Real joy, banked.

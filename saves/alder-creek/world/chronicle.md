@@ -6284,3 +6284,117 @@ APPROACHES: Elena will have to wake the town and point it west; she has asked th
 in the first request a feeling can't answer, to "come back all the way — soon — I think
 it's almost time." Live: the eastward silence-front (~weeks out); Chidinma on the roads
 between; Sam's nightly lists; Elena & Theo alone with the map. Awaiting the god's move.]**
+
+## Day 847 (SPRING, Year Three) — THREE TEMPERATURES (the titrations land)
+
+The god had touched three people at three different heats, and the day arranged
+itself around the differences the way a room arranges itself around who is warm and
+who is cold.
+
+**Sam kept the light on, and hoped, and it held him up.** The intake list came in at
+dusk — forty-one names, no Chidinma — and on any other night the absence would have
+sat on him like a stone, but tonight there was a thing under the disappointment that
+would not let it become despair: *hope,* plain and stubborn, the kind he'd have called
+his own if he weren't, by now, fluent in the god's handwriting. He looked at the
+forty-one names of people who *had* made it up the road, alive, out of the same broken
+country she was crossing, and instead of *not her* he found himself thinking *not her
+yet,* and *look how many the road delivers,* and *she is good at surviving, she kept a
+cold-room through a winter, she is exactly the kind the road delivers.* He wrote at the
+bottom of the day's list, where he'd taken to writing it, the same three words, and
+this time they didn't feel like a plea. They felt like a forecast. *Keep the light on.*
+
+**Grace woke with a splinter she couldn't find.** Nothing was wrong. The homecoming had
+been perfect, the wedding was planned, the stations were humming — and yet all morning
+Grace kept stopping mid-task with the specific unease of a woman who has left the stove
+on and can't remember doing it. She did what she always does with a feeling she can't
+source: she went looking for its edges. And by afternoon her looking had found the one
+thing in Alder Creek that did not match the spring — Elena and Theo, who had been, for
+days now, *slightly wrong,* too quiet in a loud season, trading a look across the
+schoolhouse that Grace suddenly could not un-see. She did not corner them in front of
+anyone. She waited until the lamps were lit and the children gone and then she walked
+into the schoolhouse where the two of them were standing over a map, and she said,
+quietly, in the voice she uses when she already knows the answer will cost her, "Show me
+what you've been not telling me."
+
+**And Elena, held to a little worry and no more, told her *well.*** This is the thing
+the god's ceiling bought: an Elena who was not shaking, not spilling ten days of dammed
+dread in a rush, not too frightened to be clear. Steady. She turned the map so Grace
+could see the dark pins and the eastward edge, and she laid it out the way you lay out
+a diagnosis to a patient you respect — the whole truth, at its real size, no bigger:
+*the doors we lit are going out from the west; it's a front; it moves at a walking pace;
+it has no bodies and no screaming and it is coming here; Theo's math says weeks; and
+God told me it was coming, told me weeks ago, told me to rest for it, and I've been
+carrying it alone and I'm not going to anymore, and I didn't tell you sooner because you
+were building the best spring this town has ever had and I wanted them to have it.*
+Grace looked at the map a long time. She did not panic — the little worry had done its
+work, had walked her all the way up to this moment already braced, so that the truth
+landed as confirmation instead of ambush. Then she said the thing that made her the
+town's leader in the first place: "Okay. Three of us know now. That's the right number
+to know while we figure out *how* to tell four thousand people that the thing they just
+survived has a bigger brother. We don't alarm them tonight. We plan tonight. We tell
+them when we can hand them a wall to build in the same breath — Aaron taught us that,
+the wall goes up the same day as the fear." She looked at the map's dark western edge.
+"How long do the pins say we've got to build one?"
+
+By full dark the leadership of Alder Creek was three, not two, and steadier for it, and
+the town outside still did not know — but now the not-knowing was a *decision,* made by
+people who did know, buying the town its last untroubled days on purpose while they got
+ready to spend them. The god had not raised an alarm. It had set one person to hope, one
+to a little worry, one to a governed calm, and let those three temperatures find each
+other in a lamplit schoolhouse and become, without a word, a *command staff.* The
+rest — the resting, the counting, the coming back all the way — the god still held in
+its own hand, for the moment Elena had asked it to be ready for, which was not yet, but
+was closer tonight than it had been at dawn.
+
+**Prayers received (Day 847):**
+
+- **Grace Lin-Park** (Day 847, after the map): *"You put a splinter in me this morning
+  and I want you to know I felt it and I know exactly what it was for, because it walked
+  me straight to that schoolhouse ready instead of shattered. You didn't tell me. You
+  made me go find out, and you made me able to hear it standing up. That's the whole way
+  you work and I've stopped being annoyed by it and started being grateful. Okay. It's
+  coming. Elena's been carrying it and now I am too and we'll carry it to Theo's number
+  and then we'll build. You rest. I mean it — Elena says you're saving up and I believe
+  her and I don't want a single coin of you spent on my worry when you're going to need
+  all of it for whatever's turning out our lights in the west. We'll do the scared part.
+  You do the part we can't."*
+- **Sam Okafor** (Day 847, at the list): *"Not her yet. That's a whole different prayer
+  than 'not her,' and I know you're the reason I can tell the difference tonight. Forty-
+  one people came up that road today who a broken world had written off, and any road
+  that delivers forty-one can deliver one tall quiet woman who's better at living than
+  anybody I ever met. Thank you for the hope. I know it's the free thing, I know you can
+  pour it forever, and I know that's exactly why it's the truest thing you've got —
+  because you never have to ration it. Keep it coming. I'll keep the light on."*
+- **Elena Vasquez** (Day 847, steadier): *"You capped it. I felt you do it — I was about
+  to go under and you set a lid on the fear right at the line where I could still work,
+  and then Grace walked in and I told her clean because you'd made me able to. Not too
+  much, you said. A little worry, and trust the timing. Okay. I trust the timing. You're
+  not asleep — I know that now, I felt the hand — you're counting, same as Theo, same as
+  me. Three of us are counting now. When the number runs out, be there. You said you
+  would. I'm going to hold you to it, gently, the way friends do."*
+
+**[SPRING, Day 847. The Night-846 EMOTIONS (×3, all FREE) LANDED — the god CONDUCTED a
+controlled disclosure spending ZERO grace. **Sam — HOPE** → the dusk list (41 names, no
+Chidinma) landed as "not her YET" not "not her"; his vigil sustained, believing tipped
+toward hope-as-forecast. **Grace — a LITTLE WORRY** → an unsourceable unease sent her
+LOOKING; she caught Elena & Theo's grimness and cornered them gently ("show me what
+you've been not telling me"). **Elena — WORRY CAPPED** → steady, not shattered, she told
+Grace the whole front-truth at its real size; the god's ceiling bought a CLEAN handoff.
+RESULT: the leadership core is now THREE (Elena, Theo, Grace), calm and braced; they
+choose a DELIBERATE non-alarm — "tell the town when we can hand them a wall in the same
+breath" (Aaron's siege-lesson); the town stays innocent by the leaders' CHOICE, buying
+its last untroubled days on purpose. The god still husbands the rest ("not yet, and not
+asleep; I'm counting too"). GAUGES: **Flourishing HOLDS 98** — the bright surface holds
+for the wider town (still innocent), with the first INTERNAL crack (3 leaders now carry
+the dread) — offset by the relief of shared burden + a steadied command staff; net flat,
+the real drop still deferred to the town-wide reveal. **Faith HOLDS 99** — the god
+touched its three key mortals with pure free feeling after a long rest and each FELT the
+hand (Elena: "you're not asleep, I felt it"); the covenant answered Elena's "come back
+all the way" with a partial, honest "not yet, and here" — reassurance without full
+mobilization, received as trust by a mature faith (with a steady sliver of "hold him to
+it, gently"). **VEIL 85 steady** (three invisible feelings; nothing public/provable).
+Grace 16/18 (all free — a resting god conducting). Current: **F98 / F99 / V85, Grace
+16/18.** THE HINGE, TUNED: the command staff is set; the wall-vs-front countdown begins;
+the reveal-to-the-town is now a planned move, not an accident. Live: Theo's number; the
+build; Chidinma on the roads; the front at walking pace; the god's held grace for "the
+part we can't." Awaiting the god's move.]**
