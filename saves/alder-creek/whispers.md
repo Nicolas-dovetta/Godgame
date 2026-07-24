@@ -573,3 +573,41 @@
     thing you can do is ask."* — Whisper (1). The whole theology of grace in
     three sentences: worthiness isn't the forgiven's call; it's the
     forgiver's. Your job is only to show up and ask.
+
+## Night 821 — THE SILENCE BREAKS, TOWARD THE ACHE (Emotion ×2 free + Whisper 1; Grace 17→16)
+
+After fifteen days quiet, the god moved — not to smite Royce, not to raise Pilar,
+but toward the exact three prayers that had opened the hairline. Presence, not
+miracle. The whole thesis of the method, applied to its own silence's cost.
+
+32. **To Grace — EMOTION, free:** ***watched and protected.*** Not words, not a
+    plan for Royce, not a fact. Just the felt answer to "are you watching?" —
+    the warmth of being seen and safe, the certainty under the ribs that the
+    house is not empty even when the hand is still. She asked if the god was
+    watching. The god let her *feel* that it is. (Free per canon: "feeling
+    watched-over" is pure emotion — no information about what will be *done*,
+    only that she is not alone with the wolf at the door.)
+
+33. **To Pilar's father — EMOTION, free:** ***shared sadness.*** The god did not
+    tell him it wasn't his fault; did not say she's at peace; carried no
+    information at all. It simply *grieved with him* — the divine sorrow laid
+    alongside the human one so that for one moment the weight was carried by two.
+    A god sitting with the grieving, the one thing a bankrupt god never runs out
+    of. He wanted the thing that runs this to hear, once, that it cost a girl.
+    It heard. It wept the same weight. (Free: sorrow shared carries no fact — it
+    is the purest Emotion-tier act, the same register as the Day-707 apology,
+    aimed now at one broken man on a road home.)
+
+34. **To Elena — WHISPER (1):** ***"You are all doing my job, and every soul you
+    save is a blessing. Forgive yourself; without you she was dead already;
+    without you they are all dead. I'm away — I need to rest for what is coming.
+    Hang on. This is the easy part."*** — Whisper, cost 1 (words, facts,
+    absolution, and a warning; it carries information, so it prices). The god
+    gave the doctor in the supply closet the thing she could not give herself:
+    the arithmetic reframed as grace (Pilar was already dead the moment the
+    plague took her; the town's hands are the only reason ANYONE wakes), plus a
+    confession that reshapes the whole silence — the god is not absent, it is
+    *husbanding its strength;* something is coming that will make a civilization-
+    scale resurrection school look like *the easy part.* The intimacy (a god that
+    confides it must rest) and the dread (what needs that much rest?) arrive
+    together. Elena is now the one mortal who knows the quiet has a reason.

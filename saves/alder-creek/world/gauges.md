@@ -656,6 +656,30 @@ mortal-authored rule in the manuscript; a theology of the god's own restraint)
   civilization scale, now with a human antagonist attached. Grace 17/18. Current:
   **F97 / F98 / V85, Grace 17/18.** (Live: Royce's answer ~D828; the caravan D824;
   Pilar on the books; the god silent 15 days and the silence now has a measurable price.)
+- Day 822 (SPRING Y3, the SILENCE BREAKS — Emotion ×2 free + Whisper 1; Grace 17→16):
+  after 15 days quiet the god moved toward the exact three aches, presence not miracle.
+  **To Grace** — EMOTION "watched & protected" (free): answered "are you watching?"
+  with felt safety, NOT a Royce plan (a plan would make her small); she woke unafraid,
+  called the table steady ("don't panic, don't sell the door, we'll figure the wolf
+  ourselves"). **To Pilar's father** — EMOTION "shared sadness" (free): grieved-WITH,
+  not fixed; he left changed, built a coast-road door named for Pilar — grief → a door
+  through a man who only knew he'd been heard. **To Elena** — WHISPER (1): absolution
+  (the arithmetic reframed as blessing — Pilar was dead the day the plague took her;
+  every survivor is a life clawed back) + the CONFESSION ("I'm away, I need to rest for
+  what is coming; this is the easy part"); she forgave herself, back on the schedule,
+  and quietly began making the school run without her ("conserve; he is; we should").
+  **FLOURISHING HOLDS 97** — Elena un-broken & back is a real gain, offset by the seeded
+  dread + Royce still unaddressed (the god gave Grace a feeling, not a solution). **FAITH
+  98→99 — the HAIRLINE CLOSES**: the god broke 15 days of silence by meeting the three
+  deepest aches in this town's native register — not fixed, ACCOMPANIED (watched /
+  grieved-with / absolved) — for a single coin; the covenant re-warms AND takes on a
+  shared secret dread that deepens rather than shakes it (an intimate, equal, bracing-
+  together god; contrast Day 706's over-reach fall — this recovery is the under-presence
+  fall's answer). **VEIL 85 steady** (2 free emotions + 1 whisper = nothing provable;
+  Royce still doesn't know a god exists). **OMINOUS SEED (unscored):** "this is the easy
+  part" — a future-arc dread the god is husbanding strength for; Elena the sole keeper.
+  Grace 16/18. Current: **F97 / F99 / V85, Grace 16/18.** (Live: Royce ~D828; caravan
+  D824; awaiting the god's next move.)
   --- (prior peacetime entries below) ---
 - Days 646-680 (god silent, autumn): the Second Autumn Fair (census of grace);
   Grace & David married; Deborah won the pie contest. **CURTIS VANE's return

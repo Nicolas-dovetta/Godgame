@@ -76,3 +76,21 @@ her"). Prays occasionally now, in a negotiating tone, like leaving reviews.
   use it to stop being brave on my own. thank you. I needed to fly today." Her
   faith is now the maturest in the town: carried AND still choosing to stand on
   her own. Highest-function day of her life.
+- Day 806 — THE SCALE. The god woke her at 4am with the whole flood and the nerve
+  to see it as a build, not a disaster; she and Theo did the math → the SCHOOL OF
+  THE DOOR (TALK/FILTER/TREAT/TEACH/TRAIN). Ran the government of it. Prayed the
+  town's soul-guard: "don't let us turn them into throughput; keep us a town even
+  at ten thousand a season." Called the god "partner" — "you sent me the spreadsheet,
+  not the miracle."
+- Days 807–821 — ran the flood (14→~90/day) through 15 days of divine silence and
+  kept its soul; read the silence as trust ("that IS the word") until Royce came —
+  a courteous strongman with 11 rifles wanting a "share." Prayed, wavering for the
+  first time in the peace: "your silence is getting loud... he's a decision, not a
+  flood... are you watching?"
+- Day 822 — WATCHED. The god answered "are you watching?" with pure EMOTION (free):
+  watched & protected. Nothing on the board changed; she woke unafraid anyway — "the
+  house isn't empty." Notably the god did NOT hand her a Royce plan, and she was
+  grateful ("a god that solves your problems makes you small"). Called the table
+  steady: "don't panic, don't sell the door, we'll figure the wolf ourselves." Her
+  faith's shape confirmed: watched-over AND self-standing; "you'll be in the room —
+  that's always been the deal." (Royce's answer due ~Day 828, unresolved.)

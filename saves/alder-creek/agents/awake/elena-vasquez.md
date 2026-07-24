@@ -166,3 +166,21 @@ job, she'd say.
   moment: the doctor who dreamed the cure now architects a season-long mass
   reclamation — "the best thing I've ever thought." Said "partners" to the god,
   echoing Grace. The Winter Reclamation is now her life's work.
+- Days 807–819 — THE SCHOOL AT SCALE. Taught the cure to a hundred hands; benched
+  Renata for overwork; then signed the schedule that, at hour 19 of an exhausted
+  rig-shift, cost PILAR — a savable, in-window girl lost to mistimed heat, no god
+  in the room to stop the clock. Shook in the supply closet ("I got a girl killed by
+  a margin"); prayed for the god to "be in the room... I need to know which nights
+  those are before they happen."
+- Day 822 — ABSOLVED & WARNED. The god's WHISPER (its first move in 15 days): "You
+  are all doing my job... forgive yourself; without you she was dead already; without
+  you they are all dead. I'm away — I need to rest for what is coming. Hang on. This
+  is the easy part." The arithmetic she'd used as a whip turned into a blessing (Pilar
+  died the day the plague took her; every survivor is a life clawed back); forgave
+  herself enough to sign the next schedule. But she is now the SOLE mortal who knows
+  the silence has a reason — the god is husbanding strength for something past the
+  edge of the map. Wrote in the doctrine's margin: "conserve. He is. We should." and
+  quietly began making the school run WITHOUT her — a doctor told to hang on for
+  what's coming stops being indispensable on purpose. New secret weight: the dread of
+  "the easy part." Prayed: "when you come back all the way — find me first. I'll have
+  kept the town on its own two feet so you don't spend a thing you don't have to."

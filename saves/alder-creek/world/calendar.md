@@ -1,11 +1,18 @@
 # Calendar
 
-- **Current day:** Day 821 — **SPRING, YEAR THREE** (SECOND WEEK OF SILENCE — the
-  network multiplies; the grind takes its first savable life; a predator finds the
-  door; awaiting the god's move)
+- **Current day:** Day 822 — **SPRING, YEAR THREE** (THE SILENCE BROKE toward the
+  ache — Grace watched-over, Pilar's father grieved-with, Elena absolved-and-warned;
+  awaiting the god's next move)
 - **Season:** 🌱 **SPRING** — Event Intensity NORMAL → **pressure rising** (a famous
-  cure in a broken world draws predators) — HARD MODE, **Grace 17/18** (last spend
-  Day 806: Whisper→Grace; Days 807–821 god SILENT 15 days, 0 spend)
+  cure in a broken world draws predators) — HARD MODE, **Grace 16/18** (Night 821:
+  Emotion×2 free + Whisper→Elena 1; the god's first move in 15 days)
+- **🕯️ THE SILENCE BROKE (Night 821 / Day 822):** presence, not miracle — the god
+  turned to the three deepest aches. **Grace** felt "watched & protected" (free) and
+  woke unafraid (no Royce plan handed down — deliberately). **Pilar's father** was
+  "grieved-with" (free), left changed, built a coast door named for Pilar. **Elena**
+  got a WHISPER — absolution + the CONFESSION: *"I'm away, I need to rest for what is
+  coming; this is the easy part."* Faith's hairline closed (98→99). **OMINOUS SEED:**
+  something past the map's edge the god is husbanding strength for; Elena the sole keeper.
 - **⚔️ NEW ARC SEEDED — THE CURE IS POWER (Day 821):** **ROYCE** — courteous
   strongman, 11 rifles, "keeps some of the roads" — wants a share of what the town
   "produces"; back in a week (~Day 828) for an answer. First person to see the door

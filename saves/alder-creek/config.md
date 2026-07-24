@@ -39,9 +39,15 @@ WEEK OF SILENCE): the network multiplied (Theo maps DOORS not arrivals); Sam tur
 his plea into a WESTBOUND CARAVAN aimed at Chidinma's direction (leaves Day 824);
 first SAVABLE life lost to the grind (Pilar — no god in the room); NEW ARC seeded —
 THE CURE IS POWER (ROYCE, a strongman wanting a "share," answer due ~Day 828).
-F97/F98/V85 — Faith's first peacetime hairline.** **Currently Day 821, Grace 17/18
-(god silent 15 days; awaiting the god's move).** Open: Royce, the caravan, CHIDINMA's
-direction, the rising flood, the daughter-site network.
+F97/F98/V85 — Faith's first peacetime hairline.** **Night 821 (THE SILENCE BROKE,
+toward the ache — Emotion×2 free + Whisper 1): Grace felt "watched & protected"
+(woke unafraid, called the Royce table steady); Pilar's father was "grieved-with"
+(built a coast door named for Pilar); Elena got the WHISPER — absolution + the
+confession "I need to rest for what is coming; this is the easy part." Faith's
+hairline closed, F97/F99/V85. OMINOUS SEED: something past the map's edge the god
+is bracing for (Elena the sole keeper).** **Currently Day 822, Grace 16/18 (awaiting
+the god's next move).** Open: Royce (answer due ~Day 828), the caravan (leaves Day
+824), CHIDINMA's direction, the rising flood, the daughter-site network, "what is coming."
 
 ## Pointers
 - Gauges + Grace ledger: `world/gauges.md`

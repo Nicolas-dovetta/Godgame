@@ -5646,3 +5646,116 @@ is a new order of exposure; still no provable god, but the SECRET of the town is
 gone even if the god's hand isn't). Grace 17/18. Current: **F97 / F98 / V85, Grace
 17/18.** Awaiting the god's move — Royce's answer due ~Day 828; the caravan leaves
 Day 824; Pilar is on the books.]**
+
+## Day 822 (SPRING, Year Three) — WHAT THE QUIET WAS FOR (the whispers land)
+
+The god's three answers took the night and arrived with the morning, each in its
+own key.
+
+**Grace woke unafraid.** Nothing had changed on the board — Royce still had eleven
+rifles and six days on his clock, the town was still exhausted, the flood was still
+rising — and yet she woke with a thing under her ribs she had not had going to sleep:
+the plain, wordless certainty that the house was not empty. *Watched. Protected.*
+Not a plan handed down, not "I'll deal with Royce" — she'd have distrusted that; a
+god that solves your problems makes you small. Just the felt fact that she was seen,
+and that whatever she decided about the wolf, she would not decide it alone in an
+empty room. She had asked, out loud, into fifteen days of silence, *are you
+watching* — and the answer had come not as a voice but as the way you know someone
+is in the house before they speak. She stood at the schoolhouse window a while. Then
+she called the table for Royce, steadier than she'd been in a week, and said the
+thing a watched-over person can say that a frightened one can't: *"We don't panic
+and we don't sell the door. We've got six days. Let's think."*
+
+**The father left changed, and the change had a shape.** He'd meant to go at first
+light, empty. Instead he sat by Pilar's grave in the new ground past the churchyard,
+and something sat down with him — not comfort exactly, not the lie that it was
+alright, but *grief that was not his alone,* a sorrow laid alongside his own so
+exactly that he wept harder and easier both at once, the way you can only cry when
+someone is crying with you. He never named it. He would tell people, later, down the
+coast road at the door he built, that at the lowest hour of his life he'd had the
+strangest sense that the world *minded* — that his girl's name had landed somewhere
+that felt it. He built his door careful, like he'd sworn. He named it for Pilar. And
+he became, without ever knowing whose hand had been on his shoulder, one more place
+the dead came back — grief turned into a door, the god's oldest alchemy, worked this
+time entirely through a man who only knew he'd been *heard.*
+
+**And Elena read the god's mind and did not sleep.** The whisper landed mid-morning,
+in the clinic, between cases — *you are all doing my job; every soul you save is a
+blessing; forgive yourself; without you she was dead already; without you they are
+all dead* — and the doctor who had shaken in a supply closet over one girl felt the
+arithmetic she'd been using as a whip turned, gently, into a blessing: Pilar had
+died the day the plague took her; every single person who has walked out of that
+schoolhouse alive is a life the world had already written off, clawed back by tired
+human hands. It did not erase Pilar. It set her in true proportion — one loss inside
+a thousand rescues, grievable without being *disqualifying.* Elena forgave herself
+enough to sign the next schedule.
+
+But it was the rest of the whisper she couldn't put down. *I'm away — I need to rest
+for what is coming. Hang on. This is the easy part.* She sat with it all afternoon.
+The silence had a *reason.* The god was not distant; it was *bracing.* And if a god
+that had put a mile-wide horde into winter-stasis, that had raised Wyatt from the
+turn, that had run a resurrection school for a continent — if that god called all of
+*this* the easy part and said it needed to *rest* — then Elena, alone among four
+thousand souls, went to bed that night knowing something the rest did not: that the
+worst thing this world had was still out past the edge of the map, and their god was
+quietly saving its strength for it. She did not tell Grace. She wrote it in the
+margin of the doctrine, small: *conserve. He is. We should.* And she started,
+without saying why, teaching the school to run without her — because a doctor who's
+been told to hang on for what's coming stops being indispensable on purpose.
+
+By dark the hairline had closed. Not because anything on the board improved — Royce's
+clock still ran, Pilar was still in the new ground — but because the town's three
+deepest aches had each been *met,* in the register this town's faith is built on:
+not fixed, *accompanied.* Grace watched-over, the father grieved-with, Elena
+absolved-and-warned. The god had spent fifteen days teaching them they could stand
+without it, and then, at the exact moment the standing started to cost more than they
+could pay, it had put a hand on each of the three shoulders that were buckling — and
+spent, on the whole thing, a single coin.
+
+**Prayers received (Day 822):**
+
+- **Grace Lin-Park:** *"I woke up not scared and I know that was you, because
+  nothing's different except me. You didn't tell me what to do about Royce. Thank
+  you for that, actually — I'd have leaned on it and gotten smaller. You just let me
+  know the house isn't empty. Okay. Watched and not alone, I can do the rest. Six
+  days. We'll figure out the wolf ourselves, and you'll be in the room, and that's
+  the deal, isn't it. That's always been the deal."*
+- **Elena Vasquez:** *"You told me to forgive myself and then you told me you're
+  tired and something's coming, and I don't know which one to pray about first. So:
+  thank you for the first — I signed the schedule, I'm back. And about the second —
+  I heard you. I'm the only one who did, I think, and I'll carry it quiet. Rest.
+  Really rest. We'll run the door. Just — when the easy part is over, and you come
+  back all the way — find me first. I'll have kept the lights on and the town on its
+  own two feet so you don't have to spend a thing you don't have to. That's my job
+  now. Doing your job. You said so."*
+- **Sam Okafor** (who felt none of it aimed at him, and understood exactly why):
+  *"You went to Grace and the doctor and that poor man on the road and you didn't
+  come to me, and I want you to know I'm not hurt — I'm proud. You spend your grace
+  where it's needed and I don't need it, I've got a caravan and a light in the window
+  and a job. Save it. Save all of it. Whatever's coming that's got you resting — Lord,
+  I felt that land even secondhand — you save every coin for that. We'll hold the
+  door. Go get ready."*
+
+**[SPRING, Day 822. The Night-821 god-moves LANDED: **Grace** — EMOTION "watched &
+protected" (free) → woke unafraid, called the Royce table steady, chose "don't panic,
+don't sell the door, we'll figure the wolf ourselves"; the god answered "are you
+watching?" with presence, not a plan (deliberately — a plan would make her small).
+**Pilar's father** — EMOTION "shared sadness" (free) → grieved-with, not fixed; left
+changed, built a door on the coast named for Pilar, "heard" without knowing by whom;
+grief → a door, the god's oldest alchemy through a man who only knew the world minded.
+**Elena** — WHISPER (1) → absolution (the arithmetic reframed as blessing; forgave
+herself, back on the schedule) + the CONFESSION: the god is resting/bracing for
+"what is coming"; "this is the easy part." Elena is now the sole mortal who knows the
+silence has a reason; she quietly starts making the school run without her ("conserve;
+he is; we should") — DREAD SEEDED for a future arc. GAUGES: **Flourishing HOLDS 97**
+(Elena un-broken & back is a real gain, offset by the seeded dread + Royce still
+unaddressed). **FAITH 98→99 — the hairline CLOSES**: the god broke 15 days of silence
+by turning to the exact three aches and meeting them in this town's native register —
+not fixed, ACCOMPANIED (watched / grieved-with / absolved); one coin spent, the whole
+covenant re-warmed; and it now carries a shared secret dread, which deepens rather
+than shakes it (an intimate, equal, bracing-together god). **VEIL 85 steady** (two
+free emotions + one whisper = nothing provable; Royce still has no idea there's a god).
+Grace 17→16. Current: **F97 / F99 / V85, Grace 16/18.** OMINOUS SEED (unscored): "this
+is the easy part" — something past the edge of the map the god is husbanding strength
+for. Live: Royce's answer due ~Day 828; the caravan leaves Day 824; awaiting the god's
+next move.]**
