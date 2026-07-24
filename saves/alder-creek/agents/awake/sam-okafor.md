@@ -144,3 +144,11 @@ restless to send him toward a grave; so it's good news at the end of this road, 
 it." His caravan was freed that same morning (Ruth's husband turned on Royce); Sam ↔
 caravan converge ~Day 831. The prophet who only ever did the sitting half of the light
 is finally doing the walking half.
+- Day 831–836 — THE MEETING. Rode 60 mi south and met the caravan already freed
+  (Ruth's husband had turned on Royce); "gloriously unnecessary" (Aaron: that's the
+  whole town's job now). Detoured 3 more days to Halesford, ran FILTER (4 of 9 past
+  window, honored) and reclaimed 5 including RUTH; taught Halesford its own door (5th
+  daughter site). Transformed: the man who never leaves the ovens learned "it was never
+  the rescuing, it was the RIDING — walking toward the ones you love instead of keeping
+  a light and calling it enough." A defector confirmed the market-city/cannery direction:
+  Chidinma now a destination, not a bearing. Sam lit the daylight lamp again.

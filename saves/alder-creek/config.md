@@ -20,46 +20,22 @@
 
 ## Where we are now (keep this to one paragraph; detail lives in world/)
 Started Day 1; Ch. One = THE QUIET PROVIDENCE (Day 373); Ch. Two = **THE LONG
-THAW** (Day 745 — the siege, the cure, the apology, the freezer, the Winter
-Reclamation; ~1,300 reclaimed; F96/F98/V87/×12). **Currently Day 806, SPRING,
-YEAR THREE — the siege is OVER (won by the stall, not the killing cold); the
-Winter Reclamation is complete; the cure walks west on the reclaimed; the outer
-town rebuilds; the wider world is still broken.** Day 806: the SCALE WHISPER to
-Grace → **NEW YEAR-THREE ARC: THE SCHOOL OF THE DOOR** — Alder Creek becomes the
-world's school of the cure (talk/filter/treat/teach/train; a self-propagating
-cure-site network), as the plague-scoured world starts walking to its door by the
-hundreds/thousands. **Day 807 (THE FIRST BELL): the School opened — curriculum on
-Renata's slate, RULE ONE ("EACH ONE WALKED HERE") over the medicine, road at 14
-travelers, first public cold-rig demo reversed Andrés Cruz → Marisol Cruz =
-Practitioner #1.** **Days 808–814 (THE FLOOD, god silent a full week): the School
-scaled to ~90/day and held its soul; first DAUGHTER DOOR opened (a valley teaches
-itself — the network is real); Chidinma thread pulled (a direction, not a name);
-Sam prayed for himself for the first time. F98/F99/V86.** **Days 815–821 (SECOND
-WEEK OF SILENCE): the network multiplied (Theo maps DOORS not arrivals); Sam turned
-his plea into a WESTBOUND CARAVAN aimed at Chidinma's direction (leaves Day 824);
-first SAVABLE life lost to the grind (Pilar — no god in the room); NEW ARC seeded —
-THE CURE IS POWER (ROYCE, a strongman wanting a "share," answer due ~Day 828).
-F97/F98/V85 — Faith's first peacetime hairline.** **Night 821 (THE SILENCE BROKE,
-toward the ache — Emotion×2 free + Whisper 1): Grace felt "watched & protected"
-(woke unafraid, called the Royce table steady); Pilar's father was "grieved-with"
-(built a coast door named for Pilar); Elena got the WHISPER — absolution + the
-confession "I need to rest for what is coming; this is the easy part." Faith's
-hairline closed, F97/F99/V85. OMINOUS SEED: something past the map's edge the god
-is bracing for (Elena the sole keeper).** **Days 823–828 (THE ANSWER TO THE WOLF,
-god silent): the caravan left Day 824 (4 teachers + Chidinma's name) south into
-Royce's country; the town chose OUT-GIVE ("we're the rain; you can't tax the rain")
-and offered Royce a SEAT — it landed (2 of his men turned), but Royce seized the one
-lever left: he HOLDS THE ROAD THE CARAVAN IS ON. NEW ARC — THE SKY: a road-control /
-hostage conflict, personalized to Sam's four teachers + Chidinma. F97/F99/V85; a
-resting god handed a LOCATION.** **Day 829 (THE PUNCHLINE — Emotion ×3, all FREE): the
-god dissolved the wolf for ZERO grace — ANGER to Ruth's husband (turned his gun on Royce;
-caravan FREED, no shot, 3 defectors join); DETERMINATION+IMPATIENCE to Sam (left the
-ovens for the 1st time since before Day 1, rode south); AMUSEMENT to Grace (caught the
-god's laughter and the punchline — "he's a man taxing weather"). The resting has no
-bottom. F97/F99/V85 held pending mid-swing.** **Currently Day 829, Grace 16/18 (awaiting
-the god's move).** Open: THE SKY resolving (Sam↔caravan converge ~Day 831; Royce
-diminished), RUTH (a new door in Halesford), CHIDINMA's name in the coldlands, the flood,
-the daughter network, "what is coming."
+THAW** (Day 745 — siege won by the stall, the cure, ~1,300 reclaimed; F96/F98/V87/×12).
+**YEAR THREE, SPRING — the reconstruction.** Day 806: the SCALE WHISPER → **THE SCHOOL
+OF THE DOOR**, Alder Creek as the world's school of the cure (TALK/FILTER/TREAT/TEACH/
+TRAIN; a self-propagating daughter-site network). The School opened Day 807 and scaled
+to ~90 pilgrims/day through a long divine silence, holding its soul (RULE ONE — "each
+one walked here"). The silence had costs (Pilar, a savable girl lost to the exhausted
+grind) and a confession (Day 821, to Elena: *"I need to rest for what is coming; this is
+the easy part"*). A predator, **ROYCE**, came to tax the cure and was dissolved not by
+war but by generosity + three free god-emotions (Day 829): his men defect to the door,
+the hostage-caravan freed itself, **Ruth reclaimed** at Halesford (the 5th daughter
+site). The town's creed: *we're the rain — you can't tax the rain; be gloriously
+unnecessary.* **Currently Day 836, Grace 16/18, F98/F99/V85, god resting.** Open:
+Royce fading (the town refuses him a war); the westbound caravan pushing toward
+**CHIDINMA** (a destination now, not just a bearing — Sam's lost one); and **THE WEST**
+— the far west going "quiet in a way the plague doesn't," which Elena alone has
+connected to the god's *"what is coming."*
 
 ## Pointers
 - Gauges + Grace ledger: `world/gauges.md`

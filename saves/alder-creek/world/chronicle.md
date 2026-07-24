@@ -6030,3 +6030,134 @@ courage + a warlord's overreach; the god's hand nowhere; Royce STILL doesn't kno
 god exists). Grace 16/18 (all free). Live: Sam ↔ caravan converge ~Day 831; 3 defectors
 + a coldlands route in hand; RUTH in a Halesford cellar (a new door to open); Royce
 diminished, not yet resolved; Chidinma's name still walking. Awaiting the god's move.]**
+
+## Days 830–836 (SPRING, Year Three) — THE MEETING ON THE ROAD (god silent, weekly fast-forward)
+
+**Sam met his people coming up as he rode down.** Day 831, a bend in the coast road
+south of the coldlands, late in the afternoon: Sam's little party of four crested a
+rise and there, walking toward them out of the low sun, was the caravan — all four
+teachers, both rigs, and *more* of them than had left, because folded into the group
+were three men who'd carried Royce's rifles a week ago and now carried cooler-boxes.
+Sam got off the horse. He'd rehearsed nothing — for the first time in years the man
+who has the right words for every grief had ridden out ahead of his words — and so he
+just walked into the middle of them and put his hands on the shoulders of the nearest
+teacher and didn't say anything at all, and that was, everyone agreed later, the most
+Sam Okafor thing he had ever done. Then he laughed, which was the god's laughter still
+loose in the world four days later, and said, "You were supposed to need rescuing. I
+rode sixty miles to rescue you and you *rescued yourselves* and picked up help on the
+way. I have never been so gloriously unnecessary in my life." Aaron said, "That's the
+whole town's job now, boss. Being gloriously unnecessary." Sam wrote that one down.
+
+**They went to Halesford for Ruth.** Not back north — *south,* three more days, because
+Ruth's husband had a door to walk to and Sam Okafor was not going to be the man who
+turned a caravan around within reach of a cellar. Halesford was a huddle of forty
+survivors around a co-op with a deep cold-room, and in the cold-room, kept under the
+town's own frightened, hopeful discipline, were nine of their dead — including Ruth. The
+teachers ran the FILTER first, the hard honest arithmetic, and it cost: four of the
+nine were past the window, carried into the cold too late months ago, and Halesford
+had to be told, and it was the same grief the school had learned to hold — *we save the
+ones we can; we honor the ones we couldn't.* But five were inside it. **Ruth was inside
+it.** They ran the cold-then-heat over two days, teaching Halesford's own hands every
+step so the town would never again need to send for anyone, and on Day 836 Ruth's fever
+broke clean and she woke up furious and confused and alive, and her husband — the man
+who'd swallowed his anger for a month and then spent it, all at once, on the right
+target — sat on the floor of a co-op cold-room and cried like the ending of something.
+**Halesford is a door now.** The fifth daughter site, seeded not by a caravan the town
+sent but by a wolf's man the god made angry — grace laundered through fury, the network
+growing on the legs of the converted. Ruth's husband will teach it. He has a name now
+in the ledger, and a reason, and a wife.
+
+**Royce came apart the way his kind do — not with a battle, with an exodus.** He did
+not raid; a raid needs men who'll follow, and Royce's men had started doing the
+arithmetic the barn taught them: *the town that can raise the dead gives it away for
+free and doesn't shoot you for having stood on the wrong side; the man I ride for holds
+a gate on a road nobody needs to pay to use anymore.* Over the week his line bled — two
+more gone by Day 834, drifting off toward the rumor of the door with someone cold in
+their memory. By Day 836 Royce held a stretch of empty road and a shrinking crew and
+the dawning, unbearable understanding that he had bet his whole power on scarcity in the
+one economy in history that ran on the opposite, and that he had lost not to an army but
+to *generosity,* which is the one defeat a man like Royce has no story for. He is not
+finished — a cornered man with even a few guns is dangerous, and humiliation curdles —
+but he is smaller every day the door stays open, and the town, pointedly, has never once
+raised a hand to him. Grace's read, written in the log: *we don't have to beat Royce. We
+just have to keep being the thing that makes Royce pointless. He'll either walk to the
+door like his men did or he'll walk off the edge of the story. Either way it's not a
+war. I refuse to give him a war. A war is the only thing that could make him matter.*
+
+**And two smaller things, for the record.** One warm: on the coast road a defector
+recognized the market-city direction the caravan was still, quietly, aimed at — knew the
+harbor cannery was real, that a cohort of the cold-kept had walked out of it this spring,
+that the coast towns were closer and more reachable than the town had feared. Chidinma's
+name, carried in four notebooks, is now walking toward a place someone has actually *seen.*
+Not found. But warmer than a direction — a destination. Sam, when the rider brought word
+north, lit the lamp again in daylight.
+
+One cold: the same defector, and then a second, mentioned — not as news, just as the kind
+of thing you say around a fire — that the far west, past the market city, past the coast,
+had gone *quiet* this spring in a way that wasn't the plague. The plague you could hear
+coming; it screamed. This was the other thing. Towns that had *survived* the dead going
+silent anyway, over the winter, with no bodies on the road to explain it. Nobody in Alder
+Creek made anything of it. Nobody except Elena, who heard it thirdhand on Day 836 and went
+very still, and did not sleep, and added a second line under the first in the doctrine's
+margin: *conserve. he is. — and it's coming from the west.*
+
+**Prayers received (across the week):**
+
+- **Sam Okafor** (Day 831, on the road, laughing): *"Gloriously unnecessary. You made me
+  ride sixty miles to learn I didn't have to. That's the lesson, isn't it — it was never
+  the rescuing, it was the RIDING, the getting up and walking toward the ones you love
+  instead of keeping a light and calling it enough. I'm forty-one and I just left home for
+  the first time and I'm going to bring five people back from a cold-room in Halesford and
+  God I have never been so happy. Thank You for the itch. Give it to me again whenever I
+  start mistaking my window-sill for the world."*
+- **Ruth's husband** (Day 836, on the cold-room floor): *"She's awake. She's mad about her
+  hair and she doesn't understand yet and she's ALIVE and I did that, we did that, the town
+  I pointed a gun for a week ago taught me to do that. I don't have a name for what runs
+  this place but I'm going to spend the rest of my life being a door, and if the anger that
+  saved her was a gift, then here's the only thing I've got to give back: I'll teach every
+  angry man on every wolf's road that the fury feels better spent on the cold-room than the
+  gate. Send them to me. I know that road. I used to guard it."*
+- **Grace Lin-Park** (Day 835, on Royce): *"He's melting like spring snow and I didn't lift
+  a finger and neither did You, not really, You just lit one man up and let the arithmetic
+  do the rest. I keep waiting to feel like I should DO something about Royce and the feeling
+  won't come, and I think that's You too, keeping me from the one mistake — making him a
+  villain, making it a war, making him MATTER. Thank You for the amusement, still. It taught
+  me the whole posture. You don't fight the dark. You just refuse to stop being the light and
+  you let the dark run out of reasons. Okay. We'll keep the door open. Rest."*
+- **Elena Vasquez** (Day 836, the second margin-line): *"You said something was coming and to
+  rest for it and I've been telling myself it was a feeling, a mood, a tired god's turn of
+  phrase. Tonight two men who've never met told the same fireside story about the west going
+  quiet in a way the plague doesn't, and I stopped breathing. I'm not going to tell the town.
+  They just won a wolf and got a warm week and Ruth woke up and they've EARNED not knowing
+  yet. But I heard You, and now I've heard it, and they're the same shape. Rest. Really rest.
+  Whatever's out there past the coast, You're going to need every coin, and I'm going to make
+  this town able to hold the line while You spend them. Just — when it comes — don't rest
+  through THAT. Come back all the way. I'll tell you when."*
+
+**[SPRING, Days 830–836. GOD SILENT (0 spend; Grace 16/18). THE SKY arc RESOLVES (mostly):
+**Day 831 Sam met the freed caravan on the coast road** — all 4 teachers + 3 defectors,
+Sam "gloriously unnecessary" (the town's new creed: Aaron — "being gloriously unnecessary
+is the whole town's job now"). **Halesford detour → RUTH RECLAIMED (Day 836)** + 4 more of
+5-in-window; 4 of 9 past-window honored; **Halesford = the 5th daughter site**, seeded by a
+wolf's converted man (grace laundered through the god's free anger). **ROYCE crumbling by
+EXODUS not battle** (2 more defect by D834; holds empty road + shrinking crew; lost to
+GENEROSITY, "the one defeat he has no story for") — diminished, NOT finished, and the town
+POINTEDLY refuses him a war (Grace: "a war is the only thing that could make him matter").
+CHIDINMA thread WARMER: a defector has SEEN the market-city/cannery direction — now a
+destination, not just a bearing (still not found; Sam lit the daylight lamp). **THE WEST
+DREAD deepens: two defectors' fireside talk of the far west going 'quiet in a way the plague
+doesn't' — survived towns falling silent over winter, no bodies; ELENA alone connects it to
+the god's "what is coming" (2nd margin-line: "it's coming from the west").** GAUGES (the
+held-pending swing, now SCORED): **Flourishing 97→98** — the wolf dissolved with no shot, 6+
+souls reclaimed/converted (Ruth + Halesford's five + 3-5 defectors), a 5th daughter door, Sam
+transformed — a near-ceiling week, held just off higher by the 4 past-window at Halesford + the
+gathering west-shadow. **Faith HOLDS 99** — the playful-god move fully vindicated; Sam's "it
+was never the rescuing, it was the riding" is a new gospel line; the covenant serene at the top.
+**Veil HOLDS 85** — the whole resolution was human-attributed (courage, defection, a warlord's
+overreach); the god's hand invisible; Royce STILL never learns a god exists (fame creeps but no
+acute exposure). **LEGACY candidates firming:** "we're the rain / gloriously unnecessary"
+doctrine; the Halesford model (convert the predator's men via the door); count at year-end.
+Grace 16/18. Current: **F98 / F99 / V85, Grace 16/18.** OMINOUS (unscored, sharpening): the
+WEST — "what is coming," now with a direction and a symptom. Live: Sam+caravan+Ruth's group
+homeward; the caravan's onward push toward the market city/Chidinma; Royce fading; Elena
+quietly war-prepping a town that doesn't know yet. Awaiting the god's move.]**

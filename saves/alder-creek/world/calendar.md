@@ -1,19 +1,24 @@
 # Calendar
 
-- **Current day:** Day 829 — **SPRING, YEAR THREE** (THE PUNCHLINE — three free
-  feelings dissolved the wolf from the inside for ZERO grace; caravan freed; Sam rode
-  out; awaiting the god's move)
+- **Current day:** Day 836 — **SPRING, YEAR THREE** (THE MEETING ON THE ROAD — the
+  Sky arc resolved by generosity; Ruth reclaimed; Royce fading; a west-shadow rising;
+  awaiting the god's move)
 - **Season:** 🌱 **SPRING** — Event Intensity NORMAL — HARD MODE, **Grace 16/18**
-  (Night 828: Emotion ×3, all FREE — the resting-god thesis at its peak; 0 spend)
-- **⚔️ THE SKY (Royce arc) — RESOLVING for free (Day 829):** the god answered Grace's
-  "does the resting have a bottom?" by winning WITHOUT spending. **Ruth's husband
-  (ANGER)** turned his rifle on Royce in the coldland barn where the caravan was held →
-  2 waverers tipped it, no shot, **CARAVAN FREED**, now escorted by 3 defectors + a
-  coldlands route. **Sam (DETERMINATION + IMPATIENCE)** LEFT THE OVENS (first time since
-  before Day 1), rode south to fetch his people. **Grace (AMUSEMENT)** caught the god's
-  laughter and the punchline — "Royce is a man taxing weather; you can't hostage teachers
-  in a land of the grieving." Gauges HELD PENDING (mid-swing). **NEW DOOR: RUTH**, cold-
-  kept in a Halesford cellar (the defector's wife). Royce diminished, not yet resolved.
+  (Night 828 last spend, Emotion ×3 free; Days 830–836 god SILENT, 0 spend)
+- **⚔️ THE SKY (Royce arc) — RESOLVED (mostly), for ZERO grace:** Day 831 Sam met the
+  freed caravan on the coast road (4 teachers + 3 defectors; "gloriously unnecessary" —
+  the town's new creed). Halesford detour → **RUTH RECLAIMED Day 836** + 4 more in-window;
+  **Halesford = 5th daughter site**, seeded by a wolf's converted man (grace through the
+  god's free anger). **Royce crumbling by EXODUS not battle** (his men keep defecting to
+  the door; lost to generosity — "the one defeat he has no story for"); diminished, NOT
+  finished; the town POINTEDLY refuses him a war ("a war is the only thing that could
+  make him matter"). Sam TRANSFORMED — "it was never the rescuing, it was the riding."
+- **🕯️ CHIDINMA — WARMER (Day 836):** a defector has SEEN the market-city/cannery
+  direction; now a destination, not a bearing (not found). Sam lit the daylight lamp.
+- **🌑 THE WEST (the "what is coming" seed sharpens):** two defectors' fireside talk of
+  the far west going "quiet in a way the plague doesn't" — survived towns falling silent
+  over winter, no bodies. ELENA alone connects it to the god's confession ("it's coming
+  from the west"); she's quietly war-prepping a town that doesn't know yet. Undefined.
 - **⚔️ THE SKY (Royce arc, Day 828) — the town WON the argument, LOST the leverage:**
   Alder Creek's answer was OUT-GIVE, not fight/pay — Sam's "the cure is a sentence,
   not a serum; we're not a well, we're the rain; you can't tax the rain"; Grace offered

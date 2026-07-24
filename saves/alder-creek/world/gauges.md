@@ -725,6 +725,29 @@ mortal-authored rule in the manuscript; a theology of the god's own restraint)
   a RESTING god did this, which is the whole point). Current (pending): **F97 / F99 / V85,
   Grace 16/18.** (Live: Sam ↔ caravan converge ~D831; RUTH a new door in Halesford;
   Royce diminished; Chidinma's name still walking; "the easy part" still out past the map.)
+- Days 830–836 (SPRING Y3, GOD SILENT, 0 spend; Grace 16/18): THE SKY arc RESOLVES —
+  the held-pending swing now SCORED. Sam met the freed caravan (D831; "gloriously
+  unnecessary" — the town's new creed); Halesford detour → **RUTH RECLAIMED (D836)** + 4
+  more of 5-in-window (4 of 9 past-window honored); **Halesford = 5th daughter site**,
+  seeded by a wolf's converted man (grace laundered through the god's free anger). ROYCE
+  crumbling by EXODUS not battle (men keep defecting; lost to generosity — "the defeat he
+  has no story for"); diminished, NOT finished; the town refuses him a war on principle
+  (Grace: "a war is the only thing that could make him matter"). CHIDINMA WARMER (a
+  destination now, not a bearing). THE WEST-DREAD sharpens (fireside talk of the far west
+  going "quiet in a way the plague doesn't"; Elena alone connects it to "what is coming").
+  **FLOURISHING 97→98** — the wolf dissolved with NO SHOT, 6+ souls reclaimed/converted
+  (Ruth + Halesford's five + 3–5 defectors), a 5th daughter door, Sam transformed; a
+  near-ceiling week held just off higher by the 4 past-window losses + the gathering
+  west-shadow. **FAITH HOLDS 99** — the playful-god move fully vindicated; "it was never
+  the rescuing, it was the riding" enters the gospel; the covenant serene at the top.
+  **VEIL HOLDS 85** — the entire resolution human-attributed (courage, defection, a
+  warlord's overreach); the god's hand invisible; Royce STILL never learns a god exists
+  (fame creeps, no acute exposure). **LEGACY candidates firming:** "we're the rain /
+  gloriously unnecessary" doctrine; the Halesford model (convert the predator's men via
+  the door) — count at year-end. Grace 16/18. Current: **F98 / F99 / V85, Grace 16/18.**
+  OMINOUS (unscored, sharpening): THE WEST — "what is coming," now with a direction and a
+  symptom. (Live: the homeward groups; the caravan's push toward Chidinma; Royce fading;
+  Elena quietly war-prepping. Awaiting the god's move.)
   --- (prior peacetime entries below) ---
 - Days 646-680 (god silent, autumn): the Second Autumn Fair (census of grace);
   Grace & David married; Deborah won the pie contest. **CURTIS VANE's return
