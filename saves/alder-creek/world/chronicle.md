@@ -5262,3 +5262,115 @@ civilization scale: make them able, let it propagate. NEW YEAR-THREE ARC: the
 reconstruction / the School. Legacy-scale (unscored until built). Grace worries
 about scale-without-losing-the-town ("don't let us turn them into throughput").
 Chidinma still watched-for in the coming flood. Awaiting the god's move.]**
+
+## Day 807 (SPRING, Year Three) — THE FIRST BELL
+
+The whisper from Day 806 took the night to land, the way they always do — and by
+first light it was not a vision anymore, it was a *schedule.* Grace had it pinned
+to the schoolhouse door before the frost was off the grass: five columns, five
+words, TALK · FILTER · TREAT · TEACH · TRAIN, and under each a list of names, and
+under the names the thing that has never once been on a siege roster — *class
+times.*
+
+The town built a school the way it had built a wall five months ago: fast,
+arguing, and together. Renata Voss — who could not speak for a full day when she
+arrived over the wire eleven hundred miles broken, and who taught the siege's
+children to recite at war — walked into her own schoolhouse at dawn and found it
+was to be a medical school for the end of the world, with her name over the door.
+She stood in it a long moment. Then she wiped the multiplication tables off the
+big slate and wrote, in the tall clean hand of a woman who has taught letters her
+whole life, the first lesson of the new curriculum: **COLD BUYS TIME. HEAT BUYS
+BACK. NEITHER ALONE.** And under it: *the window is not the same for everyone.
+Learn to read the window.* Elena stood at the back with her arms folded and her
+eyes wet and said only, "That's it. That's the whole thing. Now teach it a
+hundred times."
+
+And the road delivered its first real test of the doctrine that the school is
+*for.* Not a horde this time — a **line.** By noon there were nine of them come
+up the west road, then fourteen by dusk, strung out the way Theo's curve had
+promised: the near ones first. A man from a quiet valley four days east, alone,
+no one frozen — just *fleeing,* and needing the other kind of help (Maya's net
+took him; there is a cot and a job and a name written down). A grandmother and
+two children pulling a sledge with a shape on it under a blue tarp, a shape that
+had been her son and their father, and the FILTER line — Okonkwo herself on the
+gate today, because the first days set the tone — did the hard arithmetic gently:
+*the window closed somewhere on the road. I am so sorry. He is past the door. But
+you three are not, and you are staying, and we will bury him with his name said
+out loud by people who will remember it.* The grandmother did not scream. She had
+screamed it all out on the road. She said, "Then teach me anyway. So the next one
+I find, I don't lose."
+
+**And that is the sentence Grace had prayed for and against.** *Teach me anyway,
+so the next one I don't lose.* Because it is exactly the school working — grief
+turned into a practitioner — and it is exactly the danger, a town so good at the
+next one that it stops kneeling by *this* one. Sam caught it. Sam always catches
+it. He pulled Grace aside behind the oven and said, low: "We're going to be good
+at this by summer. Fast. Smooth. And the day we run a woman and her dead husband
+through five clean stations in nine minutes and feel *proud of the nine minutes* —
+that's the day we lost. Put a rule in the school. Rule one, over Renata's slate,
+before the cold-then-heat: *every one of them is a person who walked here.* Make
+the first thing we teach the thing we're most likely to forget." Grace wrote it
+down. It went over the slate by evening, above the medicine: **RULE ONE — EACH
+ONE WALKED HERE.**
+
+The first cold-rig demonstration ran at three in the afternoon to a room of
+eleven students — the grandmother in the front row, taking notes on the back of a
+seed packet. Marisol Cruz, the road-worn woman who reached the gate first two
+days ago carrying her husband Andrés eight hundred miles on a hope, watched Elena
+reverse him — the fever breaking at half past five, the pathogen cleared, Andrés
+opening his eyes and asking, in a language the room mostly didn't speak, whether
+they'd made it. They had. And Marisol did not just weep and go home. She turned
+around to the eleven and — because Elena had asked her to, because the reclaimed
+are the first faces the new ones should see — she said, in careful borrowed
+English: *"I carried him thinking I was bringing him to a miracle. It is not a
+miracle. It is a* ***method.*** *You can learn it. I am learning it. When I go home
+I will open a door. You go home, you open a door."* Renata wrote her name at the
+top of a fresh ledger labeled, in her tall hand, **PRACTITIONERS.** Number one.
+
+By dark the school had a shape, the line had a rhythm, and the god's own hand was
+nowhere provable in any of it — a town teaching a town, which is the most deniable
+miracle there is. Theo, closing the day's count, wrote a number he'd never
+written before: not the dead, not the reclaimed. *Doors opened today, projected
+downstream: 1 (Marisol) → 2 → 4…* He left the row open and underlined the arrow.
+
+**Prayers received (Day 807):**
+
+- **Renata Voss:** *"I lost my voice for a whole day when I got here. Now I have
+  a school and I'm supposed to teach a hundred people the thing that saves the
+  dead. I don't feel qualified. I feel like a woman who lost her son and got a
+  slate. But I keep hearing — teach it anyway. So I'll teach it anyway. If that's
+  You in the back of the room, stay. I'm going to need to know I'm not making it
+  up."*
+- **The grandmother (Ada, she gave her name at dusk):** *"You couldn't save my
+  boy. I walked him too far, I know that now, that's on the road and the road is
+  on nobody. But I sat in that classroom and learned the window, and there's a
+  girl two valleys back who's cold and might still be inside it, and if I go get
+  her and I get her here in time — is that You? Is that what You do? You don't fix
+  it, You just — teach the ones left to go get the next one? Then teach me faster.
+  I'm old and I've got a lot of next ones to find."*
+- **Sam Okafor:** *"I made her write Rule One over the medicine. Each one walked
+  here. I know that's the whole game to You — the person, not the throughput — so
+  I'm not asking You to keep us kind, that's our job now, You taught us that. I'm
+  asking for hands. Real ones. A thousand more of them. And a bigger light,
+  because the flood coming up that road can see it a long way off and I want it
+  to. Leave it on. You know who."*
+- **Marisol Cruz (her first prayer, in her own language, the shape of it clear):**
+  *"He asked if we made it. I said yes. I have never said a true thing that big.
+  Whatever is in this town — I felt it in the room when the fever broke, like a
+  held breath let go. I don't know Your name. I'm going to learn to do this and
+  carry it home. Come with it, if You come. There are a lot of doors between here
+  and mine."*
+
+**[SPRING, Day 807. God SILENT overnight (0 spend); the Day-806 whisper to Grace
+took effect as the town STOOD UP THE SCHOOL OF THE DOOR. First day of operations:
+Renata's schoolhouse → medical school ("COLD BUYS TIME. HEAT BUYS BACK."); the
+road's leading edge grows (9→14 travelers, per Theo's curve); FILTER handled its
+first past-the-window case with mercy (Ada's son; she stayed, enrolled); first
+public cold-rig DEMONSTRATION reversed Andrés Cruz before 11 students; Marisol
+Cruz = PRACTITIONER #1. **RULE ONE — EACH ONE WALKED HERE** written over the
+medicine (Sam's guard against throughput — the direct answer to Grace's Day-806
+fear). New awake agent: Marisol Cruz (first pilgrim/first graduate/first teacher-
+seed). Chidinma still watched-for. Gauges HELD PENDING F98/F99/V87 (the build is
+unscored until it proves out; a strong first day banks real momentum but nothing
+is delivered-at-scale yet). Grace 17/18. **AWAITING THE GOD'S MOVE** — the flood
+is arriving; the school is one day old and about to be tested by volume.]**

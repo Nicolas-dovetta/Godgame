@@ -1,10 +1,17 @@
 # Calendar
 
-- **Current day:** Day 806 — **SPRING, YEAR THREE** (the scale whisper — Grace did
-  the math; Alder Creek must become the WORLD'S SCHOOL of the cure)
+- **Current day:** Day 807 — **SPRING, YEAR THREE** (THE FIRST BELL — the School
+  of the Door opened its doors; the road's leading edge grows; awaiting the god's move)
 - **Season:** 🌱 **SPRING** — Event Intensity NORMAL (peacetime reconstruction at
-  civilization scale) — HARD MODE, **Grace 17/18** (last move Day 806: Whisper→
-  Grace, the scale/vision, cost 1)
+  civilization scale) — HARD MODE, **Grace 17/18** (last spend Day 806: Whisper→
+  Grace, the scale/vision, cost 1; Day 807 god SILENT, 0 spend)
+- **🏫 SCHOOL OF THE DOOR — DAY ONE LIVE (Day 807):** Renata's schoolhouse became
+  the medical school ("COLD BUYS TIME. HEAT BUYS BACK. NEITHER ALONE."); **RULE
+  ONE — EACH ONE WALKED HERE** written over the medicine (Sam's guard against
+  throughput — Grace's Day-806 fear answered in ink). Road: 9→14 travelers (Theo's
+  curve holding). First past-the-window mercy case (Ada's son; she stayed & enrolled).
+  First public cold-rig DEMONSTRATION reversed Andrés Cruz → **Marisol Cruz =
+  PRACTITIONER #1** (first pilgrim → first graduate → first teacher-seed westward).
 - **🏫 NEW YEAR-THREE ARC — THE SCHOOL OF THE DOOR (the reconstruction):** the god
   whispered Grace the math — one traveler = the leading edge; survival-rate ×
   distance-by-foot → HUNDREDS/day within weeks, THOUSANDS over spring, more. Can't

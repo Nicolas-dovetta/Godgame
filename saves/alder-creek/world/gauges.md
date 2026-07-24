@@ -593,6 +593,22 @@ mortal-authored rule in the manuscript; a theology of the god's own restraint)
   deniable as human medicine/logistics). **LEGACY candidate ×13** (the School of
   the Door / the cure-network — a civilization-scale institution, unscored until
   built). Grace 17/18. Current: **F98 / F99 / V87, Grace 17/18.**
+- Day 807 (SPRING Y3, god SILENT, 0 spend; Grace 17/18): the Day-806 whisper took
+  effect — THE SCHOOL OF THE DOOR opened. First day of operations ran clean: the
+  curriculum written on Renata's slate; the road's leading edge grew to 14; FILTER's
+  first past-the-window case handled with mercy (Ada stayed & enrolled); first public
+  cold-rig demo reversed Andrés Cruz (Marisol = Practitioner #1); and **RULE ONE —
+  EACH ONE WALKED HERE** put over the medicine (Sam's answer to Grace's throughput
+  fear). **GAUGES HELD PENDING F98/F99/V87** — deliberately: a strong first day banks
+  real momentum (a town rising to a civilization-scale purpose, a pilgrim converted to
+  a teacher in one day) but nothing is delivered-at-scale yet; the School is scored
+  when it proves out or breaks under volume, not on day one. FAITH note: the god was
+  silent and the town built the school itself off a single 4 a.m. whisper — the method
+  working as designed (make them able; step back). VEIL 87 steady (a town teaching a
+  town is the most deniable miracle there is). **LEGACY candidate ×13** (the School /
+  cure-network — unscored until built). Chidinma watched-for. Current: **F98 / F99 /
+  V87, Grace 17/18.** (Live: the flood's volume is the next real test; the god has not
+  yet moved this turn.)
   --- (prior peacetime entries below) ---
 - Days 646-680 (god silent, autumn): the Second Autumn Fair (census of grace);
   Grace & David married; Deborah won the pie contest. **CURTIS VANE's return

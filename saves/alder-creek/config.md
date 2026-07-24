@@ -24,15 +24,16 @@ THAW** (Day 745 — the siege, the cure, the apology, the freezer, the Winter
 Reclamation; ~1,300 reclaimed; F96/F98/V87/×12). **Currently Day 806, SPRING,
 YEAR THREE — the siege is OVER (won by the stall, not the killing cold); the
 Winter Reclamation is complete; the cure walks west on the reclaimed; the outer
-town rebuilds; the wider world is still broken.** Day 804: the god poured "the
-old friend come back" over everyone who knows it (covenant re-warmed, F97/F99/
-V87). Day 805: first living traveler up the west road seeking the cure. Day 806:
-the SCALE WHISPER to Grace → **NEW YEAR-THREE ARC: THE SCHOOL OF THE DOOR** —
-Alder Creek becomes the world's school of the cure (talk/filter/treat/teach/
-train; a self-propagating cure-site network), as the plague-scoured world starts
-walking to its door by the hundreds/thousands. **Currently Day 806, Grace
-17/18.** Open: the wider plague, the far towns, CHIDINMA (still lost; watched-for
-in the coming flood).
+town rebuilds; the wider world is still broken.** Day 806: the SCALE WHISPER to
+Grace → **NEW YEAR-THREE ARC: THE SCHOOL OF THE DOOR** — Alder Creek becomes the
+world's school of the cure (talk/filter/treat/teach/train; a self-propagating
+cure-site network), as the plague-scoured world starts walking to its door by the
+hundreds/thousands. **Day 807 (THE FIRST BELL): the School opened — curriculum on
+Renata's slate, RULE ONE ("EACH ONE WALKED HERE") over the medicine, road at 14
+travelers, first public cold-rig demo reversed Andrés Cruz → Marisol Cruz =
+Practitioner #1.** **Currently Day 807, Grace 17/18 (god silent Day 807; awaiting
+the god's move).** Open: the flood's volume (next real test), the wider plague,
+the far towns, CHIDINMA (still lost; watched-for in the coming flood).
 
 ## Pointers
 - Gauges + Grace ledger: `world/gauges.md`
