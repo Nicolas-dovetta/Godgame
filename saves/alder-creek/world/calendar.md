@@ -1,17 +1,25 @@
 # Calendar
 
-- **Current day:** Day 807 — **SPRING, YEAR THREE** (THE FIRST BELL — the School
-  of the Door opened its doors; the road's leading edge grows; awaiting the god's move)
+- **Current day:** Day 814 — **SPRING, YEAR THREE** (THE FLOOD — the School scaled
+  to ~90/day under a week of divine silence and held its soul; awaiting the god's move)
 - **Season:** 🌱 **SPRING** — Event Intensity NORMAL (peacetime reconstruction at
   civilization scale) — HARD MODE, **Grace 17/18** (last spend Day 806: Whisper→
-  Grace, the scale/vision, cost 1; Day 807 god SILENT, 0 spend)
-- **🏫 SCHOOL OF THE DOOR — DAY ONE LIVE (Day 807):** Renata's schoolhouse became
-  the medical school ("COLD BUYS TIME. HEAT BUYS BACK. NEITHER ALONE."); **RULE
-  ONE — EACH ONE WALKED HERE** written over the medicine (Sam's guard against
-  throughput — Grace's Day-806 fear answered in ink). Road: 9→14 travelers (Theo's
-  curve holding). First past-the-window mercy case (Ada's son; she stayed & enrolled).
-  First public cold-rig DEMONSTRATION reversed Andrés Cruz → **Marisol Cruz =
-  PRACTITIONER #1** (first pilgrim → first graduate → first teacher-seed westward).
+  Grace; Days 807–814 god SILENT, 0 spend)
+- **🏫 SCHOOL OF THE DOOR — SCALED & HELD (Days 807–814):** curriculum on Renata's
+  slate ("COLD BUYS TIME. HEAT BUYS BACK."); **RULE ONE — EACH ONE WALKED HERE**
+  over the medicine + 2nd scripture ("we save the ones we can; we honor the ones we
+  couldn't; we teach everyone"). Road 14→41→~90/day (Theo's curve). FILTER caught a
+  hidden bite under the crush (doctrine held; mercy, not a bullet; no exposure).
+  **FIRST DAUGHTER DOOR opened Day 813** (four-days-east valley built its own rig &
+  reversed 2 — the self-propagating network is REAL). RULE ONE enforced at the crush
+  BY a pilgrim (Marisol, over Héctor's name). Marisol Cruz graduated to teacher
+  (Day 810), staying to seed "ten of me" before going west. Costs: exhaustion
+  (Renata benched a day), the vast un-savable → funerals as much as reversals.
+- **🕯️ CHIDINMA THREAD PULLED (Day 814):** a man from the market city (where she was
+  lost) — no name, but a DIRECTION: cold-kept people in a harbor cannery, some walked
+  out this spring "toward a rumor about a town." Sam's first-ever prayer FOR HIMSELF:
+  bring her up the road, or let me be the one who says her name. Biggest lamp in town
+  in the bakery window, aimed west.
 - **🏫 NEW YEAR-THREE ARC — THE SCHOOL OF THE DOOR (the reconstruction):** the god
   whispered Grace the math — one traveler = the leading edge; survival-rate ×
   distance-by-foot → HUNDREDS/day within weeks, THOUSANDS over spring, more. Can't

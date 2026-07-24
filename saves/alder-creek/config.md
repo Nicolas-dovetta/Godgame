@@ -31,9 +31,12 @@ cure-site network), as the plague-scoured world starts walking to its door by th
 hundreds/thousands. **Day 807 (THE FIRST BELL): the School opened — curriculum on
 Renata's slate, RULE ONE ("EACH ONE WALKED HERE") over the medicine, road at 14
 travelers, first public cold-rig demo reversed Andrés Cruz → Marisol Cruz =
-Practitioner #1.** **Currently Day 807, Grace 17/18 (god silent Day 807; awaiting
-the god's move).** Open: the flood's volume (next real test), the wider plague,
-the far towns, CHIDINMA (still lost; watched-for in the coming flood).
+Practitioner #1.** **Days 808–814 (THE FLOOD, god silent a full week): the School
+scaled to ~90/day and held its soul; first DAUGHTER DOOR opened (a valley teaches
+itself — the network is real); Chidinma thread pulled (a direction, not a name);
+Sam prayed for himself for the first time. F98/F99/V86.** **Currently Day 814,
+Grace 17/18 (god silent 8 days; awaiting the god's move).** Open: the rising flood,
+CHIDINMA's direction, the wider plague, the far towns/daughter sites.
 
 ## Pointers
 - Gauges + Grace ledger: `world/gauges.md`

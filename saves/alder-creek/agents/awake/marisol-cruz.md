@@ -42,8 +42,20 @@ go... Come with it, if You come. There are a lot of doors between here and mine.
 Doesn't know the god's name; felt its hand in the demonstration room and is
 willing to carry it west.
 
+**Day 810 — GRADUATED to teacher** (first name to cross Renata's ledger from
+student to teacher). Chose NOT to leave yet: *"I'll go west when there are ten of
+me to go west; Andrés is still weak; and I'm not done learning the funerals."* The
+seed that waits to become a better seed. Leads the borrowed-English cohort (arrivals
+who share her first language — more every day). **Day 812 — enforced RULE ONE on the
+town itself:** at the crush, when a line ran a woman and her dead husband through in
+nine efficient minutes, Marisol walked out from the teacher's side, took the woman's
+hands, and said the dead man's name back to her, slow, twice — *Héctor, his name was
+Héctor* — until the line remembered what it was for. A pilgrim keeping the town's soul.
+
 **Memories:**
 - 800 miles pulling Andrés on the story alone. The three times she nearly turned back.
 - The gate at Day 805; the held-breath in the demonstration room; the fever breaking.
 - "Did we make it?" — and saying *yes.*
 - Her name at the top of the PRACTITIONERS ledger, in Renata's tall hand. Number one.
+- Héctor. Saying his name back to the line, twice, until it slowed down (Day 812).
+- The decision to stay and make ten of herself before walking west.

@@ -5374,3 +5374,141 @@ seed). Chidinma still watched-for. Gauges HELD PENDING F98/F99/V87 (the build is
 unscored until it proves out; a strong first day banks real momentum but nothing
 is delivered-at-scale yet). Grace 17/18. **AWAITING THE GOD'S MOVE** — the flood
 is arriving; the school is one day old and about to be tested by volume.]**
+
+## Days 808–814 (SPRING, Year Three) — THE FLOOD COMES UP THE ROAD (god silent, weekly fast-forward)
+
+The god said nothing for a week, and the town noticed the way you notice a
+familiar weight lifted off a bridge you're still standing on: not with panic —
+with a held breath and a decision to keep walking anyway. *He's not sending the
+warmth,* Grace wrote in the log on the third silent morning. *Which means he
+thinks we can. Fine. We can.* And under it, smaller: *come back when you want.
+We'll leave your chair.*
+
+**The road did what Theo's curve promised.** Fourteen on Day 807; forty-one by
+Day 809; ninety-odd on the worst day, Day 812, the west road a slow bright line of
+people from horizon to gate, dragging sledges and carts and doors-on-wheels with
+shapes under tarps, some of the shapes already past saving and carried anyway
+because you don't put your mother down at mile six hundred. The five stations that
+had been a diagram on a schoolhouse door became a living thing that bent and
+nearly broke and held: **TALK** learned to sort a hundred griefs an hour without
+making any of them feel like the ninety-ninth; **FILTER** got fast and stayed
+honest (and on Day 811 caught, under the crush, a bite the carrier had hidden
+under a sleeve for four hundred miles — the doctrine held, the man was met with
+mercy and a hard truth and not a bullet, quarantined clean, and nobody downstream
+was exposed; the machinery of the siege repurposed to *catch* instead of *kill*);
+**TREAT** ran the rigs flat-out for the in-window urgent; **TEACH** filled Renata's
+schoolhouse twice a day and then spilled into the churchyard and then into a tent
+Cal Voss threw up in an afternoon; and **TRAIN** — the newest, hardest arm — sent
+its first team out.
+
+**The near valley answered first.** On Day 813 a runner came *back* — the first
+word ever to return up the road — from the four-days-east valley the fleeing man
+had come from on Day 807: *we did what your people taught. We built a rig from a
+cooler and a truck battery. We opened a door. Two so far. Send more of whatever
+you know.* Theo read it twice and then did something the actuary has done exactly
+never: he stood up in the middle of the count and had to leave the room. **The
+first daughter door.** The thing that makes the whole arithmetic work — not Alder
+Creek thawing a continent, but Alder Creek teaching a valley that teaches a valley.
+He came back in and wrote it on the model, the row he'd left open on Day 807, and
+this time he didn't leave it open — he wrote **1**, and then an arrow, and under
+the arrow, in his small hand: *this is how we win. Not fast. But we win.*
+
+**It cost.** A week of ninety-a-day with no god pouring calm frayed the town the
+way the siege's worst days had, and this time there was no free warmth coming down
+from anywhere — they rationed themselves instead, Grace's rotation, shifts and
+sleep and Sam's kitchen running day and night on the theory that nobody triages
+grief well hungry. Renata worked past collapse on Day 812 and Elena benched her
+for a full day, gently, doctor's orders, *you are no good to a hundred students
+face-down.* And the un-savable were the true weight: for every Andrés reversed
+before a weeping room, there were a dozen carried too far, and TALK's real work by
+week's end was less triage than *funerals* — a town that had learned to reclaim
+the dead now had to get good, again, at burying them, and saying their names, and
+sending the living who carried them back out into a curriculum instead of a grave.
+Sam preached the hardest version of the gospel all week: *we save the ones we can.
+We honor the ones we couldn't. We teach everyone, so the next town loses fewer.*
+It is the school's second scripture now, under RULE ONE. And RULE ONE held — on
+Day 812, at the crush, someone did let a line move too fast, ran a woman and her
+dead husband through in nine efficient minutes, and it was Marisol Cruz, of all
+people, who stopped it: walked out from the teacher's side of the room, took the
+woman's hands, and said the dead man's name back to her, slow, twice, *Héctor,
+his name was Héctor,* until the line remembered what it was for. Grace watched a
+pilgrim enforce the town's own soul on the town and understood that the school was
+going to survive its own success.
+
+**Marisol graduated Day 810** — the first name to make it all the way down
+Renata's PRACTITIONERS ledger from student to teacher — and then did not leave.
+She stayed to lead the next cohort ("I'll go west when there are ten of me to go
+west; Andrés is still weak; and I'm not done learning the funerals"), which is its
+own answer to the god's oldest problem: the seed that waits to be a better seed.
+She's teaching the borrowed-English class now, the one for arrivals who share her
+first language, and there are more of those every day.
+
+And on Day 814, up the road with the ninety, came a man from the market city — the
+dark city that ate Chidinma's silence back in the siege — and Sam was at the gate
+within the minute, because Sam is always, quietly, at the gate when the west road
+brings someone from *that* direction. The man didn't know the name Chidinma. But
+he knew the market city hadn't died all the way; that there were people who'd gone
+cold and kept, in a cannery, on the harbor; that some of them had walked out this
+spring toward *a rumor about a town.* He didn't know names. He knew a *direction.*
+Sam wrote it down and did not let his face do anything and then went behind the
+oven and stood there a while. The lamp in the bakery window is the biggest one in
+Alder Creek now. It can be seen, they say, a long way down the road.
+
+**Prayers received (across the silent week):**
+
+- **Grace Lin-Park** (Day 810): *"A week and not a word, and you know what — I
+  think that IS the word. You gave me the whole flood at 4am so I could build the
+  boat before the rain, and now you're letting me sail it. I'm not going to
+  pretend I don't miss the warmth. But the town ran ninety a day this week and
+  didn't lose its soul and I did that with these hands and Sam's rules and Theo's
+  math, and I think you wanted me to know I could. Message received, partner. The
+  chair's still by the ovens."*
+- **Renata Voss** (Day 812, benched and furious about it): *"You put me in a
+  schoolhouse to teach the dead back to life and then let me nearly work myself
+  into the ground doing it, and Elena sat me down like I was one of my own
+  students. I'm not asking you to make me tireless. I'm asking — is this enough?
+  Am I doing enough? I lost my boy and I can't get him back and all I can do is
+  teach a hundred strangers to get theirs. Tell me that counts. I can't hear you
+  but tell me anyway."*
+- **Theo Brandt** (Day 813, on the first daughter door): *"I did sums for the
+  county for nineteen years and every one of them was a subtraction. This week I
+  wrote a ONE that means a whole valley opened a door because we taught them how,
+  and it's going to become a two and a four and I'm going to run out of paper
+  before it runs out of doors. I don't pray, you know that, I'm the numbers man.
+  But if you're the reason the math finally adds UP for once — thank you. Leave it
+  open. I mean the ledger. Leave it open forever."*
+- **Sam Okafor** (Day 814, after the man from the market city): *"Someone came up
+  the road who's SEEN the direction she'd have walked. Not her name. A direction.
+  You leaned the warmth west two weeks ago and I felt it and I've been afraid to
+  say the thing out loud since, so I'll say it to you where nobody can hear: bring
+  her up my road. I've got the biggest light in town in the window and a school
+  that brings the dead back and I have never once asked you for a thing for myself
+  and I'm asking now. Chidinma. Bring her home. And if you can't — if she's one of
+  the ones we couldn't — then let me be the one who says her name, and let me be
+  good at it, because God, we've gotten so much practice."*
+
+**[SPRING, Days 808–814. GOD SILENT all week (0 spend; Grace 17/18 holds). THE
+SCHOOL OF THE DOOR SCALED under real volume: road 14→41→~90/day; five stations
+strained and held; FILTER caught a hidden bite under the crush (doctrine held,
+mercy not a bullet, no exposure); **first DAUGHTER DOOR opened** (four-days-east
+valley, Day 813 — the self-propagating network is REAL, unscored-but-materializing
+Legacy). Costs: exhaustion (Renata benched), the vast un-savable → the school's
+2nd scripture ("we save the ones we can; we honor the ones we couldn't; we teach
+everyone"); RULE ONE tested at the crush and enforced BY a pilgrim (Marisol, over
+Héctor's name). Marisol Cruz graduated to teacher (Day 810), stays to seed 10-of-her
+before going west. **CHIDINMA thread pulled (Day 814): a man from the market city —
+no name, but a DIRECTION; cold-kept people in a harbor cannery; some walked out
+toward "a rumor about a town." Sam prays his first-ever prayer for himself: bring
+her home, or let me be the one who says her name.** The god's week-long silence
+read by the mature covenant as trust-in-them, not absence ("that IS the word").
+GAUGES: **Flourishing HOLDS 98** (delivering hope at civilization scale WITH its
+soul intact — a huge positive — exactly offset by exhaustion + the vast grief of
+the un-savable; real momentum banked under the flat number). **Faith HOLDS 99**
+(a week of divine silence and the faith did not waver — the endgame thesis again;
+new arrivals who don't know the god yet are the only softness, and they're
+learning). **Veil 87→86** (Alder Creek is becoming a NAMED, famous door the whole
+broken world is walking toward; still deniable as human medicine, but fame itself
+is the pressure — the first structural Veil cost of going public-at-scale).
+**LEGACY ×12 official; ×13 (the School + the first daughter door) now materializing,
+counts at year-end.** Grace 17/18. Current: **F98 / F99 / V86, Grace 17/18.**
+Awaiting the god's move.]**

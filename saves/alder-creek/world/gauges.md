@@ -609,6 +609,29 @@ mortal-authored rule in the manuscript; a theology of the god's own restraint)
   cure-network — unscored until built). Chidinma watched-for. Current: **F98 / F99 /
   V87, Grace 17/18.** (Live: the flood's volume is the next real test; the god has not
   yet moved this turn.)
+- Days 808–814 (SPRING Y3, GOD SILENT all week, 0 spend; Grace 17/18): THE FLOOD —
+  the School scaled under real volume (road 14→41→~90/day) and held its soul. FILTER
+  caught a hidden bite under the crush (doctrine held; mercy not a bullet; zero
+  exposure). **First DAUGHTER DOOR opened (Day 813)** — a four-days-east valley built
+  its own rig and reversed 2: the self-propagating network is now REAL, not projected.
+  RULE ONE tested at the crush and enforced BY a pilgrim (Marisol, over Héctor's name);
+  2nd scripture written ("we save the ones we can; we honor the ones we couldn't; we
+  teach everyone"). Costs: exhaustion (Renata benched) with NO free warmth coming down
+  (the town rationed itself); the vast un-savable → as many funerals as reversals.
+  Chidinma thread pulled (a direction, not a name). **FLOURISHING HOLDS 98** —
+  delivering hope at civilization scale WITH the soul intact (a huge positive) exactly
+  offset by exhaustion + the grief of the un-savable; real momentum banked under a flat
+  number (a daughter door, a pilgrim enforcing the town's soul on the town). **FAITH
+  HOLDS 99** — a full week of divine SILENCE and the covenant did not waver ("that IS
+  the word" — trust-as-absence, the endgame thesis once more); only softness is the new
+  arrivals who don't know the god yet, and they're learning. **VEIL 87→86** — the first
+  STRUCTURAL Veil cost of going public-at-scale: Alder Creek is becoming a NAMED, famous
+  door the whole broken world walks toward; still deniable as human medicine, but fame
+  itself is now the pressure (a known miracle-town is harder to keep quiet than a secret
+  one — the core tension resurfacing at civilization scale). **LEGACY ×12 official;
+  ×13 (the School + first daughter door) materializing, counts at year-end.** Grace
+  17/18. Current: **F98 / F99 / V86, Grace 17/18.** (Live: the flood keeps rising;
+  Chidinma's direction; the god has not moved in 8 days.)
   --- (prior peacetime entries below) ---
 - Days 646-680 (god silent, autumn): the Second Autumn Fair (census of grace);
   Grace & David married; Deborah won the pie contest. **CURTIS VANE's return
